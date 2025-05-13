@@ -1,6 +1,5 @@
 {
   "zacchaeus": {
-    "title": "Jésus et Zachée",
     "MRK": {},
     "LUK": {
       "fromChapter": "19",
@@ -14,7 +13,6 @@
     "JHN": {}
   },
   "parable-talents": {
-    "title": "Jésus raconte la parabole des talents",
     "MRK": {},
     "LUK": {
       "fromChapter": "19",
@@ -35,7 +33,6 @@
     "JHN": {}
   },
   "entry-jerusalem": {
-    "title": "Jésus entre dans Jérusalem",
     "MRK": {
       "fromChapter": "11",
       "toChapter": "11",
@@ -70,7 +67,6 @@
     }
   },
   "jesus-death-crowds": {
-    "title": "Jésus parle de sa mort aux foules",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -84,7 +80,6 @@
     }
   },
   "jews-reject-jesus": {
-    "title": "De nombreux Juifs ne croient pas en Jésus",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -98,7 +93,6 @@
     }
   },
   "jesus-weeps-crowd": {
-    "title": "Jésus pleure sur la foule",
     "MRK": {},
     "LUK": {
       "fromChapter": "19",
@@ -112,7 +106,6 @@
     "JHN": {}
   },
   "jesus-curses-figtree": {
-    "title": "Jésus maudit un figuier",
     "MRK": {
       "fromChapter": "11",
       "toChapter": "11",
@@ -133,7 +126,6 @@
     "JHN": {}
   },
   "jesus-cleanses-temple": {
-    "title": "Jésus chasse les marchands du temple",
     "MRK": {
       "fromChapter": "11",
       "toChapter": "11",
@@ -170,7 +162,6 @@
     }
   },
   "teaching-figtree": {
-    "title": "L'enseignement de Jésus à propos du figuier",
     "MRK": {
       "fromChapter": "11",
       "toChapter": "11",
@@ -193,7 +184,6 @@
     "JHN": {}
   },
   "jesus-source-authority": {
-    "title": "D'où vient l'autorité de Jésus ?",
     "MRK": {
       "fromChapter": "11",
       "toChapter": "11",
@@ -221,7 +211,6 @@
     "JHN": {}
   },
   "story-two-sons": {
-    "title": "Jésus raconte l'histoire des deux fils",
     "MRK": {},
     "LUK": {},
     "MAT": {
@@ -235,7 +224,6 @@
     "JHN": {}
   },
   "parable-wicked-servants": {
-    "title": "Jésus raconte la parabole des méchants vignerons",
     "MRK": {
       "fromChapter": "12",
       "toChapter": "12",
@@ -263,7 +251,6 @@
     "JHN": {}
   },
   "jesus-parable-wedding": {
-    "title": "Jésus raconte la parabole du repas de noces",
     "MRK": {},
     "LUK": {},
     "MAT": {
@@ -277,7 +264,6 @@
     "JHN": {}
   },
   "question-taxes": {
-    "title": "Les pharisiens et les hérodiens posent une question sur l'impôt",
     "MRK": {
       "fromChapter": "12",
       "toChapter": "12",
@@ -305,7 +291,6 @@
     "JHN": {}
   },
   "question-resurrection": {
-    "title": "Les sadducéens posent une question sur la résurrection",
     "MRK": {
       "fromChapter": "12",
       "toChapter": "12",
@@ -333,7 +318,6 @@
     "JHN": {}
   },
   "question-greatest-commandment": {
-    "title": "Un scribe pose une question sur le plus grand commandement",
     "MRK": {
       "fromChapter": "12",
       "toChapter": "12",
@@ -363,7 +347,6 @@
     "JHN": {}
   },
   "jesus-question-david": {
-    "title": "Jésus interroge la foule au sujet de David",
     "MRK": {
       "fromChapter": "12",
       "toChapter": "12",
@@ -391,7 +374,6 @@
     "JHN": {}
   },
   "jesus-warning-scribes": {
-    "title": "Jésus met en garde la foule contre les scribes",
     "MRK": {
       "fromChapter": "12",
       "toChapter": "12",
@@ -419,7 +401,6 @@
     "JHN": {}
   },
   "jesus-laments-jerusalem": {
-    "title": "Jésus se lamente sur Jérusalem",
     "MRK": {},
     "LUK": {},
     "MAT": {
@@ -433,7 +414,6 @@
     "JHN": {}
   },
   "jesus-widow": {
-    "title": "Jésus aperçoit une veuve",
     "MRK": {
       "fromChapter": "12",
       "toChapter": "12",
@@ -454,7 +434,6 @@
     "JHN": {}
   },
   "jesus-destruction-temple": {
-    "title": "Jésus annonce la destruction du temple de Jérusalem",
     "MRK": {
       "fromChapter": "13",
       "toChapter": "13",
@@ -482,7 +461,6 @@
     "JHN": {}
   },
   "jesus-endtimes-suffering": {
-    "title": "Jésus parle de la fin des temps (1) : les malheurs et la persécution",
     "MRK": {
       "fromChapter": "13",
       "toChapter": "13",
@@ -510,7 +488,6 @@
     "JHN": {}
   },
   "jesus-endtimes-abominable": {
-    "title": "Jésus parle de la fin des temps (2) : l'abominable destructeur",
     "MRK": {
       "fromChapter": "13",
       "toChapter": "13",
@@ -538,7 +515,6 @@
     "JHN": {}
   },
   "jesus-endtimes-son-man": {
-    "title": "Jésus parle de la fin des temps (3) : l'apparition du Fils de l'homme",
     "MRK": {
       "fromChapter": "13",
       "toChapter": "13",
@@ -566,7 +542,6 @@
     "JHN": {}
   },
   "parable-figtree": {
-    "title": "Jésus parle de la fin des temps (4) : la parabole du figuier",
     "MRK": {
       "fromChapter": "13",
       "toChapter": "13",
@@ -594,7 +569,6 @@
     "JHN": {}
   },
   "jesus-endtimes-unexpected": {
-    "title": "Jésus parle de la fin des temps (5) : elle va avoir lieu à un moment inattendu",
     "MRK": {
       "fromChapter": "13",
       "toChapter": "13",
@@ -615,7 +589,6 @@
     "JHN": {}
   },
   "jesus-endtimes-watch": {
-    "title": "Jésus parle de la fin des temps (6) : se préparer et prier",
     "MRK": {},
     "LUK": {
       "fromChapter": "21",
@@ -629,7 +602,6 @@
     "JHN": {}
   },
   "jesus-endtimes-faithful-servant": {
-    "title": "Jésus parle de la fin des temps (7) : être un serviteur fidèle",
     "MRK": {},
     "LUK": {
       "fromChapter": "12",
@@ -652,7 +624,6 @@
     "JHN": {}
   },
   "jesus-ten-virgins": {
-    "title": "Jésus parle de la fin des temps (8) : les dix jeunes filles",
     "MRK": {},
     "LUK": {},
     "MAT": {
@@ -666,7 +637,6 @@
     "JHN": {}
   },
   "jesus-endtimes-sheep-goats": {
-    "title": "Jésus parle de la fin des temps (9) : les moutons et les boucs",
     "MRK": {},
     "LUK": {},
     "MAT": {
@@ -680,7 +650,6 @@
     "JHN": {}
   },
   "plot-against-jesus": {
-    "title": "Les chefs des prêtres complotent contre Jésus",
     "MRK": {
       "fromChapter": "14",
       "toChapter": "14",
@@ -717,7 +686,6 @@
     }
   },
   "jesus-woman-perfume": {
-    "title": "Une femme verse du parfum sur Jésus",
     "MRK": {
       "fromChapter": "14",
       "toChapter": "14",
@@ -747,7 +715,6 @@
     }
   },
   "plot-against-lazarus": {
-    "title": "Les chefs des prêtres complotent contre Lazare",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -763,7 +730,6 @@
     }
   },
   "jesus-sells-jesus": {
-    "title": "Judas vend Jésus aux chefs des prêtres",
     "MRK": {
       "fromChapter": "14",
       "toChapter": "14",
@@ -791,7 +757,6 @@
     "JHN": {}
   },
   "last-supper-preparation": {
-    "title": "Le dernier repas (1) : préparation du dernier repas",
     "MRK": {
       "fromChapter": "14",
       "toChapter": "14",
@@ -826,7 +791,6 @@
     }
   },
   "jesus-washes-feet": {
-    "title": "Le dernier repas (2) : Jésus lave les pieds de ses disciples",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -840,7 +804,6 @@
     }
   },
   "jesus-announces-betrayal": {
-    "title": "Le dernier repas (3) : Jésus annonce que quelqu'un va le trahir",
     "MRK": {
       "fromChapter": "14",
       "toChapter": "14",
@@ -868,7 +831,6 @@
     }
   },
   "jesus-new-commandment": {
-    "title": "Le dernier repas (4) : Jésus donne un nouveau commandement",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -884,7 +846,6 @@
     }
   },
   "jesus-bread-wine": {
-    "title": "Le dernier repas (5) : Jésus partage le pain et le vin",
     "MRK": {
       "fromChapter": "14",
       "toChapter": "14",
@@ -912,7 +873,6 @@
     "JHN": {}
   },
   "last-supper-disciples-argument": {
-    "title": "Le dernier repas (6) : les disciples se disputent",
     "MRK": {},
     "LUK": {
       "fromChapter": "22",
@@ -926,7 +886,6 @@
     "JHN": {}
   },
   "jesus-announces-peter-betrayal": {
-    "title": "Le dernier repas (7) : Jésus annonce que Pierre va le trahir",
     "MRK": {
       "fromChapter": "14",
       "toChapter": "14",
@@ -963,7 +922,6 @@
     }
   },
   "jesus-way-truth-life": {
-    "title": "Le dernier repas (8) : Jésus dit qu'il est le chemin vers le Père",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -979,7 +937,6 @@
     }
   },
   "jesus-sending-spirit": {
-    "title": "Le dernier repas (8) : Jésus annonce qu'il va envoyer l'Esprit",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -995,7 +952,6 @@
     }
   },
   "jesus-disciples-dwell": {
-    "title": "Le dernier repas (9) : Jésus commande aux disciples de demeurer en lui",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -1011,7 +967,6 @@
     }
   },
   "jesus-world-hates-followers": {
-    "title": "Le dernier repas (10) : Jésus explique que le monde hait les chrétiens",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -1027,7 +982,6 @@
     }
   },
   "jesus-warning-strengthen": {
-    "title": "Le dernier repas (11) : Jésus a prévenu ses disciples pour les fortifier",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -1043,7 +997,6 @@
     }
   },
   "jesus-action-spirit": {
-    "title": "Le dernier repas (11) : Jésus explique ce que le Saint-Esprit va faire",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -1059,7 +1012,6 @@
     }
   },
   "jesus-leaving-returning": {
-    "title": "Le dernier repas (12) : Jésus annonce qu'il va bientôt partir, mais qu'il va revenir un jour",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -1075,7 +1027,6 @@
     }
   },
   "jesus-prayer-disciples": {
-    "title": "Le dernier repas (13) : Jésus prie pour ses disciples",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -1091,7 +1042,6 @@
     }
   },
   "jesus-ends-discussion": {
-    "title": "Le dernier repas (14) : Jésus met fin à la discussion",
     "MRK": {},
     "LUK": {
       "fromChapter": "22",
@@ -1105,7 +1055,6 @@
     "JHN": {}
   },
   "jesus-goto-mount-olivier": {
-    "title": "Jésus et ses disciples vont au Mont des Oliviers",
     "MRK": {
       "fromChapter": "14",
       "toChapter": "14",
@@ -1133,7 +1082,6 @@
     "JHN": {}
   },
   "judas-betrays-jesus": {
-    "title": "Judas livre Jésus aux chefs des prêtres",
     "MRK": {
       "fromChapter": "14",
       "toChapter": "14",
@@ -1168,7 +1116,6 @@
     }
   },
   "jewish-leaders-question-jesus": {
-    "title": "Les chefs juifs interrogent Jésus",
     "MRK": {
       "fromChapter": "14",
       "toChapter": "14",
@@ -1203,7 +1150,6 @@
     }
   },
   "jewish-leaders-question-jesus-john": {
-    "title": "Les chefs juifs interrogent Jésus (miette johannique)",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -1217,7 +1163,6 @@
     }
   },
   "peter-denies-jesus": {
-    "title": "Pierre renie Jésus",
     "MRK": {
       "fromChapter": "14",
       "toChapter": "14",
@@ -1252,7 +1197,6 @@
     }
   },
   "peter-denies-jesus-john": {
-    "title": "Pierre renie Jésus (miette johannique)",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -1266,7 +1210,6 @@
     }
   },
   "soldiers-mock-jesus": {
-    "title": "Les soldats moquent Jésus",
     "MRK": {},
     "LUK": {
       "fromChapter": "22",
@@ -1280,7 +1223,6 @@
     "JHN": {}
   },
   "pilate-questions-jesus": {
-    "title": "Ponce Pilate interroge Jésus",
     "MRK": {
       "fromChapter": "15",
       "toChapter": "15",
@@ -1315,7 +1257,6 @@
     }
   },
   "judas-hanging": {
-    "title": "Judas regrette son acte et va se pendre",
     "MRK": {},
     "LUK": {},
     "MAT": {
@@ -1329,7 +1270,6 @@
     "JHN": {}
   },
   "jesus-herod-pilate": {
-    "title": "Jésus chez Hérode, puis de retour chez Ponce Pilate",
     "MRK": {},
     "LUK": {
       "fromChapter": "23",
@@ -1343,7 +1283,6 @@
     "JHN": {}
   },
   "jesus-barabbas-condemned": {
-    "title": "Ponce Pilate libère Barabbas et condamne Jésus à mort",
     "MRK": {
       "fromChapter": "15",
       "toChapter": "15",
@@ -1378,7 +1317,6 @@
     }
   },
   "soldiers-mock-jesus-2": {
-    "title": "Les soldats romains se moquent de Jésus",
     "MRK": {
       "fromChapter": "15",
       "toChapter": "15",
@@ -1406,7 +1344,6 @@
     }
   },
   "soldiers-crucify-jesus": {
-    "title": "Les soldats romains crucifient Jésus",
     "MRK": {
       "fromChapter": "15",
       "toChapter": "15",
@@ -1441,7 +1378,6 @@
     }
   },
   "jesus-dies": {
-    "title": "Jésus meurt",
     "MRK": {
       "fromChapter": "15",
       "toChapter": "15",
@@ -1476,7 +1412,6 @@
     }
   },
   "soldier-pierces-side": {
-    "title": "Un soldat romain perce le côté de Jésus",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -1490,7 +1425,6 @@
     }
   },
   "joseph-tomb-jesus": {
-    "title": "Joseph d'Arimathée met le corps de Jésus dans un tombeau",
     "MRK": {
       "fromChapter": "15",
       "toChapter": "15",
@@ -1525,7 +1459,6 @@
     }
   },
   "pilate-guard-tomb": {
-    "title": "Ponce Pilate envoie des gardes surveiller le tombeau",
     "MRK": {},
     "LUK": {},
     "MAT": {
@@ -1539,7 +1472,6 @@
     "JHN": {}
   },
   "empty-tomb": {
-    "title": "Le tombeau vide",
     "MRK": {
       "fromChapter": "16",
       "toChapter": "16",
@@ -1574,7 +1506,6 @@
     }
   },
   "jesus-first-appearance": {
-    "title": "Première apparition de Jésus ressuscité",
     "MRK": {
       "fromChapter": "16",
       "toChapter": "16",
@@ -1604,7 +1535,6 @@
     }
   },
   "jewish-leaders-resurrection-lie": {
-    "title": "Les chefs juifs inventent un mensonge pour cacher la résurrection",
     "MRK": {},
     "LUK": {},
     "MAT": {
@@ -1618,7 +1548,6 @@
     "JHN": {}
   },
   "jesus-two-disciples": {
-    "title": "Deux disciples rencontrent Jésus ressuscité en chemin",
     "MRK": {
       "fromChapter": "16",
       "toChapter": "16",
@@ -1641,7 +1570,6 @@
     "JHN": {}
   },
   "jesus-eleven-disciples": {
-    "title": "Jésus ressuscité apparaît aux onze disciples",
     "MRK": {
       "fromChapter": "16",
       "toChapter": "16",
@@ -1680,7 +1608,6 @@
     }
   },
   "jesus-thomas": {
-    "title": "Jésus ressuscité et Thomas",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -1694,7 +1621,6 @@
     }
   },
   "jesus-resurrection-eating": {
-    "title": "Jésus ressuscité et les disciples mangent au bord lac de Tibériade",
     "MRK": {},
     "LUK": {},
     "MAT": {},
@@ -1708,7 +1634,6 @@
     }
   },
   "ascension": {
-    "title": "Jésus ressuscité remonte au ciel",
     "MRK": {
       "fromChapter": "16",
       "toChapter": "16",
