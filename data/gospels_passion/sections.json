@@ -155,8 +155,6 @@
       "toChapter": "2",
       "fromVerse": "13",
       "toVerse": "22",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "74",
       "toJuxta": "83"
     }
@@ -176,8 +174,6 @@
       "toChapter": "21",
       "fromVerse": "20",
       "toVerse": "22",
-      "outOfRange": false,
-      "duplicate": true,
       "fromJuxta": "724",
       "toJuxta": "726"
     },
@@ -331,8 +327,6 @@
       "toChapter": "10",
       "fromVerse": "25",
       "toVerse": "28",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "478",
       "toJuxta": "483"
     },
@@ -608,8 +602,6 @@
       "toChapter": "12",
       "fromVerse": "41",
       "toVerse": "48",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "590",
       "toJuxta": "596"
     },
@@ -679,8 +671,6 @@
       "toChapter": "11",
       "fromVerse": "45",
       "toVerse": "53",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "578",
       "toJuxta": "584"
     }
@@ -708,8 +698,6 @@
       "toChapter": "12",
       "fromVerse": "1",
       "toVerse": "8",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "590",
       "toJuxta": "595"
     }
@@ -723,8 +711,6 @@
       "toChapter": "12",
       "fromVerse": "9",
       "toVerse": "11",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "596",
       "toJuxta": "597"
     }
@@ -839,8 +825,6 @@
       "toChapter": "13",
       "fromVerse": "31",
       "toVerse": "35",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "670",
       "toJuxta": "675"
     }
@@ -915,8 +899,6 @@
       "toChapter": "13",
       "fromVerse": "36",
       "toVerse": "38",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "676",
       "toJuxta": "681"
     }
@@ -930,8 +912,6 @@
       "toChapter": "14",
       "fromVerse": "1",
       "toVerse": "14",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "682",
       "toJuxta": "697"
     }
@@ -945,8 +925,6 @@
       "toChapter": "14",
       "fromVerse": "15",
       "toVerse": "31",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "698",
       "toJuxta": "715"
     }
@@ -960,8 +938,6 @@
       "toChapter": "15",
       "fromVerse": "1",
       "toVerse": "17",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "716",
       "toJuxta": "735"
     }
@@ -975,8 +951,6 @@
       "toChapter": "15",
       "fromVerse": "18",
       "toVerse": "27",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "736",
       "toJuxta": "746"
     }
@@ -990,8 +964,6 @@
       "toChapter": "16",
       "fromVerse": "1",
       "toVerse": "4",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "747",
       "toJuxta": "751"
     }
@@ -1005,8 +977,6 @@
       "toChapter": "16",
       "fromVerse": "5",
       "toVerse": "15",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "752",
       "toJuxta": "760"
     }
@@ -1020,8 +990,6 @@
       "toChapter": "16",
       "fromVerse": "16",
       "toVerse": "33",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "761",
       "toJuxta": "782"
     }
@@ -1035,8 +1003,6 @@
       "toChapter": "17",
       "fromVerse": "1",
       "toVerse": "26",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "783",
       "toJuxta": "806"
     }
@@ -1511,8 +1477,6 @@
       "toChapter": "16",
       "fromVerse": "9",
       "toVerse": "11",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "721",
       "toJuxta": "723"
     },
@@ -1553,9 +1517,6 @@
       "toChapter": "16",
       "fromVerse": "12",
       "toVerse": "13",
-      "outOfRange": true,
-      "duplicate": false,
-      "fromJuxta": "724",
       "toJuxta": "725"
     },
     "LUK": {
@@ -1575,8 +1536,6 @@
       "toChapter": "16",
       "fromVerse": "14",
       "toVerse": "18",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "726",
       "toJuxta": "729"
     },
@@ -1593,8 +1552,6 @@
       "toChapter": "28",
       "fromVerse": "16",
       "toVerse": "20",
-      "outOfRange": false,
-      "duplicate": true,
       "fromJuxta": "1115",
       "toJuxta": "1119"
     },
@@ -1639,8 +1596,6 @@
       "toChapter": "16",
       "fromVerse": "19",
       "toVerse": "20",
-      "outOfRange": true,
-      "duplicate": false,
       "fromJuxta": "730",
       "toJuxta": "732"
     },
