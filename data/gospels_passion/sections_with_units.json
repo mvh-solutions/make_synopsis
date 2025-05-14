@@ -1,0 +1,7267 @@
+{
+  "zacchaeus": {
+    "MRK": {},
+    "LUK": {
+      "firstSentence": 832,
+      "lastSentence": 840,
+      "cvs": "19:1-10",
+      "units": [
+        {
+          "firstSentence": 832,
+          "lastSentence": 832,
+          "cv": "19:1"
+        },
+        {
+          "firstSentence": 833,
+          "lastSentence": 833,
+          "cv": "19:2"
+        },
+        {
+          "firstSentence": 834,
+          "lastSentence": 834,
+          "cv": "19:3"
+        },
+        {
+          "firstSentence": 835,
+          "lastSentence": 835,
+          "cv": "19:4"
+        },
+        {
+          "firstSentence": 836,
+          "lastSentence": 836,
+          "cv": "19:5"
+        },
+        {
+          "firstSentence": 837,
+          "lastSentence": 837,
+          "cv": "19:6"
+        },
+        {
+          "firstSentence": 838,
+          "lastSentence": 838,
+          "cv": "19:7"
+        },
+        {
+          "firstSentence": 839,
+          "lastSentence": 839,
+          "cv": "19:8"
+        },
+        {
+          "firstSentence": 840,
+          "lastSentence": 840,
+          "cv": "19:9-10"
+        }
+      ]
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "parable-talents": {
+    "MRK": {},
+    "LUK": {
+      "firstSentence": 841,
+      "lastSentence": 858,
+      "cvs": "19:11-27",
+      "units": [
+        {
+          "firstSentence": 841,
+          "lastSentence": 841,
+          "cv": "19:11"
+        },
+        {
+          "firstSentence": 842,
+          "lastSentence": 842,
+          "cv": "19:12"
+        },
+        {
+          "firstSentence": 843,
+          "lastSentence": 843,
+          "cv": "19:13"
+        },
+        {
+          "firstSentence": 844,
+          "lastSentence": 844,
+          "cv": "19:14"
+        },
+        {
+          "firstSentence": 845,
+          "lastSentence": 845,
+          "cv": "19:15"
+        },
+        {
+          "firstSentence": 846,
+          "lastSentence": 846,
+          "cv": "19:16"
+        },
+        {
+          "firstSentence": 847,
+          "lastSentence": 848,
+          "cv": "19:17"
+        },
+        {
+          "firstSentence": 849,
+          "lastSentence": 849,
+          "cv": "19:18"
+        },
+        {
+          "firstSentence": 850,
+          "lastSentence": 850,
+          "cv": "19:19"
+        },
+        {
+          "firstSentence": 851,
+          "lastSentence": 851,
+          "cv": "19:20"
+        },
+        {
+          "firstSentence": 852,
+          "lastSentence": 852,
+          "cv": "19:21"
+        },
+        {
+          "firstSentence": 853,
+          "lastSentence": 853,
+          "cv": "19:22"
+        },
+        {
+          "firstSentence": 854,
+          "lastSentence": 854,
+          "cv": "19:23"
+        },
+        {
+          "firstSentence": 855,
+          "lastSentence": 855,
+          "cv": "19:24"
+        },
+        {
+          "firstSentence": 856,
+          "lastSentence": 856,
+          "cv": "19:25"
+        },
+        {
+          "firstSentence": 857,
+          "lastSentence": 857,
+          "cv": "19:26"
+        },
+        {
+          "firstSentence": 858,
+          "lastSentence": 858,
+          "cv": "19:27"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 911,
+      "lastSentence": 932,
+      "cvs": "25:14-30",
+      "units": [
+        {
+          "firstSentence": 911,
+          "lastSentence": 911,
+          "cv": "25:14"
+        },
+        {
+          "firstSentence": 912,
+          "lastSentence": 912,
+          "cv": "25:15"
+        },
+        {
+          "firstSentence": 913,
+          "lastSentence": 913,
+          "cv": "25:16"
+        },
+        {
+          "firstSentence": 914,
+          "lastSentence": 914,
+          "cv": "25:17"
+        },
+        {
+          "firstSentence": 915,
+          "lastSentence": 915,
+          "cv": "25:18"
+        },
+        {
+          "firstSentence": 916,
+          "lastSentence": 916,
+          "cv": "25:19"
+        },
+        {
+          "firstSentence": 917,
+          "lastSentence": 917,
+          "cv": "25:20"
+        },
+        {
+          "firstSentence": 918,
+          "lastSentence": 919,
+          "cv": "25:21"
+        },
+        {
+          "firstSentence": 920,
+          "lastSentence": 921,
+          "cv": "25:22"
+        },
+        {
+          "firstSentence": 922,
+          "lastSentence": 923,
+          "cv": "25:23"
+        },
+        {
+          "firstSentence": 924,
+          "lastSentence": 924,
+          "cv": "25:24"
+        },
+        {
+          "firstSentence": 925,
+          "lastSentence": 926,
+          "cv": "25:25"
+        },
+        {
+          "firstSentence": 927,
+          "lastSentence": 928,
+          "cv": "25:26"
+        },
+        {
+          "firstSentence": 929,
+          "lastSentence": 929,
+          "cv": "25:27"
+        },
+        {
+          "firstSentence": 930,
+          "lastSentence": 930,
+          "cv": "25:28"
+        },
+        {
+          "firstSentence": 931,
+          "lastSentence": 931,
+          "cv": "25:29"
+        },
+        {
+          "firstSentence": 932,
+          "lastSentence": 932,
+          "cv": "25:30"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "entry-jerusalem": {
+    "MRK": {
+      "firstSentence": 449,
+      "lastSentence": 461,
+      "cvs": "11:1-11",
+      "units": [
+        {
+          "firstSentence": 449,
+          "lastSentence": 449,
+          "cv": "11:1-2"
+        },
+        {
+          "firstSentence": 450,
+          "lastSentence": 451,
+          "cv": "11:3"
+        },
+        {
+          "firstSentence": 452,
+          "lastSentence": 452,
+          "cv": "11:4"
+        },
+        {
+          "firstSentence": 453,
+          "lastSentence": 453,
+          "cv": "11:5"
+        },
+        {
+          "firstSentence": 454,
+          "lastSentence": 454,
+          "cv": "11:6"
+        },
+        {
+          "firstSentence": 455,
+          "lastSentence": 455,
+          "cv": "11:7"
+        },
+        {
+          "firstSentence": 456,
+          "lastSentence": 456,
+          "cv": "11:8"
+        },
+        {
+          "firstSentence": 457,
+          "lastSentence": 458,
+          "cv": "11:9"
+        },
+        {
+          "firstSentence": 459,
+          "lastSentence": 460,
+          "cv": "11:10"
+        },
+        {
+          "firstSentence": 461,
+          "lastSentence": 461,
+          "cv": "11:11"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 859,
+      "lastSentence": 870,
+      "cvs": "19:28-40",
+      "units": [
+        {
+          "firstSentence": 859,
+          "lastSentence": 859,
+          "cv": "19:28"
+        },
+        {
+          "firstSentence": 860,
+          "lastSentence": 860,
+          "cv": "19:29-30"
+        },
+        {
+          "firstSentence": 861,
+          "lastSentence": 862,
+          "cv": "19:31"
+        },
+        {
+          "firstSentence": 863,
+          "lastSentence": 863,
+          "cv": "19:32"
+        },
+        {
+          "firstSentence": 864,
+          "lastSentence": 864,
+          "cv": "19:33"
+        },
+        {
+          "firstSentence": 865,
+          "lastSentence": 865,
+          "cv": "19:34"
+        },
+        {
+          "firstSentence": 866,
+          "lastSentence": 866,
+          "cv": "19:35"
+        },
+        {
+          "firstSentence": 867,
+          "lastSentence": 867,
+          "cv": "19:36"
+        },
+        {
+          "firstSentence": 868,
+          "lastSentence": 868,
+          "cv": "19:37-38"
+        },
+        {
+          "firstSentence": 869,
+          "lastSentence": 869,
+          "cv": "19:39"
+        },
+        {
+          "firstSentence": 870,
+          "lastSentence": 870,
+          "cv": "19:40"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 704,
+      "lastSentence": 713,
+      "cvs": "21:1-11",
+      "units": [
+        {
+          "firstSentence": 704,
+          "lastSentence": 704,
+          "cv": "21:1-2"
+        },
+        {
+          "firstSentence": 705,
+          "lastSentence": 705,
+          "cv": "21:3"
+        },
+        {
+          "firstSentence": 706,
+          "lastSentence": 706,
+          "cv": "21:4-5"
+        },
+        {
+          "firstSentence": 707,
+          "lastSentence": 707,
+          "cv": "21:6-7"
+        },
+        {
+          "firstSentence": 708,
+          "lastSentence": 708,
+          "cv": "21:8"
+        },
+        {
+          "firstSentence": 709,
+          "lastSentence": 711,
+          "cv": "21:9"
+        },
+        {
+          "firstSentence": 712,
+          "lastSentence": 712,
+          "cv": "21:10"
+        },
+        {
+          "firstSentence": 713,
+          "lastSentence": 713,
+          "cv": "21:11"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 597,
+      "lastSentence": 603,
+      "cvs": "12:12-19",
+      "units": [
+        {
+          "firstSentence": 597,
+          "lastSentence": 598,
+          "cv": "12:12-13"
+        },
+        {
+          "firstSentence": 599,
+          "lastSentence": 599,
+          "cv": "12:14-15"
+        },
+        {
+          "firstSentence": 600,
+          "lastSentence": 600,
+          "cv": "12:16"
+        },
+        {
+          "firstSentence": 601,
+          "lastSentence": 601,
+          "cv": "12:17"
+        },
+        {
+          "firstSentence": 602,
+          "lastSentence": 602,
+          "cv": "12:18"
+        },
+        {
+          "firstSentence": 603,
+          "lastSentence": 603,
+          "cv": "12:19"
+        }
+      ]
+    }
+  },
+  "jesus-death-crowds": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 604,
+      "lastSentence": 626,
+      "cvs": "12:20-36",
+      "units": [
+        {
+          "firstSentence": 604,
+          "lastSentence": 604,
+          "cv": "12:20-21"
+        },
+        {
+          "firstSentence": 605,
+          "lastSentence": 605,
+          "cv": "12:22"
+        },
+        {
+          "firstSentence": 606,
+          "lastSentence": 606,
+          "cv": "12:23"
+        },
+        {
+          "firstSentence": 607,
+          "lastSentence": 607,
+          "cv": "12:24"
+        },
+        {
+          "firstSentence": 608,
+          "lastSentence": 608,
+          "cv": "12:25"
+        },
+        {
+          "firstSentence": 609,
+          "lastSentence": 610,
+          "cv": "12:26"
+        },
+        {
+          "firstSentence": 611,
+          "lastSentence": 612,
+          "cv": "12:27"
+        },
+        {
+          "firstSentence": 613,
+          "lastSentence": 614,
+          "cv": "12:28"
+        },
+        {
+          "firstSentence": 615,
+          "lastSentence": 616,
+          "cv": "12:29"
+        },
+        {
+          "firstSentence": 617,
+          "lastSentence": 617,
+          "cv": "12:30"
+        },
+        {
+          "firstSentence": 618,
+          "lastSentence": 618,
+          "cv": "12:31"
+        },
+        {
+          "firstSentence": 619,
+          "lastSentence": 619,
+          "cv": "12:32"
+        },
+        {
+          "firstSentence": 620,
+          "lastSentence": 620,
+          "cv": "12:33"
+        },
+        {
+          "firstSentence": 621,
+          "lastSentence": 622,
+          "cv": "12:34"
+        },
+        {
+          "firstSentence": 623,
+          "lastSentence": 624,
+          "cv": "12:35"
+        },
+        {
+          "firstSentence": 625,
+          "lastSentence": 626,
+          "cv": "12:36"
+        }
+      ]
+    }
+  },
+  "jews-reject-jesus": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 627,
+      "lastSentence": 638,
+      "cvs": "12:37-50",
+      "units": [
+        {
+          "firstSentence": 627,
+          "lastSentence": 628,
+          "cv": "12:37-38"
+        },
+        {
+          "firstSentence": 629,
+          "lastSentence": 629,
+          "cv": "12:39-40"
+        },
+        {
+          "firstSentence": 630,
+          "lastSentence": 630,
+          "cv": "12:41"
+        },
+        {
+          "firstSentence": 631,
+          "lastSentence": 631,
+          "cv": "12:42-43"
+        },
+        {
+          "firstSentence": 632,
+          "lastSentence": 632,
+          "cv": "12:44-45"
+        },
+        {
+          "firstSentence": 633,
+          "lastSentence": 633,
+          "cv": "12:46"
+        },
+        {
+          "firstSentence": 634,
+          "lastSentence": 634,
+          "cv": "12:47"
+        },
+        {
+          "firstSentence": 635,
+          "lastSentence": 635,
+          "cv": "12:48"
+        },
+        {
+          "firstSentence": 636,
+          "lastSentence": 636,
+          "cv": "12:49"
+        },
+        {
+          "firstSentence": 637,
+          "lastSentence": 638,
+          "cv": "12:50"
+        }
+      ]
+    }
+  },
+  "jesus-weeps-crowd": {
+    "MRK": {},
+    "LUK": {
+      "firstSentence": 871,
+      "lastSentence": 872,
+      "cvs": "19:41-44",
+      "units": [
+        {
+          "firstSentence": 871,
+          "lastSentence": 871,
+          "cv": "19:41-42"
+        },
+        {
+          "firstSentence": 872,
+          "lastSentence": 872,
+          "cv": "19:43-44"
+        }
+      ]
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "jesus-curses-figtree": {
+    "MRK": {
+      "firstSentence": 462,
+      "lastSentence": 465,
+      "cvs": "11:12-14",
+      "units": [
+        {
+          "firstSentence": 462,
+          "lastSentence": 462,
+          "cv": "11:12"
+        },
+        {
+          "firstSentence": 463,
+          "lastSentence": 463,
+          "cv": "11:13"
+        },
+        {
+          "firstSentence": 464,
+          "lastSentence": 465,
+          "cv": "11:14"
+        }
+      ]
+    },
+    "LUK": {},
+    "MAT": {
+      "firstSentence": 720,
+      "lastSentence": 722,
+      "cvs": "21:18-22",
+      "units": [
+        {
+          "firstSentence": 720,
+          "lastSentence": 720,
+          "cv": "21:18"
+        },
+        {
+          "firstSentence": 721,
+          "lastSentence": 722,
+          "cv": "21:19"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-cleanses-temple": {
+    "MRK": {
+      "firstSentence": 466,
+      "lastSentence": 471,
+      "cvs": "11:15-19",
+      "units": [
+        {
+          "firstSentence": 466,
+          "lastSentence": 466,
+          "cv": "11:15"
+        },
+        {
+          "firstSentence": 467,
+          "lastSentence": 467,
+          "cv": "11:16"
+        },
+        {
+          "firstSentence": 468,
+          "lastSentence": 469,
+          "cv": "11:17"
+        },
+        {
+          "firstSentence": 470,
+          "lastSentence": 470,
+          "cv": "11:18"
+        },
+        {
+          "firstSentence": 471,
+          "lastSentence": 471,
+          "cv": "11:19"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 873,
+      "lastSentence": 874,
+      "cvs": "19:45-48",
+      "units": [
+        {
+          "firstSentence": 873,
+          "lastSentence": 873,
+          "cv": "19:45-46"
+        },
+        {
+          "firstSentence": 874,
+          "lastSentence": 874,
+          "cv": "19:47-48"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 714,
+      "lastSentence": 719,
+      "cvs": "21:12-17",
+      "units": [
+        {
+          "firstSentence": 714,
+          "lastSentence": 714,
+          "cv": "21:12"
+        },
+        {
+          "firstSentence": 715,
+          "lastSentence": 715,
+          "cv": "21:13"
+        },
+        {
+          "firstSentence": 716,
+          "lastSentence": 716,
+          "cv": "21:14"
+        },
+        {
+          "firstSentence": 717,
+          "lastSentence": 718,
+          "cv": "21:15-16"
+        },
+        {
+          "firstSentence": 719,
+          "lastSentence": 719,
+          "cv": "21:17"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 73,
+      "lastSentence": 82,
+      "cvs": "2:13-22",
+      "units": [
+        {
+          "firstSentence": 73,
+          "lastSentence": 73,
+          "cv": "2:13"
+        },
+        {
+          "firstSentence": 74,
+          "lastSentence": 74,
+          "cv": "2:14"
+        },
+        {
+          "firstSentence": 75,
+          "lastSentence": 75,
+          "cv": "2:15"
+        },
+        {
+          "firstSentence": 76,
+          "lastSentence": 76,
+          "cv": "2:16"
+        },
+        {
+          "firstSentence": 77,
+          "lastSentence": 77,
+          "cv": "2:17"
+        },
+        {
+          "firstSentence": 78,
+          "lastSentence": 78,
+          "cv": "2:18"
+        },
+        {
+          "firstSentence": 79,
+          "lastSentence": 79,
+          "cv": "2:19"
+        },
+        {
+          "firstSentence": 80,
+          "lastSentence": 80,
+          "cv": "2:20"
+        },
+        {
+          "firstSentence": 81,
+          "lastSentence": 81,
+          "cv": "2:21"
+        },
+        {
+          "firstSentence": 82,
+          "lastSentence": 82,
+          "cv": "2:22"
+        }
+      ]
+    }
+  },
+  "teaching-figtree": {
+    "MRK": {
+      "firstSentence": 472,
+      "lastSentence": 478,
+      "cvs": "11:20-26",
+      "units": [
+        {
+          "firstSentence": 472,
+          "lastSentence": 472,
+          "cv": "11:20"
+        },
+        {
+          "firstSentence": 473,
+          "lastSentence": 473,
+          "cv": "11:21"
+        },
+        {
+          "firstSentence": 474,
+          "lastSentence": 474,
+          "cv": "11:22"
+        },
+        {
+          "firstSentence": 475,
+          "lastSentence": 475,
+          "cv": "11:23"
+        },
+        {
+          "firstSentence": 476,
+          "lastSentence": 476,
+          "cv": "11:24"
+        },
+        {
+          "firstSentence": 477,
+          "lastSentence": 477,
+          "cv": "11:25"
+        },
+        {
+          "firstSentence": 478,
+          "lastSentence": 478,
+          "cv": "11:26"
+        }
+      ]
+    },
+    "LUK": {},
+    "MAT": {
+      "firstSentence": 723,
+      "lastSentence": 725,
+      "cvs": "21:20-22",
+      "units": [
+        {
+          "firstSentence": 723,
+          "lastSentence": 723,
+          "cv": "21:20"
+        },
+        {
+          "firstSentence": 724,
+          "lastSentence": 724,
+          "cv": "21:21"
+        },
+        {
+          "firstSentence": 725,
+          "lastSentence": 725,
+          "cv": "21:22"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-source-authority": {
+    "MRK": {
+      "firstSentence": 479,
+      "lastSentence": 490,
+      "cvs": "11:27-33",
+      "units": [
+        {
+          "firstSentence": 479,
+          "lastSentence": 479,
+          "cv": "11:27"
+        },
+        {
+          "firstSentence": 480,
+          "lastSentence": 481,
+          "cv": "11:28"
+        },
+        {
+          "firstSentence": 482,
+          "lastSentence": 482,
+          "cv": "11:29"
+        },
+        {
+          "firstSentence": 483,
+          "lastSentence": 484,
+          "cv": "11:30"
+        },
+        {
+          "firstSentence": 485,
+          "lastSentence": 486,
+          "cv": "11:31"
+        },
+        {
+          "firstSentence": 487,
+          "lastSentence": 488,
+          "cv": "11:32"
+        },
+        {
+          "firstSentence": 489,
+          "lastSentence": 490,
+          "cv": "11:33"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 875,
+      "lastSentence": 880,
+      "cvs": "20:1-8",
+      "units": [
+        {
+          "firstSentence": 875,
+          "lastSentence": 875,
+          "cv": "20:1-2"
+        },
+        {
+          "firstSentence": 876,
+          "lastSentence": 876,
+          "cv": "20:3-4"
+        },
+        {
+          "firstSentence": 877,
+          "lastSentence": 877,
+          "cv": "20:5"
+        },
+        {
+          "firstSentence": 878,
+          "lastSentence": 878,
+          "cv": "20:6"
+        },
+        {
+          "firstSentence": 879,
+          "lastSentence": 879,
+          "cv": "20:7"
+        },
+        {
+          "firstSentence": 880,
+          "lastSentence": 880,
+          "cv": "20:8"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 726,
+      "lastSentence": 734,
+      "cvs": "21:23-27",
+      "units": [
+        {
+          "firstSentence": 726,
+          "lastSentence": 727,
+          "cv": "21:23"
+        },
+        {
+          "firstSentence": 728,
+          "lastSentence": 728,
+          "cv": "21:24"
+        },
+        {
+          "firstSentence": 729,
+          "lastSentence": 731,
+          "cv": "21:25"
+        },
+        {
+          "firstSentence": 732,
+          "lastSentence": 732,
+          "cv": "21:26"
+        },
+        {
+          "firstSentence": 733,
+          "lastSentence": 734,
+          "cv": "21:27"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "story-two-sons": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "firstSentence": 735,
+      "lastSentence": 743,
+      "cvs": "21:28-32",
+      "units": [
+        {
+          "firstSentence": 735,
+          "lastSentence": 736,
+          "cv": "21:28"
+        },
+        {
+          "firstSentence": 737,
+          "lastSentence": 737,
+          "cv": "21:29"
+        },
+        {
+          "firstSentence": 738,
+          "lastSentence": 739,
+          "cv": "21:30"
+        },
+        {
+          "firstSentence": 740,
+          "lastSentence": 742,
+          "cv": "21:31"
+        },
+        {
+          "firstSentence": 743,
+          "lastSentence": 743,
+          "cv": "21:32"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "parable-wicked-servants": {
+    "MRK": {
+      "firstSentence": 491,
+      "lastSentence": 503,
+      "cvs": "12:1-12",
+      "units": [
+        {
+          "firstSentence": 491,
+          "lastSentence": 491,
+          "cv": "12:1"
+        },
+        {
+          "firstSentence": 492,
+          "lastSentence": 492,
+          "cv": "12:2"
+        },
+        {
+          "firstSentence": 493,
+          "lastSentence": 493,
+          "cv": "12:3"
+        },
+        {
+          "firstSentence": 494,
+          "lastSentence": 494,
+          "cv": "12:4"
+        },
+        {
+          "firstSentence": 495,
+          "lastSentence": 495,
+          "cv": "12:5"
+        },
+        {
+          "firstSentence": 496,
+          "lastSentence": 496,
+          "cv": "12:6"
+        },
+        {
+          "firstSentence": 497,
+          "lastSentence": 497,
+          "cv": "12:7"
+        },
+        {
+          "firstSentence": 498,
+          "lastSentence": 498,
+          "cv": "12:8"
+        },
+        {
+          "firstSentence": 499,
+          "lastSentence": 500,
+          "cv": "12:9"
+        },
+        {
+          "firstSentence": 501,
+          "lastSentence": 501,
+          "cv": "12:10-11"
+        },
+        {
+          "firstSentence": 502,
+          "lastSentence": 503,
+          "cv": "12:12"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 881,
+      "lastSentence": 895,
+      "cvs": "20:9-19",
+      "units": [
+        {
+          "firstSentence": 881,
+          "lastSentence": 881,
+          "cv": "20:9"
+        },
+        {
+          "firstSentence": 882,
+          "lastSentence": 883,
+          "cv": "20:10"
+        },
+        {
+          "firstSentence": 884,
+          "lastSentence": 884,
+          "cv": "20:11"
+        },
+        {
+          "firstSentence": 885,
+          "lastSentence": 885,
+          "cv": "20:12"
+        },
+        {
+          "firstSentence": 886,
+          "lastSentence": 887,
+          "cv": "20:13"
+        },
+        {
+          "firstSentence": 888,
+          "lastSentence": 888,
+          "cv": "20:14"
+        },
+        {
+          "firstSentence": 889,
+          "lastSentence": 890,
+          "cv": "20:15"
+        },
+        {
+          "firstSentence": 891,
+          "lastSentence": 892,
+          "cv": "20:16"
+        },
+        {
+          "firstSentence": 893,
+          "lastSentence": 893,
+          "cv": "20:17"
+        },
+        {
+          "firstSentence": 894,
+          "lastSentence": 894,
+          "cv": "20:18"
+        },
+        {
+          "firstSentence": 895,
+          "lastSentence": 895,
+          "cv": "20:19"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 744,
+      "lastSentence": 757,
+      "cvs": "21:33-46",
+      "units": [
+        {
+          "firstSentence": 744,
+          "lastSentence": 744,
+          "cv": "21:33"
+        },
+        {
+          "firstSentence": 745,
+          "lastSentence": 745,
+          "cv": "21:34"
+        },
+        {
+          "firstSentence": 746,
+          "lastSentence": 746,
+          "cv": "21:35"
+        },
+        {
+          "firstSentence": 747,
+          "lastSentence": 747,
+          "cv": "21:36"
+        },
+        {
+          "firstSentence": 748,
+          "lastSentence": 748,
+          "cv": "21:37"
+        },
+        {
+          "firstSentence": 749,
+          "lastSentence": 749,
+          "cv": "21:38"
+        },
+        {
+          "firstSentence": 750,
+          "lastSentence": 750,
+          "cv": "21:39"
+        },
+        {
+          "firstSentence": 751,
+          "lastSentence": 751,
+          "cv": "21:40"
+        },
+        {
+          "firstSentence": 752,
+          "lastSentence": 752,
+          "cv": "21:41"
+        },
+        {
+          "firstSentence": 753,
+          "lastSentence": 753,
+          "cv": "21:42"
+        },
+        {
+          "firstSentence": 754,
+          "lastSentence": 754,
+          "cv": "21:43"
+        },
+        {
+          "firstSentence": 755,
+          "lastSentence": 755,
+          "cv": "21:44"
+        },
+        {
+          "firstSentence": 756,
+          "lastSentence": 756,
+          "cv": "21:45"
+        },
+        {
+          "firstSentence": 757,
+          "lastSentence": 757,
+          "cv": "21:46"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-parable-wedding": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "firstSentence": 758,
+      "lastSentence": 769,
+      "cvs": "22:1-14",
+      "units": [
+        {
+          "firstSentence": 758,
+          "lastSentence": 758,
+          "cv": "22:1-2"
+        },
+        {
+          "firstSentence": 759,
+          "lastSentence": 759,
+          "cv": "22:3"
+        },
+        {
+          "firstSentence": 760,
+          "lastSentence": 760,
+          "cv": "22:4"
+        },
+        {
+          "firstSentence": 761,
+          "lastSentence": 761,
+          "cv": "22:5"
+        },
+        {
+          "firstSentence": 762,
+          "lastSentence": 762,
+          "cv": "22:6"
+        },
+        {
+          "firstSentence": 763,
+          "lastSentence": 763,
+          "cv": "22:7"
+        },
+        {
+          "firstSentence": 764,
+          "lastSentence": 764,
+          "cv": "22:8-9"
+        },
+        {
+          "firstSentence": 765,
+          "lastSentence": 765,
+          "cv": "22:10"
+        },
+        {
+          "firstSentence": 766,
+          "lastSentence": 767,
+          "cv": "22:11-12"
+        },
+        {
+          "firstSentence": 768,
+          "lastSentence": 768,
+          "cv": "22:13"
+        },
+        {
+          "firstSentence": 769,
+          "lastSentence": 769,
+          "cv": "22:14"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "question-taxes": {
+    "MRK": {
+      "firstSentence": 504,
+      "lastSentence": 514,
+      "cvs": "12:13-17",
+      "units": [
+        {
+          "firstSentence": 504,
+          "lastSentence": 504,
+          "cv": "12:13"
+        },
+        {
+          "firstSentence": 505,
+          "lastSentence": 507,
+          "cv": "12:14"
+        },
+        {
+          "firstSentence": 508,
+          "lastSentence": 509,
+          "cv": "12:15"
+        },
+        {
+          "firstSentence": 510,
+          "lastSentence": 512,
+          "cv": "12:16"
+        },
+        {
+          "firstSentence": 513,
+          "lastSentence": 514,
+          "cv": "12:17"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 896,
+      "lastSentence": 902,
+      "cvs": "20:20-26",
+      "units": [
+        {
+          "firstSentence": 896,
+          "lastSentence": 896,
+          "cv": "20:20"
+        },
+        {
+          "firstSentence": 897,
+          "lastSentence": 897,
+          "cv": "20:21"
+        },
+        {
+          "firstSentence": 898,
+          "lastSentence": 898,
+          "cv": "20:22"
+        },
+        {
+          "firstSentence": 899,
+          "lastSentence": 900,
+          "cv": "20:23-24"
+        },
+        {
+          "firstSentence": 901,
+          "lastSentence": 901,
+          "cv": "20:25"
+        },
+        {
+          "firstSentence": 902,
+          "lastSentence": 902,
+          "cv": "20:26"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 770,
+      "lastSentence": 779,
+      "cvs": "22:15-22",
+      "units": [
+        {
+          "firstSentence": 770,
+          "lastSentence": 770,
+          "cv": "22:15"
+        },
+        {
+          "firstSentence": 771,
+          "lastSentence": 772,
+          "cv": "22:16-17"
+        },
+        {
+          "firstSentence": 773,
+          "lastSentence": 773,
+          "cv": "22:18"
+        },
+        {
+          "firstSentence": 774,
+          "lastSentence": 775,
+          "cv": "22:19"
+        },
+        {
+          "firstSentence": 776,
+          "lastSentence": 776,
+          "cv": "22:20"
+        },
+        {
+          "firstSentence": 777,
+          "lastSentence": 778,
+          "cv": "22:21"
+        },
+        {
+          "firstSentence": 779,
+          "lastSentence": 779,
+          "cv": "22:22"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "question-resurrection": {
+    "MRK": {
+      "firstSentence": 515,
+      "lastSentence": 525,
+      "cvs": "12:18-27",
+      "units": [
+        {
+          "firstSentence": 515,
+          "lastSentence": 515,
+          "cv": "12:18-19"
+        },
+        {
+          "firstSentence": 516,
+          "lastSentence": 516,
+          "cv": "12:20-21"
+        },
+        {
+          "firstSentence": 517,
+          "lastSentence": 518,
+          "cv": "12:22"
+        },
+        {
+          "firstSentence": 519,
+          "lastSentence": 520,
+          "cv": "12:23"
+        },
+        {
+          "firstSentence": 521,
+          "lastSentence": 521,
+          "cv": "12:24"
+        },
+        {
+          "firstSentence": 522,
+          "lastSentence": 522,
+          "cv": "12:25"
+        },
+        {
+          "firstSentence": 523,
+          "lastSentence": 523,
+          "cv": "12:26"
+        },
+        {
+          "firstSentence": 524,
+          "lastSentence": 525,
+          "cv": "12:27"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 903,
+      "lastSentence": 911,
+      "cvs": "20:27-40",
+      "units": [
+        {
+          "firstSentence": 903,
+          "lastSentence": 903,
+          "cv": "20:27-28"
+        },
+        {
+          "firstSentence": 904,
+          "lastSentence": 904,
+          "cv": "20:29-31"
+        },
+        {
+          "firstSentence": 905,
+          "lastSentence": 905,
+          "cv": "20:32"
+        },
+        {
+          "firstSentence": 906,
+          "lastSentence": 907,
+          "cv": "20:33"
+        },
+        {
+          "firstSentence": 908,
+          "lastSentence": 908,
+          "cv": "20:34-36"
+        },
+        {
+          "firstSentence": 909,
+          "lastSentence": 909,
+          "cv": "20:37-38"
+        },
+        {
+          "firstSentence": 910,
+          "lastSentence": 910,
+          "cv": "20:39"
+        },
+        {
+          "firstSentence": 911,
+          "lastSentence": 911,
+          "cv": "20:40"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 780,
+      "lastSentence": 789,
+      "cvs": "22:23-33",
+      "units": [
+        {
+          "firstSentence": 780,
+          "lastSentence": 780,
+          "cv": "22:23-24"
+        },
+        {
+          "firstSentence": 781,
+          "lastSentence": 781,
+          "cv": "22:25"
+        },
+        {
+          "firstSentence": 782,
+          "lastSentence": 782,
+          "cv": "22:26-27"
+        },
+        {
+          "firstSentence": 783,
+          "lastSentence": 784,
+          "cv": "22:28"
+        },
+        {
+          "firstSentence": 785,
+          "lastSentence": 785,
+          "cv": "22:29"
+        },
+        {
+          "firstSentence": 786,
+          "lastSentence": 786,
+          "cv": "22:30"
+        },
+        {
+          "firstSentence": 787,
+          "lastSentence": 788,
+          "cv": "22:31-32"
+        },
+        {
+          "firstSentence": 789,
+          "lastSentence": 789,
+          "cv": "22:33"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "question-greatest-commandment": {
+    "MRK": {
+      "firstSentence": 526,
+      "lastSentence": 532,
+      "cvs": "12:28-34",
+      "units": [
+        {
+          "firstSentence": 526,
+          "lastSentence": 526,
+          "cv": "12:28"
+        },
+        {
+          "firstSentence": 527,
+          "lastSentence": 527,
+          "cv": "12:29-30"
+        },
+        {
+          "firstSentence": 528,
+          "lastSentence": 529,
+          "cv": "12:31"
+        },
+        {
+          "firstSentence": 530,
+          "lastSentence": 530,
+          "cv": "12:32-33"
+        },
+        {
+          "firstSentence": 531,
+          "lastSentence": 532,
+          "cv": "12:34"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 477,
+      "lastSentence": 482,
+      "cvs": "10:25-28",
+      "units": [
+        {
+          "firstSentence": 477,
+          "lastSentence": 477,
+          "cv": "10:25"
+        },
+        {
+          "firstSentence": 478,
+          "lastSentence": 479,
+          "cv": "10:26"
+        },
+        {
+          "firstSentence": 480,
+          "lastSentence": 480,
+          "cv": "10:27"
+        },
+        {
+          "firstSentence": 481,
+          "lastSentence": 482,
+          "cv": "10:28"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 790,
+      "lastSentence": 795,
+      "cvs": "22:34-40",
+      "units": [
+        {
+          "firstSentence": 790,
+          "lastSentence": 790,
+          "cv": "22:34"
+        },
+        {
+          "firstSentence": 791,
+          "lastSentence": 791,
+          "cv": "22:35-36"
+        },
+        {
+          "firstSentence": 792,
+          "lastSentence": 792,
+          "cv": "22:37"
+        },
+        {
+          "firstSentence": 793,
+          "lastSentence": 793,
+          "cv": "22:38"
+        },
+        {
+          "firstSentence": 794,
+          "lastSentence": 794,
+          "cv": "22:39"
+        },
+        {
+          "firstSentence": 795,
+          "lastSentence": 795,
+          "cv": "22:40"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-question-david": {
+    "MRK": {
+      "firstSentence": 533,
+      "lastSentence": 536,
+      "cvs": "12:35-37",
+      "units": [
+        {
+          "firstSentence": 533,
+          "lastSentence": 533,
+          "cv": "12:35"
+        },
+        {
+          "firstSentence": 534,
+          "lastSentence": 534,
+          "cv": "12:36"
+        },
+        {
+          "firstSentence": 535,
+          "lastSentence": 536,
+          "cv": "12:37"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 912,
+      "lastSentence": 914,
+      "cvs": "20:41-44",
+      "units": [
+        {
+          "firstSentence": 912,
+          "lastSentence": 912,
+          "cv": "20:41"
+        },
+        {
+          "firstSentence": 913,
+          "lastSentence": 913,
+          "cv": "20:42-43"
+        },
+        {
+          "firstSentence": 914,
+          "lastSentence": 914,
+          "cv": "20:44"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 796,
+      "lastSentence": 801,
+      "cvs": "22:41-46",
+      "units": [
+        {
+          "firstSentence": 796,
+          "lastSentence": 798,
+          "cv": "22:41-42"
+        },
+        {
+          "firstSentence": 799,
+          "lastSentence": 799,
+          "cv": "22:43-44"
+        },
+        {
+          "firstSentence": 800,
+          "lastSentence": 800,
+          "cv": "22:45"
+        },
+        {
+          "firstSentence": 801,
+          "lastSentence": 801,
+          "cv": "22:46"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-warning-scribes": {
+    "MRK": {
+      "firstSentence": 537,
+      "lastSentence": 538,
+      "cvs": "12:38-40",
+      "units": [
+        {
+          "firstSentence": 537,
+          "lastSentence": 538,
+          "cv": "12:38-40"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 915,
+      "lastSentence": 915,
+      "cvs": "20:45-47",
+      "units": [
+        {
+          "firstSentence": 915,
+          "lastSentence": 915,
+          "cv": "20:45-47"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 802,
+      "lastSentence": 847,
+      "cvs": "23:1-36",
+      "units": [
+        {
+          "firstSentence": 802,
+          "lastSentence": 802,
+          "cv": "23:1-2"
+        },
+        {
+          "firstSentence": 803,
+          "lastSentence": 803,
+          "cv": "23:3"
+        },
+        {
+          "firstSentence": 804,
+          "lastSentence": 804,
+          "cv": "23:4"
+        },
+        {
+          "firstSentence": 805,
+          "lastSentence": 806,
+          "cv": "23:5"
+        },
+        {
+          "firstSentence": 807,
+          "lastSentence": 807,
+          "cv": "23:6-7"
+        },
+        {
+          "firstSentence": 808,
+          "lastSentence": 808,
+          "cv": "23:8"
+        },
+        {
+          "firstSentence": 809,
+          "lastSentence": 809,
+          "cv": "23:9"
+        },
+        {
+          "firstSentence": 810,
+          "lastSentence": 810,
+          "cv": "23:10"
+        },
+        {
+          "firstSentence": 811,
+          "lastSentence": 811,
+          "cv": "23:11"
+        },
+        {
+          "firstSentence": 812,
+          "lastSentence": 812,
+          "cv": "23:12"
+        },
+        {
+          "firstSentence": 813,
+          "lastSentence": 814,
+          "cv": "23:13"
+        },
+        {
+          "firstSentence": 815,
+          "lastSentence": 817,
+          "cv": "23:14"
+        },
+        {
+          "firstSentence": 818,
+          "lastSentence": 819,
+          "cv": "23:15"
+        },
+        {
+          "firstSentence": 820,
+          "lastSentence": 820,
+          "cv": "23:16"
+        },
+        {
+          "firstSentence": 821,
+          "lastSentence": 822,
+          "cv": "23:17"
+        },
+        {
+          "firstSentence": 823,
+          "lastSentence": 823,
+          "cv": "23:18"
+        },
+        {
+          "firstSentence": 824,
+          "lastSentence": 825,
+          "cv": "23:19"
+        },
+        {
+          "firstSentence": 826,
+          "lastSentence": 826,
+          "cv": "23:20"
+        },
+        {
+          "firstSentence": 827,
+          "lastSentence": 827,
+          "cv": "23:21"
+        },
+        {
+          "firstSentence": 828,
+          "lastSentence": 828,
+          "cv": "23:22"
+        },
+        {
+          "firstSentence": 829,
+          "lastSentence": 831,
+          "cv": "23:23"
+        },
+        {
+          "firstSentence": 832,
+          "lastSentence": 833,
+          "cv": "23:24"
+        },
+        {
+          "firstSentence": 834,
+          "lastSentence": 835,
+          "cv": "23:25"
+        },
+        {
+          "firstSentence": 836,
+          "lastSentence": 837,
+          "cv": "23:26"
+        },
+        {
+          "firstSentence": 838,
+          "lastSentence": 839,
+          "cv": "23:27"
+        },
+        {
+          "firstSentence": 840,
+          "lastSentence": 840,
+          "cv": "23:28"
+        },
+        {
+          "firstSentence": 841,
+          "lastSentence": 842,
+          "cv": "23:29-30"
+        },
+        {
+          "firstSentence": 843,
+          "lastSentence": 843,
+          "cv": "23:31-32"
+        },
+        {
+          "firstSentence": 844,
+          "lastSentence": 844,
+          "cv": "23:33"
+        },
+        {
+          "firstSentence": 845,
+          "lastSentence": 846,
+          "cv": "23:34-35"
+        },
+        {
+          "firstSentence": 847,
+          "lastSentence": 847,
+          "cv": "23:36"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-laments-jerusalem": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "firstSentence": 848,
+      "lastSentence": 851,
+      "cvs": "23:37-39",
+      "units": [
+        {
+          "firstSentence": 848,
+          "lastSentence": 849,
+          "cv": "23:37"
+        },
+        {
+          "firstSentence": 850,
+          "lastSentence": 850,
+          "cv": "23:38"
+        },
+        {
+          "firstSentence": 851,
+          "lastSentence": 851,
+          "cv": "23:39"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-widow": {
+    "MRK": {
+      "firstSentence": 539,
+      "lastSentence": 542,
+      "cvs": "12:41-44",
+      "units": [
+        {
+          "firstSentence": 539,
+          "lastSentence": 539,
+          "cv": "12:41"
+        },
+        {
+          "firstSentence": 540,
+          "lastSentence": 540,
+          "cv": "12:42"
+        },
+        {
+          "firstSentence": 541,
+          "lastSentence": 541,
+          "cv": "12:43"
+        },
+        {
+          "firstSentence": 542,
+          "lastSentence": 542,
+          "cv": "12:44"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 916,
+      "lastSentence": 918,
+      "cvs": "21:1-4",
+      "units": [
+        {
+          "firstSentence": 916,
+          "lastSentence": 916,
+          "cv": "21:1"
+        },
+        {
+          "firstSentence": 917,
+          "lastSentence": 917,
+          "cv": "21:2"
+        },
+        {
+          "firstSentence": 918,
+          "lastSentence": 918,
+          "cv": "21:3-4"
+        }
+      ]
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "jesus-destruction-temple": {
+    "MRK": {
+      "firstSentence": 543,
+      "lastSentence": 545,
+      "cvs": "13:1-2",
+      "units": [
+        {
+          "firstSentence": 543,
+          "lastSentence": 543,
+          "cv": "13:1"
+        },
+        {
+          "firstSentence": 544,
+          "lastSentence": 545,
+          "cv": "13:2"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 919,
+      "lastSentence": 919,
+      "cvs": "21:5-6",
+      "units": [
+        {
+          "firstSentence": 919,
+          "lastSentence": 919,
+          "cv": "21:5-6"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 852,
+      "lastSentence": 854,
+      "cvs": "24:1-2",
+      "units": [
+        {
+          "firstSentence": 852,
+          "lastSentence": 852,
+          "cv": "24:1"
+        },
+        {
+          "firstSentence": 853,
+          "lastSentence": 854,
+          "cv": "24:2"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-endtimes-suffering": {
+    "MRK": {
+      "firstSentence": 546,
+      "lastSentence": 557,
+      "cvs": "13:3-13",
+      "units": [
+        {
+          "firstSentence": 546,
+          "lastSentence": 546,
+          "cv": "13:3-4"
+        },
+        {
+          "firstSentence": 547,
+          "lastSentence": 547,
+          "cv": "13:5"
+        },
+        {
+          "firstSentence": 548,
+          "lastSentence": 548,
+          "cv": "13:6"
+        },
+        {
+          "firstSentence": 549,
+          "lastSentence": 549,
+          "cv": "13:7"
+        },
+        {
+          "firstSentence": 550,
+          "lastSentence": 551,
+          "cv": "13:8"
+        },
+        {
+          "firstSentence": 552,
+          "lastSentence": 552,
+          "cv": "13:9"
+        },
+        {
+          "firstSentence": 553,
+          "lastSentence": 553,
+          "cv": "13:10"
+        },
+        {
+          "firstSentence": 554,
+          "lastSentence": 554,
+          "cv": "13:11"
+        },
+        {
+          "firstSentence": 555,
+          "lastSentence": 555,
+          "cv": "13:12"
+        },
+        {
+          "firstSentence": 556,
+          "lastSentence": 557,
+          "cv": "13:13"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 920,
+      "lastSentence": 931,
+      "cvs": "21:7-19",
+      "units": [
+        {
+          "firstSentence": 920,
+          "lastSentence": 920,
+          "cv": "21:7"
+        },
+        {
+          "firstSentence": 921,
+          "lastSentence": 922,
+          "cv": "21:8"
+        },
+        {
+          "firstSentence": 923,
+          "lastSentence": 923,
+          "cv": "21:9"
+        },
+        {
+          "firstSentence": 924,
+          "lastSentence": 924,
+          "cv": "21:10-11"
+        },
+        {
+          "firstSentence": 925,
+          "lastSentence": 925,
+          "cv": "21:12"
+        },
+        {
+          "firstSentence": 926,
+          "lastSentence": 926,
+          "cv": "21:13"
+        },
+        {
+          "firstSentence": 927,
+          "lastSentence": 927,
+          "cv": "21:14-15"
+        },
+        {
+          "firstSentence": 928,
+          "lastSentence": 928,
+          "cv": "21:16"
+        },
+        {
+          "firstSentence": 929,
+          "lastSentence": 929,
+          "cv": "21:17"
+        },
+        {
+          "firstSentence": 930,
+          "lastSentence": 930,
+          "cv": "21:18"
+        },
+        {
+          "firstSentence": 931,
+          "lastSentence": 931,
+          "cv": "21:19"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 855,
+      "lastSentence": 865,
+      "cvs": "24:3-14",
+      "units": [
+        {
+          "firstSentence": 855,
+          "lastSentence": 855,
+          "cv": "24:3"
+        },
+        {
+          "firstSentence": 856,
+          "lastSentence": 856,
+          "cv": "24:4"
+        },
+        {
+          "firstSentence": 857,
+          "lastSentence": 857,
+          "cv": "24:5"
+        },
+        {
+          "firstSentence": 858,
+          "lastSentence": 859,
+          "cv": "24:6"
+        },
+        {
+          "firstSentence": 860,
+          "lastSentence": 860,
+          "cv": "24:7"
+        },
+        {
+          "firstSentence": 861,
+          "lastSentence": 861,
+          "cv": "24:8"
+        },
+        {
+          "firstSentence": 862,
+          "lastSentence": 862,
+          "cv": "24:9"
+        },
+        {
+          "firstSentence": 863,
+          "lastSentence": 863,
+          "cv": "24:10-12"
+        },
+        {
+          "firstSentence": 864,
+          "lastSentence": 864,
+          "cv": "24:13"
+        },
+        {
+          "firstSentence": 865,
+          "lastSentence": 865,
+          "cv": "24:14"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-endtimes-abominable": {
+    "MRK": {
+      "firstSentence": 558,
+      "lastSentence": 565,
+      "cvs": "13:14-23",
+      "units": [
+        {
+          "firstSentence": 558,
+          "lastSentence": 558,
+          "cv": "13:14-16"
+        },
+        {
+          "firstSentence": 559,
+          "lastSentence": 559,
+          "cv": "13:17"
+        },
+        {
+          "firstSentence": 560,
+          "lastSentence": 560,
+          "cv": "13:18-19"
+        },
+        {
+          "firstSentence": 561,
+          "lastSentence": 562,
+          "cv": "13:20"
+        },
+        {
+          "firstSentence": 563,
+          "lastSentence": 563,
+          "cv": "13:21"
+        },
+        {
+          "firstSentence": 564,
+          "lastSentence": 564,
+          "cv": "13:22"
+        },
+        {
+          "firstSentence": 565,
+          "lastSentence": 565,
+          "cv": "13:23"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 932,
+      "lastSentence": 935,
+      "cvs": "21:20-24",
+      "units": [
+        {
+          "firstSentence": 932,
+          "lastSentence": 932,
+          "cv": "21:20"
+        },
+        {
+          "firstSentence": 933,
+          "lastSentence": 933,
+          "cv": "21:21-22"
+        },
+        {
+          "firstSentence": 934,
+          "lastSentence": 934,
+          "cv": "21:23"
+        },
+        {
+          "firstSentence": 935,
+          "lastSentence": 935,
+          "cv": "21:24"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 866,
+      "lastSentence": 877,
+      "cvs": "24:15-28",
+      "units": [
+        {
+          "firstSentence": 866,
+          "lastSentence": 866,
+          "cv": "24:15-18"
+        },
+        {
+          "firstSentence": 867,
+          "lastSentence": 867,
+          "cv": "24:19"
+        },
+        {
+          "firstSentence": 868,
+          "lastSentence": 868,
+          "cv": "24:20"
+        },
+        {
+          "firstSentence": 869,
+          "lastSentence": 869,
+          "cv": "24:21"
+        },
+        {
+          "firstSentence": 870,
+          "lastSentence": 870,
+          "cv": "24:22"
+        },
+        {
+          "firstSentence": 871,
+          "lastSentence": 871,
+          "cv": "24:23"
+        },
+        {
+          "firstSentence": 872,
+          "lastSentence": 872,
+          "cv": "24:24"
+        },
+        {
+          "firstSentence": 873,
+          "lastSentence": 873,
+          "cv": "24:25"
+        },
+        {
+          "firstSentence": 874,
+          "lastSentence": 875,
+          "cv": "24:26"
+        },
+        {
+          "firstSentence": 876,
+          "lastSentence": 876,
+          "cv": "24:27"
+        },
+        {
+          "firstSentence": 877,
+          "lastSentence": 877,
+          "cv": "24:28"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-endtimes-son-man": {
+    "MRK": {
+      "firstSentence": 566,
+      "lastSentence": 567,
+      "cvs": "13:24-27",
+      "units": [
+        {
+          "firstSentence": 566,
+          "lastSentence": 566,
+          "cv": "13:24-25"
+        },
+        {
+          "firstSentence": 567,
+          "lastSentence": 567,
+          "cv": "13:26-27"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 936,
+      "lastSentence": 938,
+      "cvs": "21:25-28",
+      "units": [
+        {
+          "firstSentence": 936,
+          "lastSentence": 936,
+          "cv": "21:25-26"
+        },
+        {
+          "firstSentence": 937,
+          "lastSentence": 937,
+          "cv": "21:27"
+        },
+        {
+          "firstSentence": 938,
+          "lastSentence": 938,
+          "cv": "21:28"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 878,
+      "lastSentence": 880,
+      "cvs": "24:29-31",
+      "units": [
+        {
+          "firstSentence": 878,
+          "lastSentence": 878,
+          "cv": "24:29"
+        },
+        {
+          "firstSentence": 879,
+          "lastSentence": 879,
+          "cv": "24:30"
+        },
+        {
+          "firstSentence": 880,
+          "lastSentence": 880,
+          "cv": "24:31"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "parable-figtree": {
+    "MRK": {
+      "firstSentence": 568,
+      "lastSentence": 571,
+      "cvs": "13:28-31",
+      "units": [
+        {
+          "firstSentence": 568,
+          "lastSentence": 568,
+          "cv": "13:28"
+        },
+        {
+          "firstSentence": 569,
+          "lastSentence": 569,
+          "cv": "13:29"
+        },
+        {
+          "firstSentence": 570,
+          "lastSentence": 570,
+          "cv": "13:30"
+        },
+        {
+          "firstSentence": 571,
+          "lastSentence": 571,
+          "cv": "13:31"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 939,
+      "lastSentence": 942,
+      "cvs": "21:29-33",
+      "units": [
+        {
+          "firstSentence": 939,
+          "lastSentence": 939,
+          "cv": "21:29-30"
+        },
+        {
+          "firstSentence": 940,
+          "lastSentence": 940,
+          "cv": "21:31"
+        },
+        {
+          "firstSentence": 941,
+          "lastSentence": 941,
+          "cv": "21:32"
+        },
+        {
+          "firstSentence": 942,
+          "lastSentence": 942,
+          "cv": "21:33"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 881,
+      "lastSentence": 884,
+      "cvs": "24:32-35",
+      "units": [
+        {
+          "firstSentence": 881,
+          "lastSentence": 881,
+          "cv": "24:32"
+        },
+        {
+          "firstSentence": 882,
+          "lastSentence": 882,
+          "cv": "24:33"
+        },
+        {
+          "firstSentence": 883,
+          "lastSentence": 883,
+          "cv": "24:34"
+        },
+        {
+          "firstSentence": 884,
+          "lastSentence": 884,
+          "cv": "24:35"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-endtimes-unexpected": {
+    "MRK": {
+      "firstSentence": 572,
+      "lastSentence": 576,
+      "cvs": "13:32-37",
+      "units": [
+        {
+          "firstSentence": 572,
+          "lastSentence": 572,
+          "cv": "13:32"
+        },
+        {
+          "firstSentence": 573,
+          "lastSentence": 573,
+          "cv": "13:33"
+        },
+        {
+          "firstSentence": 574,
+          "lastSentence": 574,
+          "cv": "13:34"
+        },
+        {
+          "firstSentence": 575,
+          "lastSentence": 575,
+          "cv": "13:35-36"
+        },
+        {
+          "firstSentence": 576,
+          "lastSentence": 576,
+          "cv": "13:37"
+        }
+      ]
+    },
+    "LUK": {},
+    "MAT": {
+      "firstSentence": 885,
+      "lastSentence": 893,
+      "cvs": "24:36-44",
+      "units": [
+        {
+          "firstSentence": 885,
+          "lastSentence": 885,
+          "cv": "24:36"
+        },
+        {
+          "firstSentence": 886,
+          "lastSentence": 886,
+          "cv": "24:37"
+        },
+        {
+          "firstSentence": 887,
+          "lastSentence": 887,
+          "cv": "24:38"
+        },
+        {
+          "firstSentence": 888,
+          "lastSentence": 888,
+          "cv": "24:39"
+        },
+        {
+          "firstSentence": 889,
+          "lastSentence": 889,
+          "cv": "24:40"
+        },
+        {
+          "firstSentence": 890,
+          "lastSentence": 890,
+          "cv": "24:41"
+        },
+        {
+          "firstSentence": 891,
+          "lastSentence": 891,
+          "cv": "24:42"
+        },
+        {
+          "firstSentence": 892,
+          "lastSentence": 892,
+          "cv": "24:43"
+        },
+        {
+          "firstSentence": 893,
+          "lastSentence": 893,
+          "cv": "24:44"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-endtimes-watch": {
+    "MRK": {},
+    "LUK": {
+      "firstSentence": 943,
+      "lastSentence": 946,
+      "cvs": "21:34-38",
+      "units": [
+        {
+          "firstSentence": 943,
+          "lastSentence": 943,
+          "cv": "21:34-35"
+        },
+        {
+          "firstSentence": 944,
+          "lastSentence": 944,
+          "cv": "21:36"
+        },
+        {
+          "firstSentence": 945,
+          "lastSentence": 945,
+          "cv": "21:37"
+        },
+        {
+          "firstSentence": 946,
+          "lastSentence": 946,
+          "cv": "21:38"
+        }
+      ]
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "jesus-endtimes-faithful-servant": {
+    "MRK": {},
+    "LUK": {
+      "firstSentence": 589,
+      "lastSentence": 595,
+      "cvs": "12:41-48",
+      "units": [
+        {
+          "firstSentence": 589,
+          "lastSentence": 589,
+          "cv": "12:41"
+        },
+        {
+          "firstSentence": 590,
+          "lastSentence": 590,
+          "cv": "12:42"
+        },
+        {
+          "firstSentence": 591,
+          "lastSentence": 591,
+          "cv": "12:43"
+        },
+        {
+          "firstSentence": 592,
+          "lastSentence": 592,
+          "cv": "12:44"
+        },
+        {
+          "firstSentence": 593,
+          "lastSentence": 593,
+          "cv": "12:45-46"
+        },
+        {
+          "firstSentence": 594,
+          "lastSentence": 595,
+          "cv": "12:47-48"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 894,
+      "lastSentence": 897,
+      "cvs": "24:45-51",
+      "units": [
+        {
+          "firstSentence": 894,
+          "lastSentence": 894,
+          "cv": "24:45"
+        },
+        {
+          "firstSentence": 895,
+          "lastSentence": 895,
+          "cv": "24:46"
+        },
+        {
+          "firstSentence": 896,
+          "lastSentence": 896,
+          "cv": "24:47"
+        },
+        {
+          "firstSentence": 897,
+          "lastSentence": 897,
+          "cv": "24:48-51"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-ten-virgins": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "firstSentence": 898,
+      "lastSentence": 910,
+      "cvs": "25:1-13",
+      "units": [
+        {
+          "firstSentence": 898,
+          "lastSentence": 898,
+          "cv": "25:1"
+        },
+        {
+          "firstSentence": 899,
+          "lastSentence": 899,
+          "cv": "25:2"
+        },
+        {
+          "firstSentence": 900,
+          "lastSentence": 900,
+          "cv": "25:3-4"
+        },
+        {
+          "firstSentence": 901,
+          "lastSentence": 901,
+          "cv": "25:5"
+        },
+        {
+          "firstSentence": 902,
+          "lastSentence": 903,
+          "cv": "25:6"
+        },
+        {
+          "firstSentence": 904,
+          "lastSentence": 904,
+          "cv": "25:7"
+        },
+        {
+          "firstSentence": 905,
+          "lastSentence": 905,
+          "cv": "25:8"
+        },
+        {
+          "firstSentence": 906,
+          "lastSentence": 906,
+          "cv": "25:9"
+        },
+        {
+          "firstSentence": 907,
+          "lastSentence": 907,
+          "cv": "25:10"
+        },
+        {
+          "firstSentence": 908,
+          "lastSentence": 908,
+          "cv": "25:11"
+        },
+        {
+          "firstSentence": 909,
+          "lastSentence": 909,
+          "cv": "25:12"
+        },
+        {
+          "firstSentence": 910,
+          "lastSentence": 910,
+          "cv": "25:13"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-endtimes-sheep-goats": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "firstSentence": 933,
+      "lastSentence": 946,
+      "cvs": "25:31-46",
+      "units": [
+        {
+          "firstSentence": 933,
+          "lastSentence": 933,
+          "cv": "25:31"
+        },
+        {
+          "firstSentence": 934,
+          "lastSentence": 934,
+          "cv": "25:32"
+        },
+        {
+          "firstSentence": 935,
+          "lastSentence": 935,
+          "cv": "25:33"
+        },
+        {
+          "firstSentence": 936,
+          "lastSentence": 936,
+          "cv": "25:34"
+        },
+        {
+          "firstSentence": 937,
+          "lastSentence": 937,
+          "cv": "25:35-36"
+        },
+        {
+          "firstSentence": 938,
+          "lastSentence": 938,
+          "cv": "25:37"
+        },
+        {
+          "firstSentence": 939,
+          "lastSentence": 939,
+          "cv": "25:38"
+        },
+        {
+          "firstSentence": 940,
+          "lastSentence": 940,
+          "cv": "25:39"
+        },
+        {
+          "firstSentence": 941,
+          "lastSentence": 941,
+          "cv": "25:40"
+        },
+        {
+          "firstSentence": 942,
+          "lastSentence": 942,
+          "cv": "25:41"
+        },
+        {
+          "firstSentence": 943,
+          "lastSentence": 943,
+          "cv": "25:42-43"
+        },
+        {
+          "firstSentence": 944,
+          "lastSentence": 944,
+          "cv": "25:44"
+        },
+        {
+          "firstSentence": 945,
+          "lastSentence": 945,
+          "cv": "25:45"
+        },
+        {
+          "firstSentence": 946,
+          "lastSentence": 946,
+          "cv": "25:46"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "plot-against-jesus": {
+    "MRK": {
+      "firstSentence": 577,
+      "lastSentence": 579,
+      "cvs": "14:1-2",
+      "units": [
+        {
+          "firstSentence": 577,
+          "lastSentence": 578,
+          "cv": "14:1"
+        },
+        {
+          "firstSentence": 579,
+          "lastSentence": 579,
+          "cv": "14:2"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 947,
+      "lastSentence": 948,
+      "cvs": "22:1-2",
+      "units": [
+        {
+          "firstSentence": 947,
+          "lastSentence": 947,
+          "cv": "22:1"
+        },
+        {
+          "firstSentence": 948,
+          "lastSentence": 948,
+          "cv": "22:2"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 947,
+      "lastSentence": 948,
+      "cvs": "26:1-5",
+      "units": [
+        {
+          "firstSentence": 947,
+          "lastSentence": 947,
+          "cv": "26:1-2"
+        },
+        {
+          "firstSentence": 948,
+          "lastSentence": 948,
+          "cv": "26:3-5"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 577,
+      "lastSentence": 583,
+      "cvs": "11:45-53",
+      "units": [
+        {
+          "firstSentence": 577,
+          "lastSentence": 577,
+          "cv": "11:45-46"
+        },
+        {
+          "firstSentence": 578,
+          "lastSentence": 578,
+          "cv": "11:47"
+        },
+        {
+          "firstSentence": 579,
+          "lastSentence": 579,
+          "cv": "11:48"
+        },
+        {
+          "firstSentence": 580,
+          "lastSentence": 580,
+          "cv": "11:49"
+        },
+        {
+          "firstSentence": 581,
+          "lastSentence": 581,
+          "cv": "11:50"
+        },
+        {
+          "firstSentence": 582,
+          "lastSentence": 582,
+          "cv": "11:51-52"
+        },
+        {
+          "firstSentence": 583,
+          "lastSentence": 583,
+          "cv": "11:53"
+        }
+      ]
+    }
+  },
+  "jesus-woman-perfume": {
+    "MRK": {
+      "firstSentence": 580,
+      "lastSentence": 588,
+      "cvs": "14:3-9",
+      "units": [
+        {
+          "firstSentence": 580,
+          "lastSentence": 580,
+          "cv": "14:3"
+        },
+        {
+          "firstSentence": 581,
+          "lastSentence": 581,
+          "cv": "14:4"
+        },
+        {
+          "firstSentence": 582,
+          "lastSentence": 583,
+          "cv": "14:5"
+        },
+        {
+          "firstSentence": 584,
+          "lastSentence": 585,
+          "cv": "14:6"
+        },
+        {
+          "firstSentence": 586,
+          "lastSentence": 586,
+          "cv": "14:7"
+        },
+        {
+          "firstSentence": 587,
+          "lastSentence": 587,
+          "cv": "14:8"
+        },
+        {
+          "firstSentence": 588,
+          "lastSentence": 588,
+          "cv": "14:9"
+        }
+      ]
+    },
+    "LUK": {},
+    "MAT": {
+      "firstSentence": 949,
+      "lastSentence": 956,
+      "cvs": "26:6-13",
+      "units": [
+        {
+          "firstSentence": 949,
+          "lastSentence": 949,
+          "cv": "26:6-7"
+        },
+        {
+          "firstSentence": 950,
+          "lastSentence": 950,
+          "cv": "26:8"
+        },
+        {
+          "firstSentence": 951,
+          "lastSentence": 951,
+          "cv": "26:9"
+        },
+        {
+          "firstSentence": 952,
+          "lastSentence": 953,
+          "cv": "26:10"
+        },
+        {
+          "firstSentence": 954,
+          "lastSentence": 954,
+          "cv": "26:11"
+        },
+        {
+          "firstSentence": 955,
+          "lastSentence": 955,
+          "cv": "26:12"
+        },
+        {
+          "firstSentence": 956,
+          "lastSentence": 956,
+          "cv": "26:13"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 589,
+      "lastSentence": 594,
+      "cvs": "12:1-8",
+      "units": [
+        {
+          "firstSentence": 589,
+          "lastSentence": 589,
+          "cv": "12:1"
+        },
+        {
+          "firstSentence": 590,
+          "lastSentence": 590,
+          "cv": "12:2"
+        },
+        {
+          "firstSentence": 591,
+          "lastSentence": 591,
+          "cv": "12:3"
+        },
+        {
+          "firstSentence": 592,
+          "lastSentence": 592,
+          "cv": "12:4-5"
+        },
+        {
+          "firstSentence": 593,
+          "lastSentence": 593,
+          "cv": "12:6"
+        },
+        {
+          "firstSentence": 594,
+          "lastSentence": 594,
+          "cv": "12:7-8"
+        }
+      ]
+    }
+  },
+  "plot-against-lazarus": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 595,
+      "lastSentence": 596,
+      "cvs": "12:9-11",
+      "units": [
+        {
+          "firstSentence": 595,
+          "lastSentence": 595,
+          "cv": "12:9"
+        },
+        {
+          "firstSentence": 596,
+          "lastSentence": 596,
+          "cv": "12:10-11"
+        }
+      ]
+    }
+  },
+  "jesus-sells-jesus": {
+    "MRK": {
+      "firstSentence": 589,
+      "lastSentence": 591,
+      "cvs": "14:10-11",
+      "units": [
+        {
+          "firstSentence": 589,
+          "lastSentence": 589,
+          "cv": "14:10"
+        },
+        {
+          "firstSentence": 590,
+          "lastSentence": 591,
+          "cv": "14:11"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 949,
+      "lastSentence": 952,
+      "cvs": "22:3-6",
+      "units": [
+        {
+          "firstSentence": 949,
+          "lastSentence": 949,
+          "cv": "22:3"
+        },
+        {
+          "firstSentence": 950,
+          "lastSentence": 950,
+          "cv": "22:4"
+        },
+        {
+          "firstSentence": 951,
+          "lastSentence": 951,
+          "cv": "22:5"
+        },
+        {
+          "firstSentence": 952,
+          "lastSentence": 952,
+          "cv": "22:6"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 957,
+      "lastSentence": 959,
+      "cvs": "26:14-16",
+      "units": [
+        {
+          "firstSentence": 957,
+          "lastSentence": 958,
+          "cv": "26:14-15"
+        },
+        {
+          "firstSentence": 959,
+          "lastSentence": 959,
+          "cv": "26:16"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "last-supper-preparation": {
+    "MRK": {
+      "firstSentence": 592,
+      "lastSentence": 596,
+      "cvs": "14:12-16",
+      "units": [
+        {
+          "firstSentence": 592,
+          "lastSentence": 592,
+          "cv": "14:12"
+        },
+        {
+          "firstSentence": 593,
+          "lastSentence": 593,
+          "cv": "14:13"
+        },
+        {
+          "firstSentence": 594,
+          "lastSentence": 594,
+          "cv": "14:14"
+        },
+        {
+          "firstSentence": 595,
+          "lastSentence": 595,
+          "cv": "14:15"
+        },
+        {
+          "firstSentence": 596,
+          "lastSentence": 596,
+          "cv": "14:16"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 953,
+      "lastSentence": 959,
+      "cvs": "22:7-13",
+      "units": [
+        {
+          "firstSentence": 953,
+          "lastSentence": 953,
+          "cv": "22:7"
+        },
+        {
+          "firstSentence": 954,
+          "lastSentence": 954,
+          "cv": "22:8"
+        },
+        {
+          "firstSentence": 955,
+          "lastSentence": 955,
+          "cv": "22:9"
+        },
+        {
+          "firstSentence": 956,
+          "lastSentence": 956,
+          "cv": "22:10"
+        },
+        {
+          "firstSentence": 957,
+          "lastSentence": 957,
+          "cv": "22:11"
+        },
+        {
+          "firstSentence": 958,
+          "lastSentence": 958,
+          "cv": "22:12"
+        },
+        {
+          "firstSentence": 959,
+          "lastSentence": 959,
+          "cv": "22:13"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 960,
+      "lastSentence": 962,
+      "cvs": "26:17-19",
+      "units": [
+        {
+          "firstSentence": 960,
+          "lastSentence": 960,
+          "cv": "26:17"
+        },
+        {
+          "firstSentence": 961,
+          "lastSentence": 961,
+          "cv": "26:18"
+        },
+        {
+          "firstSentence": 962,
+          "lastSentence": 962,
+          "cv": "26:19"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 639,
+      "lastSentence": 639,
+      "cvs": "13:1",
+      "units": [
+        {
+          "firstSentence": 639,
+          "lastSentence": 639,
+          "cv": "13:1"
+        }
+      ]
+    }
+  },
+  "jesus-washes-feet": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 640,
+      "lastSentence": 657,
+      "cvs": "13:2-20",
+      "units": [
+        {
+          "firstSentence": 640,
+          "lastSentence": 640,
+          "cv": "13:2-5"
+        },
+        {
+          "firstSentence": 641,
+          "lastSentence": 641,
+          "cv": "13:6"
+        },
+        {
+          "firstSentence": 642,
+          "lastSentence": 642,
+          "cv": "13:7"
+        },
+        {
+          "firstSentence": 643,
+          "lastSentence": 644,
+          "cv": "13:8"
+        },
+        {
+          "firstSentence": 645,
+          "lastSentence": 645,
+          "cv": "13:9"
+        },
+        {
+          "firstSentence": 646,
+          "lastSentence": 646,
+          "cv": "13:10"
+        },
+        {
+          "firstSentence": 647,
+          "lastSentence": 647,
+          "cv": "13:11"
+        },
+        {
+          "firstSentence": 648,
+          "lastSentence": 648,
+          "cv": "13:12"
+        },
+        {
+          "firstSentence": 649,
+          "lastSentence": 649,
+          "cv": "13:13"
+        },
+        {
+          "firstSentence": 650,
+          "lastSentence": 650,
+          "cv": "13:14"
+        },
+        {
+          "firstSentence": 651,
+          "lastSentence": 651,
+          "cv": "13:15"
+        },
+        {
+          "firstSentence": 652,
+          "lastSentence": 652,
+          "cv": "13:16"
+        },
+        {
+          "firstSentence": 653,
+          "lastSentence": 653,
+          "cv": "13:17"
+        },
+        {
+          "firstSentence": 654,
+          "lastSentence": 655,
+          "cv": "13:18"
+        },
+        {
+          "firstSentence": 656,
+          "lastSentence": 656,
+          "cv": "13:19"
+        },
+        {
+          "firstSentence": 657,
+          "lastSentence": 657,
+          "cv": "13:20"
+        }
+      ]
+    }
+  },
+  "jesus-announces-betrayal": {
+    "MRK": {
+      "firstSentence": 597,
+      "lastSentence": 601,
+      "cvs": "14:17-21",
+      "units": [
+        {
+          "firstSentence": 597,
+          "lastSentence": 597,
+          "cv": "14:17"
+        },
+        {
+          "firstSentence": 598,
+          "lastSentence": 598,
+          "cv": "14:18"
+        },
+        {
+          "firstSentence": 599,
+          "lastSentence": 599,
+          "cv": "14:19"
+        },
+        {
+          "firstSentence": 600,
+          "lastSentence": 600,
+          "cv": "14:20"
+        },
+        {
+          "firstSentence": 601,
+          "lastSentence": 601,
+          "cv": "14:21"
+        }
+      ]
+    },
+    "LUK": {},
+    "MAT": {
+      "firstSentence": 963,
+      "lastSentence": 969,
+      "cvs": "26:20-25",
+      "units": [
+        {
+          "firstSentence": 963,
+          "lastSentence": 963,
+          "cv": "26:20-21"
+        },
+        {
+          "firstSentence": 964,
+          "lastSentence": 964,
+          "cv": "26:22"
+        },
+        {
+          "firstSentence": 965,
+          "lastSentence": 965,
+          "cv": "26:23"
+        },
+        {
+          "firstSentence": 966,
+          "lastSentence": 967,
+          "cv": "26:24"
+        },
+        {
+          "firstSentence": 968,
+          "lastSentence": 969,
+          "cv": "26:25"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 658,
+      "lastSentence": 668,
+      "cvs": "13:21-30",
+      "units": [
+        {
+          "firstSentence": 658,
+          "lastSentence": 658,
+          "cv": "13:21"
+        },
+        {
+          "firstSentence": 659,
+          "lastSentence": 659,
+          "cv": "13:22"
+        },
+        {
+          "firstSentence": 660,
+          "lastSentence": 660,
+          "cv": "13:23"
+        },
+        {
+          "firstSentence": 661,
+          "lastSentence": 661,
+          "cv": "13:24"
+        },
+        {
+          "firstSentence": 662,
+          "lastSentence": 662,
+          "cv": "13:25"
+        },
+        {
+          "firstSentence": 663,
+          "lastSentence": 664,
+          "cv": "13:26"
+        },
+        {
+          "firstSentence": 665,
+          "lastSentence": 666,
+          "cv": "13:27"
+        },
+        {
+          "firstSentence": 667,
+          "lastSentence": 667,
+          "cv": "13:28-29"
+        },
+        {
+          "firstSentence": 668,
+          "lastSentence": 668,
+          "cv": "13:30"
+        }
+      ]
+    }
+  },
+  "jesus-new-commandment": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 669,
+      "lastSentence": 674,
+      "cvs": "13:31-35",
+      "units": [
+        {
+          "firstSentence": 669,
+          "lastSentence": 669,
+          "cv": "13:31"
+        },
+        {
+          "firstSentence": 670,
+          "lastSentence": 670,
+          "cv": "13:32"
+        },
+        {
+          "firstSentence": 671,
+          "lastSentence": 672,
+          "cv": "13:33"
+        },
+        {
+          "firstSentence": 673,
+          "lastSentence": 673,
+          "cv": "13:34"
+        },
+        {
+          "firstSentence": 674,
+          "lastSentence": 674,
+          "cv": "13:35"
+        }
+      ]
+    }
+  },
+  "jesus-bread-wine": {
+    "MRK": {
+      "firstSentence": 602,
+      "lastSentence": 606,
+      "cvs": "14:22-26",
+      "units": [
+        {
+          "firstSentence": 602,
+          "lastSentence": 602,
+          "cv": "14:22"
+        },
+        {
+          "firstSentence": 603,
+          "lastSentence": 603,
+          "cv": "14:23"
+        },
+        {
+          "firstSentence": 604,
+          "lastSentence": 604,
+          "cv": "14:24"
+        },
+        {
+          "firstSentence": 605,
+          "lastSentence": 605,
+          "cv": "14:25"
+        },
+        {
+          "firstSentence": 606,
+          "lastSentence": 606,
+          "cv": "14:26"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 960,
+      "lastSentence": 968,
+      "cvs": "22:14-23",
+      "units": [
+        {
+          "firstSentence": 960,
+          "lastSentence": 960,
+          "cv": "22:14"
+        },
+        {
+          "firstSentence": 961,
+          "lastSentence": 961,
+          "cv": "22:15"
+        },
+        {
+          "firstSentence": 962,
+          "lastSentence": 962,
+          "cv": "22:16"
+        },
+        {
+          "firstSentence": 963,
+          "lastSentence": 963,
+          "cv": "22:17"
+        },
+        {
+          "firstSentence": 964,
+          "lastSentence": 964,
+          "cv": "22:18"
+        },
+        {
+          "firstSentence": 965,
+          "lastSentence": 965,
+          "cv": "22:19"
+        },
+        {
+          "firstSentence": 966,
+          "lastSentence": 966,
+          "cv": "22:20"
+        },
+        {
+          "firstSentence": 967,
+          "lastSentence": 967,
+          "cv": "22:21-22"
+        },
+        {
+          "firstSentence": 968,
+          "lastSentence": 968,
+          "cv": "22:23"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 970,
+      "lastSentence": 973,
+      "cvs": "26:26-30",
+      "units": [
+        {
+          "firstSentence": 970,
+          "lastSentence": 970,
+          "cv": "26:26"
+        },
+        {
+          "firstSentence": 971,
+          "lastSentence": 971,
+          "cv": "26:27-28"
+        },
+        {
+          "firstSentence": 972,
+          "lastSentence": 972,
+          "cv": "26:29"
+        },
+        {
+          "firstSentence": 973,
+          "lastSentence": 973,
+          "cv": "26:30"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "last-supper-disciples-argument": {
+    "MRK": {},
+    "LUK": {
+      "firstSentence": 969,
+      "lastSentence": 976,
+      "cvs": "22:24-30",
+      "units": [
+        {
+          "firstSentence": 969,
+          "lastSentence": 969,
+          "cv": "22:24"
+        },
+        {
+          "firstSentence": 970,
+          "lastSentence": 970,
+          "cv": "22:25"
+        },
+        {
+          "firstSentence": 971,
+          "lastSentence": 971,
+          "cv": "22:26"
+        },
+        {
+          "firstSentence": 972,
+          "lastSentence": 974,
+          "cv": "22:27"
+        },
+        {
+          "firstSentence": 975,
+          "lastSentence": 975,
+          "cv": "22:28"
+        },
+        {
+          "firstSentence": 976,
+          "lastSentence": 976,
+          "cv": "22:29-30"
+        }
+      ]
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "jesus-announces-peter-betrayal": {
+    "MRK": {
+      "firstSentence": 607,
+      "lastSentence": 612,
+      "cvs": "14:27-31",
+      "units": [
+        {
+          "firstSentence": 607,
+          "lastSentence": 607,
+          "cv": "14:27"
+        },
+        {
+          "firstSentence": 608,
+          "lastSentence": 608,
+          "cv": "14:28"
+        },
+        {
+          "firstSentence": 609,
+          "lastSentence": 609,
+          "cv": "14:29"
+        },
+        {
+          "firstSentence": 610,
+          "lastSentence": 610,
+          "cv": "14:30"
+        },
+        {
+          "firstSentence": 611,
+          "lastSentence": 612,
+          "cv": "14:31"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 977,
+      "lastSentence": 979,
+      "cvs": "22:31-34",
+      "units": [
+        {
+          "firstSentence": 977,
+          "lastSentence": 977,
+          "cv": "22:31-32"
+        },
+        {
+          "firstSentence": 978,
+          "lastSentence": 978,
+          "cv": "22:33"
+        },
+        {
+          "firstSentence": 979,
+          "lastSentence": 979,
+          "cv": "22:34"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 974,
+      "lastSentence": 978,
+      "cvs": "26:31-35",
+      "units": [
+        {
+          "firstSentence": 974,
+          "lastSentence": 974,
+          "cv": "26:31"
+        },
+        {
+          "firstSentence": 975,
+          "lastSentence": 975,
+          "cv": "26:32"
+        },
+        {
+          "firstSentence": 976,
+          "lastSentence": 976,
+          "cv": "26:33"
+        },
+        {
+          "firstSentence": 977,
+          "lastSentence": 977,
+          "cv": "26:34"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 675,
+      "lastSentence": 680,
+      "cvs": "13:36-38",
+      "units": [
+        {
+          "firstSentence": 675,
+          "lastSentence": 676,
+          "cv": "13:36"
+        },
+        {
+          "firstSentence": 677,
+          "lastSentence": 678,
+          "cv": "13:37"
+        },
+        {
+          "firstSentence": 679,
+          "lastSentence": 680,
+          "cv": "13:38"
+        }
+      ]
+    }
+  },
+  "jesus-way-truth-life": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 681,
+      "lastSentence": 696,
+      "cvs": "14:1-14",
+      "units": [
+        {
+          "firstSentence": 681,
+          "lastSentence": 681,
+          "cv": "14:1"
+        },
+        {
+          "firstSentence": 682,
+          "lastSentence": 682,
+          "cv": "14:2-3"
+        },
+        {
+          "firstSentence": 683,
+          "lastSentence": 683,
+          "cv": "14:4"
+        },
+        {
+          "firstSentence": 684,
+          "lastSentence": 684,
+          "cv": "14:5"
+        },
+        {
+          "firstSentence": 685,
+          "lastSentence": 686,
+          "cv": "14:6"
+        },
+        {
+          "firstSentence": 687,
+          "lastSentence": 687,
+          "cv": "14:7"
+        },
+        {
+          "firstSentence": 688,
+          "lastSentence": 688,
+          "cv": "14:8"
+        },
+        {
+          "firstSentence": 689,
+          "lastSentence": 690,
+          "cv": "14:9"
+        },
+        {
+          "firstSentence": 691,
+          "lastSentence": 692,
+          "cv": "14:10"
+        },
+        {
+          "firstSentence": 693,
+          "lastSentence": 693,
+          "cv": "14:11"
+        },
+        {
+          "firstSentence": 694,
+          "lastSentence": 694,
+          "cv": "14:12"
+        },
+        {
+          "firstSentence": 695,
+          "lastSentence": 695,
+          "cv": "14:13"
+        },
+        {
+          "firstSentence": 696,
+          "lastSentence": 696,
+          "cv": "14:14"
+        }
+      ]
+    }
+  },
+  "jesus-sending-spirit": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 697,
+      "lastSentence": 714,
+      "cvs": "14:15-31",
+      "units": [
+        {
+          "firstSentence": 697,
+          "lastSentence": 697,
+          "cv": "14:15"
+        },
+        {
+          "firstSentence": 698,
+          "lastSentence": 699,
+          "cv": "14:16-17"
+        },
+        {
+          "firstSentence": 700,
+          "lastSentence": 700,
+          "cv": "14:18"
+        },
+        {
+          "firstSentence": 701,
+          "lastSentence": 701,
+          "cv": "14:19"
+        },
+        {
+          "firstSentence": 702,
+          "lastSentence": 702,
+          "cv": "14:20"
+        },
+        {
+          "firstSentence": 703,
+          "lastSentence": 703,
+          "cv": "14:21"
+        },
+        {
+          "firstSentence": 704,
+          "lastSentence": 704,
+          "cv": "14:22"
+        },
+        {
+          "firstSentence": 705,
+          "lastSentence": 705,
+          "cv": "14:23"
+        },
+        {
+          "firstSentence": 706,
+          "lastSentence": 706,
+          "cv": "14:24"
+        },
+        {
+          "firstSentence": 707,
+          "lastSentence": 707,
+          "cv": "14:25-26"
+        },
+        {
+          "firstSentence": 708,
+          "lastSentence": 709,
+          "cv": "14:27"
+        },
+        {
+          "firstSentence": 710,
+          "lastSentence": 711,
+          "cv": "14:28"
+        },
+        {
+          "firstSentence": 712,
+          "lastSentence": 712,
+          "cv": "14:29"
+        },
+        {
+          "firstSentence": 713,
+          "lastSentence": 714,
+          "cv": "14:30-31"
+        }
+      ]
+    }
+  },
+  "jesus-disciples-dwell": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 715,
+      "lastSentence": 734,
+      "cvs": "15:1-17",
+      "units": [
+        {
+          "firstSentence": 715,
+          "lastSentence": 715,
+          "cv": "15:1"
+        },
+        {
+          "firstSentence": 716,
+          "lastSentence": 716,
+          "cv": "15:2"
+        },
+        {
+          "firstSentence": 717,
+          "lastSentence": 717,
+          "cv": "15:3"
+        },
+        {
+          "firstSentence": 718,
+          "lastSentence": 719,
+          "cv": "15:4"
+        },
+        {
+          "firstSentence": 720,
+          "lastSentence": 721,
+          "cv": "15:5"
+        },
+        {
+          "firstSentence": 722,
+          "lastSentence": 722,
+          "cv": "15:6"
+        },
+        {
+          "firstSentence": 723,
+          "lastSentence": 723,
+          "cv": "15:7"
+        },
+        {
+          "firstSentence": 724,
+          "lastSentence": 724,
+          "cv": "15:8"
+        },
+        {
+          "firstSentence": 725,
+          "lastSentence": 725,
+          "cv": "15:9"
+        },
+        {
+          "firstSentence": 726,
+          "lastSentence": 726,
+          "cv": "15:10"
+        },
+        {
+          "firstSentence": 727,
+          "lastSentence": 727,
+          "cv": "15:11"
+        },
+        {
+          "firstSentence": 728,
+          "lastSentence": 728,
+          "cv": "15:12"
+        },
+        {
+          "firstSentence": 729,
+          "lastSentence": 729,
+          "cv": "15:13"
+        },
+        {
+          "firstSentence": 730,
+          "lastSentence": 730,
+          "cv": "15:14"
+        },
+        {
+          "firstSentence": 731,
+          "lastSentence": 732,
+          "cv": "15:15"
+        },
+        {
+          "firstSentence": 733,
+          "lastSentence": 733,
+          "cv": "15:16"
+        },
+        {
+          "firstSentence": 734,
+          "lastSentence": 734,
+          "cv": "15:17"
+        }
+      ]
+    }
+  },
+  "jesus-world-hates-followers": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 735,
+      "lastSentence": 745,
+      "cvs": "15:18-27",
+      "units": [
+        {
+          "firstSentence": 735,
+          "lastSentence": 735,
+          "cv": "15:18"
+        },
+        {
+          "firstSentence": 736,
+          "lastSentence": 736,
+          "cv": "15:19"
+        },
+        {
+          "firstSentence": 737,
+          "lastSentence": 738,
+          "cv": "15:20"
+        },
+        {
+          "firstSentence": 739,
+          "lastSentence": 739,
+          "cv": "15:21"
+        },
+        {
+          "firstSentence": 740,
+          "lastSentence": 740,
+          "cv": "15:22"
+        },
+        {
+          "firstSentence": 741,
+          "lastSentence": 741,
+          "cv": "15:23"
+        },
+        {
+          "firstSentence": 742,
+          "lastSentence": 742,
+          "cv": "15:24"
+        },
+        {
+          "firstSentence": 743,
+          "lastSentence": 743,
+          "cv": "15:25"
+        },
+        {
+          "firstSentence": 744,
+          "lastSentence": 744,
+          "cv": "15:26"
+        },
+        {
+          "firstSentence": 745,
+          "lastSentence": 745,
+          "cv": "15:27"
+        }
+      ]
+    }
+  },
+  "jesus-warning-strengthen": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 746,
+      "lastSentence": 750,
+      "cvs": "16:1-4",
+      "units": [
+        {
+          "firstSentence": 746,
+          "lastSentence": 746,
+          "cv": "16:1"
+        },
+        {
+          "firstSentence": 747,
+          "lastSentence": 747,
+          "cv": "16:2"
+        },
+        {
+          "firstSentence": 748,
+          "lastSentence": 748,
+          "cv": "16:3"
+        },
+        {
+          "firstSentence": 749,
+          "lastSentence": 750,
+          "cv": "16:4"
+        }
+      ]
+    }
+  },
+  "jesus-action-spirit": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 751,
+      "lastSentence": 759,
+      "cvs": "16:5-15",
+      "units": [
+        {
+          "firstSentence": 751,
+          "lastSentence": 751,
+          "cv": "16:5"
+        },
+        {
+          "firstSentence": 752,
+          "lastSentence": 752,
+          "cv": "16:6"
+        },
+        {
+          "firstSentence": 753,
+          "lastSentence": 754,
+          "cv": "16:7"
+        },
+        {
+          "firstSentence": 755,
+          "lastSentence": 755,
+          "cv": "16:8-11"
+        },
+        {
+          "firstSentence": 756,
+          "lastSentence": 756,
+          "cv": "16:12"
+        },
+        {
+          "firstSentence": 757,
+          "lastSentence": 757,
+          "cv": "16:13"
+        },
+        {
+          "firstSentence": 758,
+          "lastSentence": 758,
+          "cv": "16:14"
+        },
+        {
+          "firstSentence": 759,
+          "lastSentence": 759,
+          "cv": "16:15"
+        }
+      ]
+    }
+  },
+  "jesus-leaving-returning": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 760,
+      "lastSentence": 781,
+      "cvs": "16:16-33",
+      "units": [
+        {
+          "firstSentence": 760,
+          "lastSentence": 760,
+          "cv": "16:16"
+        },
+        {
+          "firstSentence": 761,
+          "lastSentence": 761,
+          "cv": "16:17"
+        },
+        {
+          "firstSentence": 762,
+          "lastSentence": 763,
+          "cv": "16:18"
+        },
+        {
+          "firstSentence": 764,
+          "lastSentence": 764,
+          "cv": "16:19"
+        },
+        {
+          "firstSentence": 765,
+          "lastSentence": 765,
+          "cv": "16:20"
+        },
+        {
+          "firstSentence": 766,
+          "lastSentence": 766,
+          "cv": "16:21"
+        },
+        {
+          "firstSentence": 767,
+          "lastSentence": 767,
+          "cv": "16:22"
+        },
+        {
+          "firstSentence": 768,
+          "lastSentence": 769,
+          "cv": "16:23"
+        },
+        {
+          "firstSentence": 770,
+          "lastSentence": 771,
+          "cv": "16:24"
+        },
+        {
+          "firstSentence": 772,
+          "lastSentence": 772,
+          "cv": "16:25"
+        },
+        {
+          "firstSentence": 773,
+          "lastSentence": 773,
+          "cv": "16:26-27"
+        },
+        {
+          "firstSentence": 774,
+          "lastSentence": 774,
+          "cv": "16:28"
+        },
+        {
+          "firstSentence": 775,
+          "lastSentence": 775,
+          "cv": "16:29"
+        },
+        {
+          "firstSentence": 776,
+          "lastSentence": 777,
+          "cv": "16:30"
+        },
+        {
+          "firstSentence": 778,
+          "lastSentence": 778,
+          "cv": "16:31"
+        },
+        {
+          "firstSentence": 779,
+          "lastSentence": 779,
+          "cv": "16:32"
+        },
+        {
+          "firstSentence": 780,
+          "lastSentence": 781,
+          "cv": "16:33"
+        }
+      ]
+    }
+  },
+  "jesus-prayer-disciples": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 782,
+      "lastSentence": 805,
+      "cvs": "17:1-26",
+      "units": [
+        {
+          "firstSentence": 782,
+          "lastSentence": 782,
+          "cv": "17:1"
+        },
+        {
+          "firstSentence": 783,
+          "lastSentence": 783,
+          "cv": "17:2"
+        },
+        {
+          "firstSentence": 784,
+          "lastSentence": 784,
+          "cv": "17:3"
+        },
+        {
+          "firstSentence": 785,
+          "lastSentence": 785,
+          "cv": "17:4"
+        },
+        {
+          "firstSentence": 786,
+          "lastSentence": 786,
+          "cv": "17:5"
+        },
+        {
+          "firstSentence": 787,
+          "lastSentence": 788,
+          "cv": "17:6"
+        },
+        {
+          "firstSentence": 789,
+          "lastSentence": 789,
+          "cv": "17:7-8"
+        },
+        {
+          "firstSentence": 790,
+          "lastSentence": 790,
+          "cv": "17:9"
+        },
+        {
+          "firstSentence": 791,
+          "lastSentence": 791,
+          "cv": "17:10"
+        },
+        {
+          "firstSentence": 792,
+          "lastSentence": 793,
+          "cv": "17:11"
+        },
+        {
+          "firstSentence": 794,
+          "lastSentence": 794,
+          "cv": "17:12"
+        },
+        {
+          "firstSentence": 795,
+          "lastSentence": 795,
+          "cv": "17:13"
+        },
+        {
+          "firstSentence": 796,
+          "lastSentence": 796,
+          "cv": "17:14"
+        },
+        {
+          "firstSentence": 797,
+          "lastSentence": 797,
+          "cv": "17:15"
+        },
+        {
+          "firstSentence": 798,
+          "lastSentence": 798,
+          "cv": "17:16"
+        },
+        {
+          "firstSentence": 799,
+          "lastSentence": 799,
+          "cv": "17:17"
+        },
+        {
+          "firstSentence": 800,
+          "lastSentence": 800,
+          "cv": "17:18-19"
+        },
+        {
+          "firstSentence": 801,
+          "lastSentence": 801,
+          "cv": "17:20-21"
+        },
+        {
+          "firstSentence": 802,
+          "lastSentence": 802,
+          "cv": "17:22-23"
+        },
+        {
+          "firstSentence": 803,
+          "lastSentence": 803,
+          "cv": "17:24"
+        },
+        {
+          "firstSentence": 804,
+          "lastSentence": 804,
+          "cv": "17:25"
+        },
+        {
+          "firstSentence": 805,
+          "lastSentence": 805,
+          "cv": "17:26"
+        }
+      ]
+    }
+  },
+  "jesus-ends-discussion": {
+    "MRK": {},
+    "LUK": {
+      "firstSentence": 980,
+      "lastSentence": 985,
+      "cvs": "22:35-38",
+      "units": [
+        {
+          "firstSentence": 980,
+          "lastSentence": 981,
+          "cv": "22:35"
+        },
+        {
+          "firstSentence": 982,
+          "lastSentence": 982,
+          "cv": "22:36"
+        },
+        {
+          "firstSentence": 983,
+          "lastSentence": 983,
+          "cv": "22:37"
+        },
+        {
+          "firstSentence": 984,
+          "lastSentence": 985,
+          "cv": "22:38"
+        }
+      ]
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "jesus-goto-mount-olivier": {
+    "MRK": {
+      "firstSentence": 613,
+      "lastSentence": 626,
+      "cvs": "14:32-42",
+      "units": [
+        {
+          "firstSentence": 613,
+          "lastSentence": 613,
+          "cv": "14:32"
+        },
+        {
+          "firstSentence": 614,
+          "lastSentence": 614,
+          "cv": "14:33"
+        },
+        {
+          "firstSentence": 615,
+          "lastSentence": 615,
+          "cv": "14:34"
+        },
+        {
+          "firstSentence": 616,
+          "lastSentence": 616,
+          "cv": "14:35"
+        },
+        {
+          "firstSentence": 617,
+          "lastSentence": 617,
+          "cv": "14:36"
+        },
+        {
+          "firstSentence": 618,
+          "lastSentence": 619,
+          "cv": "14:37"
+        },
+        {
+          "firstSentence": 620,
+          "lastSentence": 621,
+          "cv": "14:38"
+        },
+        {
+          "firstSentence": 622,
+          "lastSentence": 622,
+          "cv": "14:39"
+        },
+        {
+          "firstSentence": 623,
+          "lastSentence": 623,
+          "cv": "14:40"
+        },
+        {
+          "firstSentence": 624,
+          "lastSentence": 625,
+          "cv": "14:41"
+        },
+        {
+          "firstSentence": 626,
+          "lastSentence": 626,
+          "cv": "14:42"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 986,
+      "lastSentence": 993,
+      "cvs": "22:39-46",
+      "units": [
+        {
+          "firstSentence": 986,
+          "lastSentence": 986,
+          "cv": "22:39"
+        },
+        {
+          "firstSentence": 987,
+          "lastSentence": 987,
+          "cv": "22:40"
+        },
+        {
+          "firstSentence": 988,
+          "lastSentence": 988,
+          "cv": "22:41-42"
+        },
+        {
+          "firstSentence": 989,
+          "lastSentence": 989,
+          "cv": "22:43"
+        },
+        {
+          "firstSentence": 990,
+          "lastSentence": 991,
+          "cv": "22:44"
+        },
+        {
+          "firstSentence": 992,
+          "lastSentence": 993,
+          "cv": "22:45-46"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 979,
+      "lastSentence": 994,
+      "cvs": "26:36-46",
+      "units": [
+        {
+          "firstSentence": 980,
+          "lastSentence": 980,
+          "cv": "26:36"
+        },
+        {
+          "firstSentence": 981,
+          "lastSentence": 981,
+          "cv": "26:37"
+        },
+        {
+          "firstSentence": 982,
+          "lastSentence": 982,
+          "cv": "26:38"
+        },
+        {
+          "firstSentence": 983,
+          "lastSentence": 984,
+          "cv": "26:39"
+        },
+        {
+          "firstSentence": 985,
+          "lastSentence": 985,
+          "cv": "26:40"
+        },
+        {
+          "firstSentence": 986,
+          "lastSentence": 987,
+          "cv": "26:41"
+        },
+        {
+          "firstSentence": 988,
+          "lastSentence": 988,
+          "cv": "26:42"
+        },
+        {
+          "firstSentence": 989,
+          "lastSentence": 989,
+          "cv": "26:43"
+        },
+        {
+          "firstSentence": 990,
+          "lastSentence": 990,
+          "cv": "26:44"
+        },
+        {
+          "firstSentence": 991,
+          "lastSentence": 992,
+          "cv": "26:45"
+        },
+        {
+          "firstSentence": 993,
+          "lastSentence": 994,
+          "cv": "26:46"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "judas-betrays-jesus": {
+    "MRK": {
+      "firstSentence": 627,
+      "lastSentence": 635,
+      "cvs": "14:43-52",
+      "units": [
+        {
+          "firstSentence": 627,
+          "lastSentence": 627,
+          "cv": "14:43"
+        },
+        {
+          "firstSentence": 628,
+          "lastSentence": 628,
+          "cv": "14:44"
+        },
+        {
+          "firstSentence": 629,
+          "lastSentence": 629,
+          "cv": "14:45"
+        },
+        {
+          "firstSentence": 630,
+          "lastSentence": 630,
+          "cv": "14:46"
+        },
+        {
+          "firstSentence": 631,
+          "lastSentence": 631,
+          "cv": "14:47"
+        },
+        {
+          "firstSentence": 632,
+          "lastSentence": 632,
+          "cv": "14:48"
+        },
+        {
+          "firstSentence": 633,
+          "lastSentence": 633,
+          "cv": "14:49"
+        },
+        {
+          "firstSentence": 634,
+          "lastSentence": 634,
+          "cv": "14:50"
+        },
+        {
+          "firstSentence": 635,
+          "lastSentence": 635,
+          "cv": "14:51-52"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 994,
+      "lastSentence": 1001,
+      "cvs": "22:47-53",
+      "units": [
+        {
+          "firstSentence": 994,
+          "lastSentence": 994,
+          "cv": "22:47"
+        },
+        {
+          "firstSentence": 995,
+          "lastSentence": 995,
+          "cv": "22:48"
+        },
+        {
+          "firstSentence": 996,
+          "lastSentence": 996,
+          "cv": "22:49"
+        },
+        {
+          "firstSentence": 997,
+          "lastSentence": 997,
+          "cv": "22:50"
+        },
+        {
+          "firstSentence": 998,
+          "lastSentence": 999,
+          "cv": "22:51"
+        },
+        {
+          "firstSentence": 1000,
+          "lastSentence": 1000,
+          "cv": "22:52"
+        },
+        {
+          "firstSentence": 1001,
+          "lastSentence": 1001,
+          "cv": "22:53"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 995,
+      "lastSentence": 1007,
+      "cvs": "26:47-56",
+      "units": [
+        {
+          "firstSentence": 995,
+          "lastSentence": 995,
+          "cv": "26:47"
+        },
+        {
+          "firstSentence": 996,
+          "lastSentence": 996,
+          "cv": "26:48"
+        },
+        {
+          "firstSentence": 997,
+          "lastSentence": 997,
+          "cv": "26:49"
+        },
+        {
+          "firstSentence": 998,
+          "lastSentence": 999,
+          "cv": "26:50"
+        },
+        {
+          "firstSentence": 1000,
+          "lastSentence": 1000,
+          "cv": "26:51"
+        },
+        {
+          "firstSentence": 1001,
+          "lastSentence": 1001,
+          "cv": "26:52"
+        },
+        {
+          "firstSentence": 1002,
+          "lastSentence": 1002,
+          "cv": "26:53"
+        },
+        {
+          "firstSentence": 1003,
+          "lastSentence": 1003,
+          "cv": "26:54"
+        },
+        {
+          "firstSentence": 1004,
+          "lastSentence": 1005,
+          "cv": "26:55"
+        },
+        {
+          "firstSentence": 1006,
+          "lastSentence": 1007,
+          "cv": "26:56"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 806,
+      "lastSentence": 819,
+      "cvs": "18:1-11",
+      "units": [
+        {
+          "firstSentence": 806,
+          "lastSentence": 806,
+          "cv": "18:1"
+        },
+        {
+          "firstSentence": 807,
+          "lastSentence": 807,
+          "cv": "18:2"
+        },
+        {
+          "firstSentence": 808,
+          "lastSentence": 808,
+          "cv": "18:3"
+        },
+        {
+          "firstSentence": 809,
+          "lastSentence": 809,
+          "cv": "18:4"
+        },
+        {
+          "firstSentence": 810,
+          "lastSentence": 812,
+          "cv": "18:5"
+        },
+        {
+          "firstSentence": 813,
+          "lastSentence": 813,
+          "cv": "18:6"
+        },
+        {
+          "firstSentence": 814,
+          "lastSentence": 815,
+          "cv": "18:7"
+        },
+        {
+          "firstSentence": 816,
+          "lastSentence": 817,
+          "cv": "18:8-9"
+        },
+        {
+          "firstSentence": 818,
+          "lastSentence": 818,
+          "cv": "18:10"
+        },
+        {
+          "firstSentence": 819,
+          "lastSentence": 819,
+          "cv": "18:11"
+        }
+      ]
+    }
+  },
+  "jewish-leaders-question-jesus": {
+    "MRK": {
+      "firstSentence": 636,
+      "lastSentence": 652,
+      "cvs": "14:53-65",
+      "units": [
+        {
+          "firstSentence": 636,
+          "lastSentence": 636,
+          "cv": "14:53"
+        },
+        {
+          "firstSentence": 637,
+          "lastSentence": 637,
+          "cv": "14:54"
+        },
+        {
+          "firstSentence": 638,
+          "lastSentence": 638,
+          "cv": "14:55"
+        },
+        {
+          "firstSentence": 639,
+          "lastSentence": 639,
+          "cv": "14:56"
+        },
+        {
+          "firstSentence": 640,
+          "lastSentence": 640,
+          "cv": "14:57-58"
+        },
+        {
+          "firstSentence": 641,
+          "lastSentence": 641,
+          "cv": "14:59"
+        },
+        {
+          "firstSentence": 642,
+          "lastSentence": 643,
+          "cv": "14:60"
+        },
+        {
+          "firstSentence": 644,
+          "lastSentence": 645,
+          "cv": "14:61"
+        },
+        {
+          "firstSentence": 646,
+          "lastSentence": 646,
+          "cv": "14:62"
+        },
+        {
+          "firstSentence": 647,
+          "lastSentence": 647,
+          "cv": "14:63"
+        },
+        {
+          "firstSentence": 648,
+          "lastSentence": 650,
+          "cv": "14:64"
+        },
+        {
+          "firstSentence": 651,
+          "lastSentence": 652,
+          "cv": "14:65"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 1017,
+      "lastSentence": 1023,
+      "cvs": "22:66-71",
+      "units": [
+        {
+          "firstSentence": 1017,
+          "lastSentence": 1018,
+          "cv": "22:66-68"
+        },
+        {
+          "firstSentence": 1019,
+          "lastSentence": 1019,
+          "cv": "22:69"
+        },
+        {
+          "firstSentence": 1020,
+          "lastSentence": 1021,
+          "cv": "22:70"
+        },
+        {
+          "firstSentence": 1022,
+          "lastSentence": 1023,
+          "cv": "22:71"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 1008,
+      "lastSentence": 1021,
+      "cvs": "26:57-68",
+      "units": [
+        {
+          "firstSentence": 1008,
+          "lastSentence": 1008,
+          "cv": "26:57"
+        },
+        {
+          "firstSentence": 1009,
+          "lastSentence": 1009,
+          "cv": "26:58"
+        },
+        {
+          "firstSentence": 1010,
+          "lastSentence": 1011,
+          "cv": "26:59-61"
+        },
+        {
+          "firstSentence": 1012,
+          "lastSentence": 1012,
+          "cv": "26:62"
+        },
+        {
+          "firstSentence": 1013,
+          "lastSentence": 1014,
+          "cv": "26:63"
+        },
+        {
+          "firstSentence": 1015,
+          "lastSentence": 1016,
+          "cv": "26:64"
+        },
+        {
+          "firstSentence": 1017,
+          "lastSentence": 1018,
+          "cv": "26:65"
+        },
+        {
+          "firstSentence": 1019,
+          "lastSentence": 1020,
+          "cv": "26:66"
+        },
+        {
+          "firstSentence": 1021,
+          "lastSentence": 1021,
+          "cv": "26:67-68"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 820,
+      "lastSentence": 822,
+      "cvs": "18:12-14",
+      "units": [
+        {
+          "firstSentence": 820,
+          "lastSentence": 820,
+          "cv": "18:12"
+        },
+        {
+          "firstSentence": 821,
+          "lastSentence": 821,
+          "cv": "18:13"
+        },
+        {
+          "firstSentence": 822,
+          "lastSentence": 822,
+          "cv": "18:14"
+        }
+      ]
+    }
+  },
+  "jewish-leaders-question-jesus-john": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 830,
+      "lastSentence": 836,
+      "cvs": "18:19-24",
+      "units": [
+        {
+          "firstSentence": 830,
+          "lastSentence": 830,
+          "cv": "18:19"
+        },
+        {
+          "firstSentence": 831,
+          "lastSentence": 831,
+          "cv": "18:20"
+        },
+        {
+          "firstSentence": 832,
+          "lastSentence": 833,
+          "cv": "18:21"
+        },
+        {
+          "firstSentence": 834,
+          "lastSentence": 834,
+          "cv": "18:22"
+        },
+        {
+          "firstSentence": 835,
+          "lastSentence": 835,
+          "cv": "18:23"
+        },
+        {
+          "firstSentence": 836,
+          "lastSentence": 836,
+          "cv": "18:24"
+        }
+      ]
+    }
+  },
+  "peter-denies-jesus": {
+    "MRK": {
+      "firstSentence": 653,
+      "lastSentence": 659,
+      "cvs": "14:66-72",
+      "units": [
+        {
+          "firstSentence": 653,
+          "lastSentence": 653,
+          "cv": "14:66-67"
+        },
+        {
+          "firstSentence": 654,
+          "lastSentence": 654,
+          "cv": "14:68"
+        },
+        {
+          "firstSentence": 655,
+          "lastSentence": 655,
+          "cv": "14:69"
+        },
+        {
+          "firstSentence": 656,
+          "lastSentence": 657,
+          "cv": "14:70-71"
+        },
+        {
+          "firstSentence": 658,
+          "lastSentence": 659,
+          "cv": "14:72"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 1002,
+      "lastSentence": 1013,
+      "cvs": "22:54-62",
+      "units": [
+        {
+          "firstSentence": 1002,
+          "lastSentence": 1003,
+          "cv": "22:54"
+        },
+        {
+          "firstSentence": 1004,
+          "lastSentence": 1004,
+          "cv": "22:55"
+        },
+        {
+          "firstSentence": 1005,
+          "lastSentence": 1005,
+          "cv": "22:56"
+        },
+        {
+          "firstSentence": 1006,
+          "lastSentence": 1006,
+          "cv": "22:57"
+        },
+        {
+          "firstSentence": 1007,
+          "lastSentence": 1008,
+          "cv": "22:58"
+        },
+        {
+          "firstSentence": 1009,
+          "lastSentence": 1009,
+          "cv": "22:59"
+        },
+        {
+          "firstSentence": 1010,
+          "lastSentence": 1011,
+          "cv": "22:60"
+        },
+        {
+          "firstSentence": 1012,
+          "lastSentence": 1012,
+          "cv": "22:61"
+        },
+        {
+          "firstSentence": 1013,
+          "lastSentence": 1013,
+          "cv": "22:62"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 1022,
+      "lastSentence": 1029,
+      "cvs": "26:69-75",
+      "units": [
+        {
+          "firstSentence": 1022,
+          "lastSentence": 1022,
+          "cv": "26:69"
+        },
+        {
+          "firstSentence": 1023,
+          "lastSentence": 1023,
+          "cv": "26:70"
+        },
+        {
+          "firstSentence": 1024,
+          "lastSentence": 1024,
+          "cv": "26:71"
+        },
+        {
+          "firstSentence": 1025,
+          "lastSentence": 1025,
+          "cv": "26:72"
+        },
+        {
+          "firstSentence": 1026,
+          "lastSentence": 1026,
+          "cv": "26:73"
+        },
+        {
+          "firstSentence": 1027,
+          "lastSentence": 1028,
+          "cv": "26:74"
+        },
+        {
+          "firstSentence": 1029,
+          "lastSentence": 1029,
+          "cv": "26:75"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 823,
+      "lastSentence": 829,
+      "cvs": "18:15-18",
+      "units": [
+        {
+          "firstSentence": 823,
+          "lastSentence": 824,
+          "cv": "18:15"
+        },
+        {
+          "firstSentence": 825,
+          "lastSentence": 826,
+          "cv": "18:16"
+        },
+        {
+          "firstSentence": 827,
+          "lastSentence": 828,
+          "cv": "18:17"
+        },
+        {
+          "firstSentence": 829,
+          "lastSentence": 829,
+          "cv": "18:18"
+        }
+      ]
+    }
+  },
+  "peter-denies-jesus-john": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 837,
+      "lastSentence": 841,
+      "cvs": "18:25-27",
+      "units": [
+        {
+          "firstSentence": 837,
+          "lastSentence": 839,
+          "cv": "18:25"
+        },
+        {
+          "firstSentence": 840,
+          "lastSentence": 840,
+          "cv": "18:26"
+        },
+        {
+          "firstSentence": 841,
+          "lastSentence": 841,
+          "cv": "18:27"
+        }
+      ]
+    }
+  },
+  "soldiers-mock-jesus": {
+    "MRK": {},
+    "LUK": {
+      "firstSentence": 1014,
+      "lastSentence": 1016,
+      "cvs": "22:63-65",
+      "units": [
+        {
+          "firstSentence": 1014,
+          "lastSentence": 1014,
+          "cv": "22:63"
+        },
+        {
+          "firstSentence": 1015,
+          "lastSentence": 1015,
+          "cv": "22:64"
+        },
+        {
+          "firstSentence": 1016,
+          "lastSentence": 1016,
+          "cv": "22:65"
+        }
+      ]
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "pilate-questions-jesus": {
+    "MRK": {
+      "firstSentence": 660,
+      "lastSentence": 666,
+      "cvs": "15:1-5",
+      "units": [
+        {
+          "firstSentence": 660,
+          "lastSentence": 660,
+          "cv": "15:1"
+        },
+        {
+          "firstSentence": 661,
+          "lastSentence": 662,
+          "cv": "15:2"
+        },
+        {
+          "firstSentence": 663,
+          "lastSentence": 663,
+          "cv": "15:3"
+        },
+        {
+          "firstSentence": 664,
+          "lastSentence": 665,
+          "cv": "15:4"
+        },
+        {
+          "firstSentence": 666,
+          "lastSentence": 666,
+          "cv": "15:5"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 1024,
+      "lastSentence": 1029,
+      "cvs": "23:1-5",
+      "units": [
+        {
+          "firstSentence": 1024,
+          "lastSentence": 1024,
+          "cv": "23:1"
+        },
+        {
+          "firstSentence": 1025,
+          "lastSentence": 1025,
+          "cv": "23:2"
+        },
+        {
+          "firstSentence": 1026,
+          "lastSentence": 1027,
+          "cv": "23:3"
+        },
+        {
+          "firstSentence": 1028,
+          "lastSentence": 1028,
+          "cv": "23:4"
+        },
+        {
+          "firstSentence": 1029,
+          "lastSentence": 1029,
+          "cv": "23:5"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 1030,
+      "lastSentence": 1043,
+      "cvs": "27:1-2, 11",
+      "units": [
+        {
+          "firstSentence": 1030,
+          "lastSentence": 1030,
+          "cv": "27:1-2"
+        },
+        {
+          "firstSentence": 1031,
+          "lastSentence": 1033,
+          "cv": "27:3-4"
+        },
+        {
+          "firstSentence": 1034,
+          "lastSentence": 1034,
+          "cv": "27:5"
+        },
+        {
+          "firstSentence": 1035,
+          "lastSentence": 1035,
+          "cv": "27:6"
+        },
+        {
+          "firstSentence": 1036,
+          "lastSentence": 1036,
+          "cv": "27:7"
+        },
+        {
+          "firstSentence": 1037,
+          "lastSentence": 1037,
+          "cv": "27:8"
+        },
+        {
+          "firstSentence": 1038,
+          "lastSentence": 1038,
+          "cv": "27:9-10"
+        },
+        {
+          "firstSentence": 1039,
+          "lastSentence": 1040,
+          "cv": "27:11"
+        },
+        {
+          "firstSentence": 1041,
+          "lastSentence": 1041,
+          "cv": "27:12"
+        },
+        {
+          "firstSentence": 1042,
+          "lastSentence": 1042,
+          "cv": "27:13"
+        },
+        {
+          "firstSentence": 1043,
+          "lastSentence": 1043,
+          "cv": "27:14"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 842,
+      "lastSentence": 860,
+      "cvs": "18:28-38",
+      "units": [
+        {
+          "firstSentence": 842,
+          "lastSentence": 843,
+          "cv": "18:28"
+        },
+        {
+          "firstSentence": 844,
+          "lastSentence": 844,
+          "cv": "18:29"
+        },
+        {
+          "firstSentence": 845,
+          "lastSentence": 845,
+          "cv": "18:30"
+        },
+        {
+          "firstSentence": 846,
+          "lastSentence": 847,
+          "cv": "18:31-32"
+        },
+        {
+          "firstSentence": 848,
+          "lastSentence": 848,
+          "cv": "18:33"
+        },
+        {
+          "firstSentence": 849,
+          "lastSentence": 849,
+          "cv": "18:34"
+        },
+        {
+          "firstSentence": 850,
+          "lastSentence": 852,
+          "cv": "18:35"
+        },
+        {
+          "firstSentence": 853,
+          "lastSentence": 854,
+          "cv": "18:36"
+        },
+        {
+          "firstSentence": 855,
+          "lastSentence": 858,
+          "cv": "18:37"
+        },
+        {
+          "firstSentence": 859,
+          "lastSentence": 860,
+          "cv": "18:38"
+        }
+      ]
+    }
+  },
+  "judas-hanging": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "firstSentence": 1031,
+      "lastSentence": 1038,
+      "cvs": "27:3-10",
+      "units": [
+        {
+          "firstSentence": 1031,
+          "lastSentence": 1033,
+          "cv": "27:3-4"
+        },
+        {
+          "firstSentence": 1034,
+          "lastSentence": 1034,
+          "cv": "27:5"
+        },
+        {
+          "firstSentence": 1035,
+          "lastSentence": 1035,
+          "cv": "27:6"
+        },
+        {
+          "firstSentence": 1036,
+          "lastSentence": 1036,
+          "cv": "27:7"
+        },
+        {
+          "firstSentence": 1037,
+          "lastSentence": 1037,
+          "cv": "27:8"
+        },
+        {
+          "firstSentence": 1038,
+          "lastSentence": 1038,
+          "cv": "27:9-10"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-herod-pilate": {
+    "MRK": {},
+    "LUK": {
+      "firstSentence": 1030,
+      "lastSentence": 1035,
+      "cvs": "23:6-12",
+      "units": [
+        {
+          "firstSentence": 1030,
+          "lastSentence": 1030,
+          "cv": "23:6-7"
+        },
+        {
+          "firstSentence": 1031,
+          "lastSentence": 1031,
+          "cv": "23:8"
+        },
+        {
+          "firstSentence": 1032,
+          "lastSentence": 1032,
+          "cv": "23:9"
+        },
+        {
+          "firstSentence": 1033,
+          "lastSentence": 1033,
+          "cv": "23:10"
+        },
+        {
+          "firstSentence": 1034,
+          "lastSentence": 1034,
+          "cv": "23:11"
+        },
+        {
+          "firstSentence": 1035,
+          "lastSentence": 1035,
+          "cv": "23:12"
+        }
+      ]
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "jesus-barabbas-condemned": {
+    "MRK": {
+      "firstSentence": 667,
+      "lastSentence": 677,
+      "cvs": "15:6-15",
+      "units": [
+        {
+          "firstSentence": 667,
+          "lastSentence": 667,
+          "cv": "15:6"
+        },
+        {
+          "firstSentence": 668,
+          "lastSentence": 668,
+          "cv": "15:7"
+        },
+        {
+          "firstSentence": 669,
+          "lastSentence": 669,
+          "cv": "15:8"
+        },
+        {
+          "firstSentence": 670,
+          "lastSentence": 670,
+          "cv": "15:9"
+        },
+        {
+          "firstSentence": 671,
+          "lastSentence": 671,
+          "cv": "15:10"
+        },
+        {
+          "firstSentence": 672,
+          "lastSentence": 672,
+          "cv": "15:11"
+        },
+        {
+          "firstSentence": 673,
+          "lastSentence": 673,
+          "cv": "15:12"
+        },
+        {
+          "firstSentence": 674,
+          "lastSentence": 674,
+          "cv": "15:13"
+        },
+        {
+          "firstSentence": 675,
+          "lastSentence": 676,
+          "cv": "15:14"
+        },
+        {
+          "firstSentence": 677,
+          "lastSentence": 677,
+          "cv": "15:15"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 1036,
+      "lastSentence": 1050,
+      "cvs": "23:13-25",
+      "units": [
+        {
+          "firstSentence": 1036,
+          "lastSentence": 1036,
+          "cv": "23:13-14"
+        },
+        {
+          "firstSentence": 1037,
+          "lastSentence": 1038,
+          "cv": "23:15"
+        },
+        {
+          "firstSentence": 1039,
+          "lastSentence": 1039,
+          "cv": "23:16"
+        },
+        {
+          "firstSentence": 1040,
+          "lastSentence": 1040,
+          "cv": "23:17"
+        },
+        {
+          "firstSentence": 1041,
+          "lastSentence": 1041,
+          "cv": "23:18"
+        },
+        {
+          "firstSentence": 1042,
+          "lastSentence": 1042,
+          "cv": "23:19"
+        },
+        {
+          "firstSentence": 1043,
+          "lastSentence": 1043,
+          "cv": "23:20"
+        },
+        {
+          "firstSentence": 1044,
+          "lastSentence": 1044,
+          "cv": "23:21"
+        },
+        {
+          "firstSentence": 1045,
+          "lastSentence": 1047,
+          "cv": "23:22"
+        },
+        {
+          "firstSentence": 1048,
+          "lastSentence": 1048,
+          "cv": "23:23"
+        },
+        {
+          "firstSentence": 1049,
+          "lastSentence": 1049,
+          "cv": "23:24"
+        },
+        {
+          "firstSentence": 1050,
+          "lastSentence": 1050,
+          "cv": "23:25"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 1044,
+      "lastSentence": 1058,
+      "cvs": "27:15-26",
+      "units": [
+        {
+          "firstSentence": 1044,
+          "lastSentence": 1044,
+          "cv": "27:15"
+        },
+        {
+          "firstSentence": 1045,
+          "lastSentence": 1045,
+          "cv": "27:16"
+        },
+        {
+          "firstSentence": 1046,
+          "lastSentence": 1046,
+          "cv": "27:17"
+        },
+        {
+          "firstSentence": 1047,
+          "lastSentence": 1047,
+          "cv": "27:18"
+        },
+        {
+          "firstSentence": 1048,
+          "lastSentence": 1048,
+          "cv": "27:19"
+        },
+        {
+          "firstSentence": 1049,
+          "lastSentence": 1049,
+          "cv": "27:20"
+        },
+        {
+          "firstSentence": 1050,
+          "lastSentence": 1051,
+          "cv": "27:21"
+        },
+        {
+          "firstSentence": 1052,
+          "lastSentence": 1053,
+          "cv": "27:22"
+        },
+        {
+          "firstSentence": 1054,
+          "lastSentence": 1055,
+          "cv": "27:23"
+        },
+        {
+          "firstSentence": 1056,
+          "lastSentence": 1056,
+          "cv": "27:24"
+        },
+        {
+          "firstSentence": 1057,
+          "lastSentence": 1057,
+          "cv": "27:25"
+        },
+        {
+          "firstSentence": 1058,
+          "lastSentence": 1058,
+          "cv": "27:26"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 861,
+      "lastSentence": 891,
+      "cvs": "18:39-19",
+      "units": [
+        {
+          "firstSentence": 861,
+          "lastSentence": 861,
+          "cv": "18:39"
+        },
+        {
+          "firstSentence": 862,
+          "lastSentence": 863,
+          "cv": "18:40"
+        },
+        {
+          "firstSentence": 864,
+          "lastSentence": 864,
+          "cv": "19:1"
+        },
+        {
+          "firstSentence": 865,
+          "lastSentence": 866,
+          "cv": "19:2-3"
+        },
+        {
+          "firstSentence": 867,
+          "lastSentence": 867,
+          "cv": "19:4"
+        },
+        {
+          "firstSentence": 868,
+          "lastSentence": 869,
+          "cv": "19:5"
+        },
+        {
+          "firstSentence": 870,
+          "lastSentence": 872,
+          "cv": "19:6"
+        },
+        {
+          "firstSentence": 873,
+          "lastSentence": 873,
+          "cv": "19:7"
+        },
+        {
+          "firstSentence": 874,
+          "lastSentence": 874,
+          "cv": "19:8"
+        },
+        {
+          "firstSentence": 875,
+          "lastSentence": 876,
+          "cv": "19:9"
+        },
+        {
+          "firstSentence": 877,
+          "lastSentence": 878,
+          "cv": "19:10"
+        },
+        {
+          "firstSentence": 879,
+          "lastSentence": 880,
+          "cv": "19:11"
+        },
+        {
+          "firstSentence": 881,
+          "lastSentence": 882,
+          "cv": "19:12"
+        },
+        {
+          "firstSentence": 883,
+          "lastSentence": 883,
+          "cv": "19:13"
+        },
+        {
+          "firstSentence": 884,
+          "lastSentence": 885,
+          "cv": "19:14"
+        },
+        {
+          "firstSentence": 886,
+          "lastSentence": 890,
+          "cv": "19:15"
+        }
+      ]
+    }
+  },
+  "soldiers-mock-jesus-2": {
+    "MRK": {
+      "firstSentence": 678,
+      "lastSentence": 682,
+      "cvs": "15:16-20",
+      "units": [
+        {
+          "firstSentence": 678,
+          "lastSentence": 678,
+          "cv": "15:16"
+        },
+        {
+          "firstSentence": 679,
+          "lastSentence": 679,
+          "cv": "15:17-18"
+        },
+        {
+          "firstSentence": 680,
+          "lastSentence": 680,
+          "cv": "15:19"
+        },
+        {
+          "firstSentence": 681,
+          "lastSentence": 682,
+          "cv": "15:20"
+        }
+      ]
+    },
+    "LUK": {},
+    "MAT": {
+      "firstSentence": 1059,
+      "lastSentence": 1062,
+      "cvs": "27:27-31",
+      "units": [
+        {
+          "firstSentence": 1059,
+          "lastSentence": 1059,
+          "cv": "27:27"
+        },
+        {
+          "firstSentence": 1060,
+          "lastSentence": 1060,
+          "cv": "27:28-29"
+        },
+        {
+          "firstSentence": 1061,
+          "lastSentence": 1061,
+          "cv": "27:30"
+        },
+        {
+          "firstSentence": 1062,
+          "lastSentence": 1062,
+          "cv": "27:31"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 865,
+      "lastSentence": 866,
+      "cvs": "19:2-3",
+      "units": [
+        {
+          "firstSentence": 865,
+          "lastSentence": 866,
+          "cv": "19:2-3"
+        }
+      ]
+    }
+  },
+  "soldiers-crucify-jesus": {
+    "MRK": {
+      "firstSentence": 683,
+      "lastSentence": 694,
+      "cvs": "15:21-32",
+      "units": [
+        {
+          "firstSentence": 683,
+          "lastSentence": 683,
+          "cv": "15:21"
+        },
+        {
+          "firstSentence": 684,
+          "lastSentence": 684,
+          "cv": "15:22"
+        },
+        {
+          "firstSentence": 685,
+          "lastSentence": 685,
+          "cv": "15:23"
+        },
+        {
+          "firstSentence": 686,
+          "lastSentence": 686,
+          "cv": "15:24"
+        },
+        {
+          "firstSentence": 687,
+          "lastSentence": 687,
+          "cv": "15:25"
+        },
+        {
+          "firstSentence": 688,
+          "lastSentence": 688,
+          "cv": "15:26"
+        },
+        {
+          "firstSentence": 689,
+          "lastSentence": 689,
+          "cv": "15:27"
+        },
+        {
+          "firstSentence": 690,
+          "lastSentence": 690,
+          "cv": "15:28"
+        },
+        {
+          "firstSentence": 691,
+          "lastSentence": 691,
+          "cv": "15:29-30"
+        },
+        {
+          "firstSentence": 692,
+          "lastSentence": 692,
+          "cv": "15:31"
+        },
+        {
+          "firstSentence": 693,
+          "lastSentence": 694,
+          "cv": "15:32"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 1051,
+      "lastSentence": 1068,
+      "cvs": "23:26-43",
+      "units": [
+        {
+          "firstSentence": 1051,
+          "lastSentence": 1051,
+          "cv": "23:26"
+        },
+        {
+          "firstSentence": 1052,
+          "lastSentence": 1052,
+          "cv": "23:27"
+        },
+        {
+          "firstSentence": 1053,
+          "lastSentence": 1053,
+          "cv": "23:28"
+        },
+        {
+          "firstSentence": 1054,
+          "lastSentence": 1054,
+          "cv": "23:29"
+        },
+        {
+          "firstSentence": 1055,
+          "lastSentence": 1055,
+          "cv": "23:30"
+        },
+        {
+          "firstSentence": 1056,
+          "lastSentence": 1056,
+          "cv": "23:31"
+        },
+        {
+          "firstSentence": 1057,
+          "lastSentence": 1057,
+          "cv": "23:32"
+        },
+        {
+          "firstSentence": 1058,
+          "lastSentence": 1058,
+          "cv": "23:33"
+        },
+        {
+          "firstSentence": 1059,
+          "lastSentence": 1059,
+          "cv": "23:34"
+        },
+        {
+          "firstSentence": 1060,
+          "lastSentence": 1060,
+          "cv": "23:35"
+        },
+        {
+          "firstSentence": 1061,
+          "lastSentence": 1061,
+          "cv": "23:36-37"
+        },
+        {
+          "firstSentence": 1062,
+          "lastSentence": 1062,
+          "cv": "23:38"
+        },
+        {
+          "firstSentence": 1063,
+          "lastSentence": 1064,
+          "cv": "23:39"
+        },
+        {
+          "firstSentence": 1065,
+          "lastSentence": 1065,
+          "cv": "23:40"
+        },
+        {
+          "firstSentence": 1066,
+          "lastSentence": 1066,
+          "cv": "23:41"
+        },
+        {
+          "firstSentence": 1067,
+          "lastSentence": 1067,
+          "cv": "23:42"
+        },
+        {
+          "firstSentence": 1068,
+          "lastSentence": 1068,
+          "cv": "23:43"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 1063,
+      "lastSentence": 1075,
+      "cvs": "27:32-44",
+      "units": [
+        {
+          "firstSentence": 1063,
+          "lastSentence": 1064,
+          "cv": "27:32"
+        },
+        {
+          "firstSentence": 1065,
+          "lastSentence": 1065,
+          "cv": "27:33"
+        },
+        {
+          "firstSentence": 1066,
+          "lastSentence": 1066,
+          "cv": "27:34"
+        },
+        {
+          "firstSentence": 1067,
+          "lastSentence": 1067,
+          "cv": "27:35-36"
+        },
+        {
+          "firstSentence": 1068,
+          "lastSentence": 1068,
+          "cv": "27:37"
+        },
+        {
+          "firstSentence": 1069,
+          "lastSentence": 1069,
+          "cv": "27:38"
+        },
+        {
+          "firstSentence": 1070,
+          "lastSentence": 1070,
+          "cv": "27:39-40"
+        },
+        {
+          "firstSentence": 1071,
+          "lastSentence": 1072,
+          "cv": "27:41-42"
+        },
+        {
+          "firstSentence": 1073,
+          "lastSentence": 1074,
+          "cv": "27:43"
+        },
+        {
+          "firstSentence": 1075,
+          "lastSentence": 1075,
+          "cv": "27:44"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 892,
+      "lastSentence": 904,
+      "cvs": "19:17-27",
+      "units": [
+        {
+          "firstSentence": 893,
+          "lastSentence": 894,
+          "cv": "19:19"
+        },
+        {
+          "firstSentence": 895,
+          "lastSentence": 895,
+          "cv": "19:20"
+        },
+        {
+          "firstSentence": 896,
+          "lastSentence": 896,
+          "cv": "19:21"
+        },
+        {
+          "firstSentence": 897,
+          "lastSentence": 897,
+          "cv": "19:22"
+        },
+        {
+          "firstSentence": 898,
+          "lastSentence": 899,
+          "cv": "19:23"
+        },
+        {
+          "firstSentence": 900,
+          "lastSentence": 901,
+          "cv": "19:24-25"
+        },
+        {
+          "firstSentence": 902,
+          "lastSentence": 902,
+          "cv": "19:26"
+        },
+        {
+          "firstSentence": 903,
+          "lastSentence": 904,
+          "cv": "19:27"
+        }
+      ]
+    }
+  },
+  "jesus-dies": {
+    "MRK": {
+      "firstSentence": 695,
+      "lastSentence": 703,
+      "cvs": "15:33-41",
+      "units": [
+        {
+          "firstSentence": 695,
+          "lastSentence": 695,
+          "cv": "15:33"
+        },
+        {
+          "firstSentence": 696,
+          "lastSentence": 697,
+          "cv": "15:34"
+        },
+        {
+          "firstSentence": 698,
+          "lastSentence": 698,
+          "cv": "15:35"
+        },
+        {
+          "firstSentence": 699,
+          "lastSentence": 699,
+          "cv": "15:36"
+        },
+        {
+          "firstSentence": 700,
+          "lastSentence": 700,
+          "cv": "15:37"
+        },
+        {
+          "firstSentence": 701,
+          "lastSentence": 701,
+          "cv": "15:38"
+        },
+        {
+          "firstSentence": 702,
+          "lastSentence": 702,
+          "cv": "15:39"
+        },
+        {
+          "firstSentence": 703,
+          "lastSentence": 703,
+          "cv": "15:40-41"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 1069,
+      "lastSentence": 1075,
+      "cvs": "23:44-49",
+      "units": [
+        {
+          "firstSentence": 1069,
+          "lastSentence": 1069,
+          "cv": "23:44"
+        },
+        {
+          "firstSentence": 1070,
+          "lastSentence": 1070,
+          "cv": "23:45"
+        },
+        {
+          "firstSentence": 1071,
+          "lastSentence": 1072,
+          "cv": "23:46"
+        },
+        {
+          "firstSentence": 1073,
+          "lastSentence": 1073,
+          "cv": "23:47"
+        },
+        {
+          "firstSentence": 1074,
+          "lastSentence": 1074,
+          "cv": "23:48"
+        },
+        {
+          "firstSentence": 1075,
+          "lastSentence": 1075,
+          "cv": "23:49"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 1076,
+      "lastSentence": 1085,
+      "cvs": "27:45-56",
+      "units": [
+        {
+          "firstSentence": 1076,
+          "lastSentence": 1076,
+          "cv": "27:45"
+        },
+        {
+          "firstSentence": 1077,
+          "lastSentence": 1078,
+          "cv": "27:46"
+        },
+        {
+          "firstSentence": 1079,
+          "lastSentence": 1079,
+          "cv": "27:47"
+        },
+        {
+          "firstSentence": 1080,
+          "lastSentence": 1080,
+          "cv": "27:48"
+        },
+        {
+          "firstSentence": 1081,
+          "lastSentence": 1081,
+          "cv": "27:49"
+        },
+        {
+          "firstSentence": 1082,
+          "lastSentence": 1082,
+          "cv": "27:50"
+        },
+        {
+          "firstSentence": 1083,
+          "lastSentence": 1083,
+          "cv": "27:51-53"
+        },
+        {
+          "firstSentence": 1084,
+          "lastSentence": 1084,
+          "cv": "27:54"
+        },
+        {
+          "firstSentence": 1085,
+          "lastSentence": 1085,
+          "cv": "27:55-56"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 905,
+      "lastSentence": 908,
+      "cvs": "19:28-30",
+      "units": [
+        {
+          "firstSentence": 905,
+          "lastSentence": 905,
+          "cv": "19:28"
+        },
+        {
+          "firstSentence": 906,
+          "lastSentence": 906,
+          "cv": "19:29"
+        },
+        {
+          "firstSentence": 907,
+          "lastSentence": 908,
+          "cv": "19:30"
+        }
+      ]
+    }
+  },
+  "soldier-pierces-side": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 909,
+      "lastSentence": 914,
+      "cvs": "19:31-37",
+      "units": [
+        {
+          "firstSentence": 909,
+          "lastSentence": 909,
+          "cv": "19:31"
+        },
+        {
+          "firstSentence": 910,
+          "lastSentence": 910,
+          "cv": "19:32-33"
+        },
+        {
+          "firstSentence": 911,
+          "lastSentence": 911,
+          "cv": "19:34"
+        },
+        {
+          "firstSentence": 912,
+          "lastSentence": 912,
+          "cv": "19:35"
+        },
+        {
+          "firstSentence": 913,
+          "lastSentence": 913,
+          "cv": "19:36"
+        },
+        {
+          "firstSentence": 914,
+          "lastSentence": 914,
+          "cv": "19:37"
+        }
+      ]
+    }
+  },
+  "joseph-tomb-jesus": {
+    "MRK": {
+      "firstSentence": 704,
+      "lastSentence": 708,
+      "cvs": "15:42-47",
+      "units": [
+        {
+          "firstSentence": 704,
+          "lastSentence": 704,
+          "cv": "15:42-43"
+        },
+        {
+          "firstSentence": 705,
+          "lastSentence": 705,
+          "cv": "15:44"
+        },
+        {
+          "firstSentence": 706,
+          "lastSentence": 706,
+          "cv": "15:45"
+        },
+        {
+          "firstSentence": 707,
+          "lastSentence": 707,
+          "cv": "15:46"
+        },
+        {
+          "firstSentence": 708,
+          "lastSentence": 708,
+          "cv": "15:47"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 1076,
+      "lastSentence": 1082,
+      "cvs": "23:50-56",
+      "units": [
+        {
+          "firstSentence": 1076,
+          "lastSentence": 1076,
+          "cv": "23:50-51"
+        },
+        {
+          "firstSentence": 1077,
+          "lastSentence": 1077,
+          "cv": "23:52"
+        },
+        {
+          "firstSentence": 1078,
+          "lastSentence": 1078,
+          "cv": "23:53"
+        },
+        {
+          "firstSentence": 1079,
+          "lastSentence": 1079,
+          "cv": "23:54"
+        },
+        {
+          "firstSentence": 1080,
+          "lastSentence": 1080,
+          "cv": "23:55"
+        },
+        {
+          "firstSentence": 1081,
+          "lastSentence": 1082,
+          "cv": "23:56"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 1086,
+      "lastSentence": 1090,
+      "cvs": "27:57-61",
+      "units": [
+        {
+          "firstSentence": 1086,
+          "lastSentence": 1086,
+          "cv": "27:57"
+        },
+        {
+          "firstSentence": 1087,
+          "lastSentence": 1088,
+          "cv": "27:58"
+        },
+        {
+          "firstSentence": 1089,
+          "lastSentence": 1089,
+          "cv": "27:59-60"
+        },
+        {
+          "firstSentence": 1090,
+          "lastSentence": 1090,
+          "cv": "27:61"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 915,
+      "lastSentence": 920,
+      "cvs": "19:38-42",
+      "units": [
+        {
+          "firstSentence": 915,
+          "lastSentence": 916,
+          "cv": "19:38"
+        },
+        {
+          "firstSentence": 917,
+          "lastSentence": 917,
+          "cv": "19:39"
+        },
+        {
+          "firstSentence": 918,
+          "lastSentence": 918,
+          "cv": "19:40"
+        },
+        {
+          "firstSentence": 919,
+          "lastSentence": 919,
+          "cv": "19:41"
+        },
+        {
+          "firstSentence": 920,
+          "lastSentence": 920,
+          "cv": "19:42"
+        }
+      ]
+    }
+  },
+  "pilate-guard-tomb": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "firstSentence": 1091,
+      "lastSentence": 1094,
+      "cvs": "27:62-66",
+      "units": [
+        {
+          "firstSentence": 1091,
+          "lastSentence": 1091,
+          "cv": "27:62-63"
+        },
+        {
+          "firstSentence": 1092,
+          "lastSentence": 1092,
+          "cv": "27:64"
+        },
+        {
+          "firstSentence": 1093,
+          "lastSentence": 1093,
+          "cv": "27:65"
+        },
+        {
+          "firstSentence": 1094,
+          "lastSentence": 1094,
+          "cv": "27:66"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "empty-tomb": {
+    "MRK": {
+      "firstSentence": 709,
+      "lastSentence": 719,
+      "cvs": "16:1-8",
+      "units": [
+        {
+          "firstSentence": 709,
+          "lastSentence": 709,
+          "cv": "16:1"
+        },
+        {
+          "firstSentence": 710,
+          "lastSentence": 710,
+          "cv": "16:2"
+        },
+        {
+          "firstSentence": 711,
+          "lastSentence": 711,
+          "cv": "16:3"
+        },
+        {
+          "firstSentence": 712,
+          "lastSentence": 712,
+          "cv": "16:4"
+        },
+        {
+          "firstSentence": 713,
+          "lastSentence": 713,
+          "cv": "16:5"
+        },
+        {
+          "firstSentence": 714,
+          "lastSentence": 717,
+          "cv": "16:6"
+        },
+        {
+          "firstSentence": 718,
+          "lastSentence": 718,
+          "cv": "16:7"
+        },
+        {
+          "firstSentence": 719,
+          "lastSentence": 719,
+          "cv": "16:8"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 1083,
+      "lastSentence": 1094,
+      "cvs": "24:1-12",
+      "units": [
+        {
+          "firstSentence": 1083,
+          "lastSentence": 1083,
+          "cv": "24:1"
+        },
+        {
+          "firstSentence": 1084,
+          "lastSentence": 1084,
+          "cv": "24:2"
+        },
+        {
+          "firstSentence": 1085,
+          "lastSentence": 1085,
+          "cv": "24:3"
+        },
+        {
+          "firstSentence": 1086,
+          "lastSentence": 1086,
+          "cv": "24:4"
+        },
+        {
+          "firstSentence": 1087,
+          "lastSentence": 1087,
+          "cv": "24:5"
+        },
+        {
+          "firstSentence": 1088,
+          "lastSentence": 1089,
+          "cv": "24:6-7"
+        },
+        {
+          "firstSentence": 1090,
+          "lastSentence": 1090,
+          "cv": "24:8"
+        },
+        {
+          "firstSentence": 1091,
+          "lastSentence": 1091,
+          "cv": "24:9"
+        },
+        {
+          "firstSentence": 1092,
+          "lastSentence": 1092,
+          "cv": "24:10"
+        },
+        {
+          "firstSentence": 1093,
+          "lastSentence": 1093,
+          "cv": "24:11"
+        },
+        {
+          "firstSentence": 1094,
+          "lastSentence": 1094,
+          "cv": "24:12"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 1095,
+      "lastSentence": 1104,
+      "cvs": "28:1-8",
+      "units": [
+        {
+          "firstSentence": 1095,
+          "lastSentence": 1095,
+          "cv": "28:1"
+        },
+        {
+          "firstSentence": 1096,
+          "lastSentence": 1096,
+          "cv": "28:2"
+        },
+        {
+          "firstSentence": 1097,
+          "lastSentence": 1097,
+          "cv": "28:3"
+        },
+        {
+          "firstSentence": 1098,
+          "lastSentence": 1098,
+          "cv": "28:4"
+        },
+        {
+          "firstSentence": 1099,
+          "lastSentence": 1099,
+          "cv": "28:5"
+        },
+        {
+          "firstSentence": 1100,
+          "lastSentence": 1101,
+          "cv": "28:6"
+        },
+        {
+          "firstSentence": 1102,
+          "lastSentence": 1103,
+          "cv": "28:7"
+        },
+        {
+          "firstSentence": 1104,
+          "lastSentence": 1104,
+          "cv": "28:8"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 921,
+      "lastSentence": 928,
+      "cvs": "20:1-10",
+      "units": [
+        {
+          "firstSentence": 921,
+          "lastSentence": 921,
+          "cv": "20:1"
+        },
+        {
+          "firstSentence": 922,
+          "lastSentence": 922,
+          "cv": "20:2"
+        },
+        {
+          "firstSentence": 923,
+          "lastSentence": 923,
+          "cv": "20:3"
+        },
+        {
+          "firstSentence": 924,
+          "lastSentence": 924,
+          "cv": "20:4"
+        },
+        {
+          "firstSentence": 925,
+          "lastSentence": 925,
+          "cv": "20:5"
+        },
+        {
+          "firstSentence": 926,
+          "lastSentence": 926,
+          "cv": "20:6-7"
+        },
+        {
+          "firstSentence": 927,
+          "lastSentence": 927,
+          "cv": "20:8-9"
+        },
+        {
+          "firstSentence": 928,
+          "lastSentence": 928,
+          "cv": "20:10"
+        }
+      ]
+    }
+  },
+  "jesus-first-appearance": {
+    "MRK": {
+      "firstSentence": 720,
+      "lastSentence": 722,
+      "cvs": "16:9-11",
+      "units": [
+        {
+          "firstSentence": 720,
+          "lastSentence": 720,
+          "cv": "16:9"
+        },
+        {
+          "firstSentence": 721,
+          "lastSentence": 721,
+          "cv": "16:10"
+        },
+        {
+          "firstSentence": 722,
+          "lastSentence": 722,
+          "cv": "16:11"
+        }
+      ]
+    },
+    "LUK": {},
+    "MAT": {
+      "firstSentence": 1105,
+      "lastSentence": 1108,
+      "cvs": "28:9-10",
+      "units": [
+        {
+          "firstSentence": 1105,
+          "lastSentence": 1106,
+          "cv": "28:9"
+        },
+        {
+          "firstSentence": 1107,
+          "lastSentence": 1108,
+          "cv": "28:10"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 929,
+      "lastSentence": 940,
+      "cvs": "20:11-18",
+      "units": [
+        {
+          "firstSentence": 929,
+          "lastSentence": 930,
+          "cv": "20:11-12"
+        },
+        {
+          "firstSentence": 931,
+          "lastSentence": 932,
+          "cv": "20:13"
+        },
+        {
+          "firstSentence": 933,
+          "lastSentence": 933,
+          "cv": "20:14"
+        },
+        {
+          "firstSentence": 934,
+          "lastSentence": 936,
+          "cv": "20:15"
+        },
+        {
+          "firstSentence": 937,
+          "lastSentence": 938,
+          "cv": "20:16"
+        },
+        {
+          "firstSentence": 939,
+          "lastSentence": 939,
+          "cv": "20:17"
+        },
+        {
+          "firstSentence": 940,
+          "lastSentence": 940,
+          "cv": "20:18"
+        }
+      ]
+    }
+  },
+  "jewish-leaders-resurrection-lie": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "firstSentence": 1109,
+      "lastSentence": 1113,
+      "cvs": "28:11-15",
+      "units": [
+        {
+          "firstSentence": 1109,
+          "lastSentence": 1109,
+          "cv": "28:11"
+        },
+        {
+          "firstSentence": 1110,
+          "lastSentence": 1110,
+          "cv": "28:12-13"
+        },
+        {
+          "firstSentence": 1111,
+          "lastSentence": 1111,
+          "cv": "28:14"
+        },
+        {
+          "firstSentence": 1112,
+          "lastSentence": 1113,
+          "cv": "28:15"
+        }
+      ]
+    },
+    "JHN": {}
+  },
+  "jesus-two-disciples": {
+    "MRK": {},
+    "LUK": {
+      "firstSentence": 1095,
+      "lastSentence": 1116,
+      "cvs": "24:13-35",
+      "units": [
+        {
+          "firstSentence": 1095,
+          "lastSentence": 1095,
+          "cv": "24:13-14"
+        },
+        {
+          "firstSentence": 1096,
+          "lastSentence": 1096,
+          "cv": "24:15-16"
+        },
+        {
+          "firstSentence": 1097,
+          "lastSentence": 1098,
+          "cv": "24:17"
+        },
+        {
+          "firstSentence": 1099,
+          "lastSentence": 1099,
+          "cv": "24:18"
+        },
+        {
+          "firstSentence": 1100,
+          "lastSentence": 1101,
+          "cv": "24:19-20"
+        },
+        {
+          "firstSentence": 1102,
+          "lastSentence": 1103,
+          "cv": "24:21"
+        },
+        {
+          "firstSentence": 1104,
+          "lastSentence": 1104,
+          "cv": "24:22-23"
+        },
+        {
+          "firstSentence": 1105,
+          "lastSentence": 1105,
+          "cv": "24:24"
+        },
+        {
+          "firstSentence": 1106,
+          "lastSentence": 1106,
+          "cv": "24:25"
+        },
+        {
+          "firstSentence": 1107,
+          "lastSentence": 1107,
+          "cv": "24:26"
+        },
+        {
+          "firstSentence": 1108,
+          "lastSentence": 1108,
+          "cv": "24:27"
+        },
+        {
+          "firstSentence": 1109,
+          "lastSentence": 1109,
+          "cv": "24:28"
+        },
+        {
+          "firstSentence": 1110,
+          "lastSentence": 1111,
+          "cv": "24:29-30"
+        },
+        {
+          "firstSentence": 1112,
+          "lastSentence": 1113,
+          "cv": "24:31"
+        },
+        {
+          "firstSentence": 1114,
+          "lastSentence": 1114,
+          "cv": "24:32"
+        },
+        {
+          "firstSentence": 1115,
+          "lastSentence": 1115,
+          "cv": "24:33-34"
+        },
+        {
+          "firstSentence": 1116,
+          "lastSentence": 1116,
+          "cv": "24:35"
+        }
+      ]
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "jesus-eleven-disciples": {
+    "MRK": {
+      "firstSentence": 725,
+      "lastSentence": 728,
+      "cvs": "16:14-18",
+      "units": [
+        {
+          "firstSentence": 725,
+          "lastSentence": 725,
+          "cv": "16:14"
+        },
+        {
+          "firstSentence": 726,
+          "lastSentence": 726,
+          "cv": "16:15"
+        },
+        {
+          "firstSentence": 727,
+          "lastSentence": 727,
+          "cv": "16:16"
+        },
+        {
+          "firstSentence": 728,
+          "lastSentence": 728,
+          "cv": "16:17-18"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 1117,
+      "lastSentence": 1130,
+      "cvs": "24:36-49",
+      "units": [
+        {
+          "firstSentence": 1117,
+          "lastSentence": 1117,
+          "cv": "24:36"
+        },
+        {
+          "firstSentence": 1118,
+          "lastSentence": 1118,
+          "cv": "24:37"
+        },
+        {
+          "firstSentence": 1119,
+          "lastSentence": 1119,
+          "cv": "24:38"
+        },
+        {
+          "firstSentence": 1120,
+          "lastSentence": 1121,
+          "cv": "24:39"
+        },
+        {
+          "firstSentence": 1122,
+          "lastSentence": 1122,
+          "cv": "24:40"
+        },
+        {
+          "firstSentence": 1123,
+          "lastSentence": 1123,
+          "cv": "24:41"
+        },
+        {
+          "firstSentence": 1124,
+          "lastSentence": 1124,
+          "cv": "24:42"
+        },
+        {
+          "firstSentence": 1125,
+          "lastSentence": 1125,
+          "cv": "24:43"
+        },
+        {
+          "firstSentence": 1126,
+          "lastSentence": 1126,
+          "cv": "24:44"
+        },
+        {
+          "firstSentence": 1127,
+          "lastSentence": 1128,
+          "cv": "24:45-47"
+        },
+        {
+          "firstSentence": 1129,
+          "lastSentence": 1129,
+          "cv": "24:48"
+        },
+        {
+          "firstSentence": 1130,
+          "lastSentence": 1130,
+          "cv": "24:49"
+        }
+      ]
+    },
+    "MAT": {
+      "firstSentence": 1114,
+      "lastSentence": 1118,
+      "cvs": "28:16-20",
+      "units": [
+        {
+          "firstSentence": 1114,
+          "lastSentence": 1114,
+          "cv": "28:16"
+        },
+        {
+          "firstSentence": 1115,
+          "lastSentence": 1115,
+          "cv": "28:17"
+        },
+        {
+          "firstSentence": 1116,
+          "lastSentence": 1116,
+          "cv": "28:18"
+        },
+        {
+          "firstSentence": 1117,
+          "lastSentence": 1118,
+          "cv": "28:19-20"
+        }
+      ]
+    },
+    "JHN": {
+      "firstSentence": 941,
+      "lastSentence": 946,
+      "cvs": "20:19-23",
+      "units": [
+        {
+          "firstSentence": 941,
+          "lastSentence": 941,
+          "cv": "20:19"
+        },
+        {
+          "firstSentence": 942,
+          "lastSentence": 943,
+          "cv": "20:20"
+        },
+        {
+          "firstSentence": 944,
+          "lastSentence": 944,
+          "cv": "20:21"
+        },
+        {
+          "firstSentence": 945,
+          "lastSentence": 945,
+          "cv": "20:22"
+        },
+        {
+          "firstSentence": 946,
+          "lastSentence": 946,
+          "cv": "20:23"
+        }
+      ]
+    }
+  },
+  "jesus-thomas": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 947,
+      "lastSentence": 955,
+      "cvs": "20:24-31",
+      "units": [
+        {
+          "firstSentence": 947,
+          "lastSentence": 947,
+          "cv": "20:24"
+        },
+        {
+          "firstSentence": 948,
+          "lastSentence": 949,
+          "cv": "20:25"
+        },
+        {
+          "firstSentence": 950,
+          "lastSentence": 951,
+          "cv": "20:26"
+        },
+        {
+          "firstSentence": 952,
+          "lastSentence": 952,
+          "cv": "20:27"
+        },
+        {
+          "firstSentence": 953,
+          "lastSentence": 953,
+          "cv": "20:28"
+        },
+        {
+          "firstSentence": 954,
+          "lastSentence": 954,
+          "cv": "20:29"
+        },
+        {
+          "firstSentence": 955,
+          "lastSentence": 955,
+          "cv": "20:30-31"
+        }
+      ]
+    }
+  },
+  "jesus-resurrection-eating": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "firstSentence": 956,
+      "lastSentence": 996,
+      "cvs": "21:1-25",
+      "units": [
+        {
+          "firstSentence": 956,
+          "lastSentence": 956,
+          "cv": "21:1-2"
+        },
+        {
+          "firstSentence": 957,
+          "lastSentence": 959,
+          "cv": "21:3"
+        },
+        {
+          "firstSentence": 960,
+          "lastSentence": 960,
+          "cv": "21:4"
+        },
+        {
+          "firstSentence": 961,
+          "lastSentence": 962,
+          "cv": "21:5"
+        },
+        {
+          "firstSentence": 963,
+          "lastSentence": 964,
+          "cv": "21:6"
+        },
+        {
+          "firstSentence": 965,
+          "lastSentence": 966,
+          "cv": "21:7"
+        },
+        {
+          "firstSentence": 967,
+          "lastSentence": 967,
+          "cv": "21:8"
+        },
+        {
+          "firstSentence": 968,
+          "lastSentence": 968,
+          "cv": "21:9"
+        },
+        {
+          "firstSentence": 969,
+          "lastSentence": 969,
+          "cv": "21:10"
+        },
+        {
+          "firstSentence": 970,
+          "lastSentence": 970,
+          "cv": "21:11"
+        },
+        {
+          "firstSentence": 971,
+          "lastSentence": 973,
+          "cv": "21:12"
+        },
+        {
+          "firstSentence": 974,
+          "lastSentence": 974,
+          "cv": "21:13"
+        },
+        {
+          "firstSentence": 975,
+          "lastSentence": 975,
+          "cv": "21:14"
+        },
+        {
+          "firstSentence": 976,
+          "lastSentence": 978,
+          "cv": "21:15"
+        },
+        {
+          "firstSentence": 979,
+          "lastSentence": 981,
+          "cv": "21:16"
+        },
+        {
+          "firstSentence": 982,
+          "lastSentence": 985,
+          "cv": "21:17"
+        },
+        {
+          "firstSentence": 986,
+          "lastSentence": 986,
+          "cv": "21:18"
+        },
+        {
+          "firstSentence": 987,
+          "lastSentence": 988,
+          "cv": "21:19"
+        },
+        {
+          "firstSentence": 989,
+          "lastSentence": 989,
+          "cv": "21:20"
+        },
+        {
+          "firstSentence": 990,
+          "lastSentence": 990,
+          "cv": "21:21"
+        },
+        {
+          "firstSentence": 991,
+          "lastSentence": 992,
+          "cv": "21:22"
+        },
+        {
+          "firstSentence": 993,
+          "lastSentence": 994,
+          "cv": "21:23"
+        },
+        {
+          "firstSentence": 995,
+          "lastSentence": 995,
+          "cv": "21:24"
+        },
+        {
+          "firstSentence": 996,
+          "lastSentence": 996,
+          "cv": "21:25"
+        }
+      ]
+    }
+  },
+  "ascension": {
+    "MRK": {
+      "firstSentence": 729,
+      "lastSentence": 731,
+      "cvs": "16:19-20",
+      "units": [
+        {
+          "firstSentence": 729,
+          "lastSentence": 729,
+          "cv": "16:19"
+        },
+        {
+          "firstSentence": 730,
+          "lastSentence": 731,
+          "cv": "16:20"
+        }
+      ]
+    },
+    "LUK": {
+      "firstSentence": 1131,
+      "lastSentence": 1134,
+      "cvs": "24:50-53",
+      "units": [
+        {
+          "firstSentence": 1131,
+          "lastSentence": 1131,
+          "cv": "24:50"
+        },
+        {
+          "firstSentence": 1132,
+          "lastSentence": 1132,
+          "cv": "24:51"
+        },
+        {
+          "firstSentence": 1133,
+          "lastSentence": 1133,
+          "cv": "24:52"
+        },
+        {
+          "firstSentence": 1134,
+          "lastSentence": 1134,
+          "cv": "24:53"
+        }
+      ]
+    },
+    "MAT": {},
+    "JHN": {}
+  }
+}

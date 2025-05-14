@@ -2,8 +2,8 @@
   "zacchaeus": {
     "MRK": {},
     "LUK": {
-      "firstSentence": 833,
-      "lastSentence": 841,
+      "firstSentence": 832,
+      "lastSentence": 840,
       "cvs": "19:1-10"
     },
     "MAT": {},
@@ -12,36 +12,36 @@
   "parable-talents": {
     "MRK": {},
     "LUK": {
-      "firstSentence": 842,
-      "lastSentence": 859,
+      "firstSentence": 841,
+      "lastSentence": 858,
       "cvs": "19:11-27"
     },
     "MAT": {
-      "firstSentence": 912,
-      "lastSentence": 933,
+      "firstSentence": 911,
+      "lastSentence": 932,
       "cvs": "25:14-30"
     },
     "JHN": {}
   },
   "entry-jerusalem": {
     "MRK": {
-      "firstSentence": 450,
-      "lastSentence": 462,
+      "firstSentence": 449,
+      "lastSentence": 461,
       "cvs": "11:1-11"
     },
     "LUK": {
-      "firstSentence": 860,
-      "lastSentence": 871,
+      "firstSentence": 859,
+      "lastSentence": 870,
       "cvs": "19:28-40"
     },
     "MAT": {
-      "firstSentence": 705,
-      "lastSentence": 714,
+      "firstSentence": 704,
+      "lastSentence": 713,
       "cvs": "21:1-11"
     },
     "JHN": {
-      "firstSentence": 598,
-      "lastSentence": 604,
+      "firstSentence": 597,
+      "lastSentence": 603,
       "cvs": "12:12-19"
     }
   },
@@ -50,8 +50,8 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 605,
-      "lastSentence": 627,
+      "firstSentence": 604,
+      "lastSentence": 626,
       "cvs": "12:20-36"
     }
   },
@@ -60,16 +60,16 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 628,
-      "lastSentence": 639,
+      "firstSentence": 627,
+      "lastSentence": 638,
       "cvs": "12:37-50"
     }
   },
   "jesus-weeps-crowd": {
     "MRK": {},
     "LUK": {
-      "firstSentence": 872,
-      "lastSentence": 873,
+      "firstSentence": 871,
+      "lastSentence": 872,
       "cvs": "19:41-44"
     },
     "MAT": {},
@@ -77,68 +77,68 @@
   },
   "jesus-curses-figtree": {
     "MRK": {
-      "firstSentence": 463,
-      "lastSentence": 466,
+      "firstSentence": 462,
+      "lastSentence": 465,
       "cvs": "11:12-14"
     },
     "LUK": {},
     "MAT": {
-      "firstSentence": 721,
-      "lastSentence": 723,
+      "firstSentence": 720,
+      "lastSentence": 722,
       "cvs": "21:18-22"
     },
     "JHN": {}
   },
   "jesus-cleanses-temple": {
     "MRK": {
-      "firstSentence": 467,
-      "lastSentence": 472,
+      "firstSentence": 466,
+      "lastSentence": 471,
       "cvs": "11:15-19"
     },
     "LUK": {
-      "firstSentence": 874,
-      "lastSentence": 875,
+      "firstSentence": 873,
+      "lastSentence": 874,
       "cvs": "19:45-48"
     },
     "MAT": {
-      "firstSentence": 715,
-      "lastSentence": 720,
+      "firstSentence": 714,
+      "lastSentence": 719,
       "cvs": "21:12-17"
     },
     "JHN": {
-      "firstSentence": 74,
-      "lastSentence": 83,
+      "firstSentence": 73,
+      "lastSentence": 82,
       "cvs": "2:13-22"
     }
   },
   "teaching-figtree": {
     "MRK": {
-      "firstSentence": 473,
-      "lastSentence": 479,
+      "firstSentence": 472,
+      "lastSentence": 478,
       "cvs": "11:20-26"
     },
     "LUK": {},
     "MAT": {
-      "firstSentence": 724,
-      "lastSentence": 726,
+      "firstSentence": 723,
+      "lastSentence": 725,
       "cvs": "21:20-22"
     },
     "JHN": {}
   },
   "jesus-source-authority": {
     "MRK": {
-      "firstSentence": 480,
-      "lastSentence": 491,
+      "firstSentence": 479,
+      "lastSentence": 490,
       "cvs": "11:27-33"
     },
     "LUK": {
-      "firstSentence": 876,
-      "lastSentence": 881,
+      "firstSentence": 875,
+      "lastSentence": 880,
       "cvs": "20:1-8"
     },
     "MAT": {
-      "firstSentence": 727,
-      "lastSentence": 735,
+      "firstSentence": 726,
+      "lastSentence": 734,
       "cvs": "21:23-27"
     },
     "JHN": {}
@@ -147,26 +147,26 @@
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "firstSentence": 736,
-      "lastSentence": 744,
+      "firstSentence": 735,
+      "lastSentence": 743,
       "cvs": "21:28-32"
     },
     "JHN": {}
   },
   "parable-wicked-servants": {
     "MRK": {
-      "firstSentence": 492,
-      "lastSentence": 504,
+      "firstSentence": 491,
+      "lastSentence": 503,
       "cvs": "12:1-12"
     },
     "LUK": {
-      "firstSentence": 882,
-      "lastSentence": 896,
+      "firstSentence": 881,
+      "lastSentence": 895,
       "cvs": "20:9-19"
     },
     "MAT": {
-      "firstSentence": 745,
-      "lastSentence": 758,
+      "firstSentence": 744,
+      "lastSentence": 757,
       "cvs": "21:33-46"
     },
     "JHN": {}
@@ -175,98 +175,98 @@
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "firstSentence": 759,
-      "lastSentence": 770,
+      "firstSentence": 758,
+      "lastSentence": 769,
       "cvs": "22:1-14"
     },
     "JHN": {}
   },
   "question-taxes": {
     "MRK": {
-      "firstSentence": 505,
-      "lastSentence": 515,
+      "firstSentence": 504,
+      "lastSentence": 514,
       "cvs": "12:13-17"
     },
     "LUK": {
-      "firstSentence": 897,
-      "lastSentence": 903,
+      "firstSentence": 896,
+      "lastSentence": 902,
       "cvs": "20:20-26"
     },
     "MAT": {
-      "firstSentence": 771,
-      "lastSentence": 780,
+      "firstSentence": 770,
+      "lastSentence": 779,
       "cvs": "22:15-22"
     },
     "JHN": {}
   },
   "question-resurrection": {
     "MRK": {
-      "firstSentence": 516,
-      "lastSentence": 526,
+      "firstSentence": 515,
+      "lastSentence": 525,
       "cvs": "12:18-27"
     },
     "LUK": {
-      "firstSentence": 904,
-      "lastSentence": 912,
+      "firstSentence": 903,
+      "lastSentence": 911,
       "cvs": "20:27-40"
     },
     "MAT": {
-      "firstSentence": 781,
-      "lastSentence": 790,
+      "firstSentence": 780,
+      "lastSentence": 789,
       "cvs": "22:23-33"
     },
     "JHN": {}
   },
   "question-greatest-commandment": {
     "MRK": {
-      "firstSentence": 527,
-      "lastSentence": 533,
+      "firstSentence": 526,
+      "lastSentence": 532,
       "cvs": "12:28-34"
     },
     "LUK": {
-      "firstSentence": 478,
-      "lastSentence": 483,
+      "firstSentence": 477,
+      "lastSentence": 482,
       "cvs": "10:25-28"
     },
     "MAT": {
-      "firstSentence": 791,
-      "lastSentence": 796,
+      "firstSentence": 790,
+      "lastSentence": 795,
       "cvs": "22:34-40"
     },
     "JHN": {}
   },
   "jesus-question-david": {
     "MRK": {
-      "firstSentence": 534,
-      "lastSentence": 537,
+      "firstSentence": 533,
+      "lastSentence": 536,
       "cvs": "12:35-37"
     },
     "LUK": {
-      "firstSentence": 913,
-      "lastSentence": 915,
+      "firstSentence": 912,
+      "lastSentence": 914,
       "cvs": "20:41-44"
     },
     "MAT": {
-      "firstSentence": 797,
-      "lastSentence": 802,
+      "firstSentence": 796,
+      "lastSentence": 801,
       "cvs": "22:41-46"
     },
     "JHN": {}
   },
   "jesus-warning-scribes": {
     "MRK": {
-      "firstSentence": 538,
-      "lastSentence": 539,
+      "firstSentence": 537,
+      "lastSentence": 538,
       "cvs": "12:38-40"
     },
     "LUK": {
-      "firstSentence": 916,
-      "lastSentence": 916,
+      "firstSentence": 915,
+      "lastSentence": 915,
       "cvs": "20:45-47"
     },
     "MAT": {
-      "firstSentence": 803,
-      "lastSentence": 848,
+      "firstSentence": 802,
+      "lastSentence": 847,
       "cvs": "23:1-36"
     },
     "JHN": {}
@@ -275,21 +275,21 @@
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "firstSentence": 849,
-      "lastSentence": 852,
+      "firstSentence": 848,
+      "lastSentence": 851,
       "cvs": "23:37-39"
     },
     "JHN": {}
   },
   "jesus-widow": {
     "MRK": {
-      "firstSentence": 540,
-      "lastSentence": 543,
+      "firstSentence": 539,
+      "lastSentence": 542,
       "cvs": "12:41-44"
     },
     "LUK": {
-      "firstSentence": 917,
-      "lastSentence": 919,
+      "firstSentence": 916,
+      "lastSentence": 918,
       "cvs": "21:1-4"
     },
     "MAT": {},
@@ -297,104 +297,104 @@
   },
   "jesus-destruction-temple": {
     "MRK": {
-      "firstSentence": 544,
-      "lastSentence": 546,
+      "firstSentence": 543,
+      "lastSentence": 545,
       "cvs": "13:1-2"
     },
     "LUK": {
-      "firstSentence": 920,
-      "lastSentence": 920,
+      "firstSentence": 919,
+      "lastSentence": 919,
       "cvs": "21:5-6"
     },
     "MAT": {
-      "firstSentence": 853,
-      "lastSentence": 855,
+      "firstSentence": 852,
+      "lastSentence": 854,
       "cvs": "24:1-2"
     },
     "JHN": {}
   },
   "jesus-endtimes-suffering": {
     "MRK": {
-      "firstSentence": 547,
-      "lastSentence": 558,
+      "firstSentence": 546,
+      "lastSentence": 557,
       "cvs": "13:3-13"
     },
     "LUK": {
-      "firstSentence": 921,
-      "lastSentence": 932,
+      "firstSentence": 920,
+      "lastSentence": 931,
       "cvs": "21:7-19"
     },
     "MAT": {
-      "firstSentence": 856,
-      "lastSentence": 866,
+      "firstSentence": 855,
+      "lastSentence": 865,
       "cvs": "24:3-14"
     },
     "JHN": {}
   },
   "jesus-endtimes-abominable": {
     "MRK": {
-      "firstSentence": 559,
-      "lastSentence": 566,
+      "firstSentence": 558,
+      "lastSentence": 565,
       "cvs": "13:14-23"
     },
     "LUK": {
-      "firstSentence": 933,
-      "lastSentence": 936,
+      "firstSentence": 932,
+      "lastSentence": 935,
       "cvs": "21:20-24"
     },
     "MAT": {
-      "firstSentence": 867,
-      "lastSentence": 878,
+      "firstSentence": 866,
+      "lastSentence": 877,
       "cvs": "24:15-28"
     },
     "JHN": {}
   },
   "jesus-endtimes-son-man": {
     "MRK": {
-      "firstSentence": 567,
-      "lastSentence": 568,
+      "firstSentence": 566,
+      "lastSentence": 567,
       "cvs": "13:24-27"
     },
     "LUK": {
-      "firstSentence": 937,
-      "lastSentence": 939,
+      "firstSentence": 936,
+      "lastSentence": 938,
       "cvs": "21:25-28"
     },
     "MAT": {
-      "firstSentence": 879,
-      "lastSentence": 881,
+      "firstSentence": 878,
+      "lastSentence": 880,
       "cvs": "24:29-31"
     },
     "JHN": {}
   },
   "parable-figtree": {
     "MRK": {
-      "firstSentence": 569,
-      "lastSentence": 572,
+      "firstSentence": 568,
+      "lastSentence": 571,
       "cvs": "13:28-31"
     },
     "LUK": {
-      "firstSentence": 940,
-      "lastSentence": 943,
+      "firstSentence": 939,
+      "lastSentence": 942,
       "cvs": "21:29-33"
     },
     "MAT": {
-      "firstSentence": 882,
-      "lastSentence": 885,
+      "firstSentence": 881,
+      "lastSentence": 884,
       "cvs": "24:32-35"
     },
     "JHN": {}
   },
   "jesus-endtimes-unexpected": {
     "MRK": {
-      "firstSentence": 573,
-      "lastSentence": 577,
+      "firstSentence": 572,
+      "lastSentence": 576,
       "cvs": "13:32-37"
     },
     "LUK": {},
     "MAT": {
-      "firstSentence": 886,
-      "lastSentence": 894,
+      "firstSentence": 885,
+      "lastSentence": 893,
       "cvs": "24:36-44"
     },
     "JHN": {}
@@ -402,8 +402,8 @@
   "jesus-endtimes-watch": {
     "MRK": {},
     "LUK": {
-      "firstSentence": 944,
-      "lastSentence": 947,
+      "firstSentence": 943,
+      "lastSentence": 946,
       "cvs": "21:34-38"
     },
     "MAT": {},
@@ -412,13 +412,13 @@
   "jesus-endtimes-faithful-servant": {
     "MRK": {},
     "LUK": {
-      "firstSentence": 590,
-      "lastSentence": 596,
+      "firstSentence": 589,
+      "lastSentence": 595,
       "cvs": "12:41-48"
     },
     "MAT": {
-      "firstSentence": 895,
-      "lastSentence": 898,
+      "firstSentence": 894,
+      "lastSentence": 897,
       "cvs": "24:45-51"
     },
     "JHN": {}
@@ -427,8 +427,8 @@
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "firstSentence": 899,
-      "lastSentence": 911,
+      "firstSentence": 898,
+      "lastSentence": 910,
       "cvs": "25:1-13"
     },
     "JHN": {}
@@ -437,49 +437,49 @@
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "firstSentence": 934,
-      "lastSentence": 947,
+      "firstSentence": 933,
+      "lastSentence": 946,
       "cvs": "25:31-46"
     },
     "JHN": {}
   },
   "plot-against-jesus": {
     "MRK": {
-      "firstSentence": 578,
-      "lastSentence": 580,
+      "firstSentence": 577,
+      "lastSentence": 579,
       "cvs": "14:1-2"
     },
     "LUK": {
-      "firstSentence": 948,
-      "lastSentence": 949,
+      "firstSentence": 947,
+      "lastSentence": 948,
       "cvs": "22:1-2"
     },
     "MAT": {
-      "firstSentence": 948,
-      "lastSentence": 949,
+      "firstSentence": 947,
+      "lastSentence": 948,
       "cvs": "26:1-5"
     },
     "JHN": {
-      "firstSentence": 578,
-      "lastSentence": 584,
+      "firstSentence": 577,
+      "lastSentence": 583,
       "cvs": "11:45-53"
     }
   },
   "jesus-woman-perfume": {
     "MRK": {
-      "firstSentence": 581,
-      "lastSentence": 589,
+      "firstSentence": 580,
+      "lastSentence": 588,
       "cvs": "14:3-9"
     },
     "LUK": {},
     "MAT": {
-      "firstSentence": 950,
-      "lastSentence": 957,
+      "firstSentence": 949,
+      "lastSentence": 956,
       "cvs": "26:6-13"
     },
     "JHN": {
-      "firstSentence": 590,
-      "lastSentence": 595,
+      "firstSentence": 589,
+      "lastSentence": 594,
       "cvs": "12:1-8"
     }
   },
@@ -488,48 +488,48 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 596,
-      "lastSentence": 597,
+      "firstSentence": 595,
+      "lastSentence": 596,
       "cvs": "12:9-11"
     }
   },
   "jesus-sells-jesus": {
     "MRK": {
-      "firstSentence": 590,
-      "lastSentence": 592,
+      "firstSentence": 589,
+      "lastSentence": 591,
       "cvs": "14:10-11"
     },
     "LUK": {
-      "firstSentence": 950,
-      "lastSentence": 953,
+      "firstSentence": 949,
+      "lastSentence": 952,
       "cvs": "22:3-6"
     },
     "MAT": {
-      "firstSentence": 958,
-      "lastSentence": 960,
+      "firstSentence": 957,
+      "lastSentence": 959,
       "cvs": "26:14-16"
     },
     "JHN": {}
   },
   "last-supper-preparation": {
     "MRK": {
-      "firstSentence": 593,
-      "lastSentence": 597,
+      "firstSentence": 592,
+      "lastSentence": 596,
       "cvs": "14:12-16"
     },
     "LUK": {
-      "firstSentence": 954,
-      "lastSentence": 960,
+      "firstSentence": 953,
+      "lastSentence": 959,
       "cvs": "22:7-13"
     },
     "MAT": {
-      "firstSentence": 961,
-      "lastSentence": 963,
+      "firstSentence": 960,
+      "lastSentence": 962,
       "cvs": "26:17-19"
     },
     "JHN": {
-      "firstSentence": 640,
-      "lastSentence": 640,
+      "firstSentence": 639,
+      "lastSentence": 639,
       "cvs": "13:1"
     }
   },
@@ -538,26 +538,26 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 641,
-      "lastSentence": 658,
+      "firstSentence": 640,
+      "lastSentence": 657,
       "cvs": "13:2-20"
     }
   },
   "jesus-announces-betrayal": {
     "MRK": {
-      "firstSentence": 598,
-      "lastSentence": 602,
+      "firstSentence": 597,
+      "lastSentence": 601,
       "cvs": "14:17-21"
     },
     "LUK": {},
     "MAT": {
-      "firstSentence": 964,
-      "lastSentence": 970,
+      "firstSentence": 963,
+      "lastSentence": 969,
       "cvs": "26:20-25"
     },
     "JHN": {
-      "firstSentence": 659,
-      "lastSentence": 669,
+      "firstSentence": 658,
+      "lastSentence": 668,
       "cvs": "13:21-30"
     }
   },
@@ -566,25 +566,25 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 670,
-      "lastSentence": 675,
+      "firstSentence": 669,
+      "lastSentence": 674,
       "cvs": "13:31-35"
     }
   },
   "jesus-bread-wine": {
     "MRK": {
-      "firstSentence": 603,
-      "lastSentence": 607,
+      "firstSentence": 602,
+      "lastSentence": 606,
       "cvs": "14:22-26"
     },
     "LUK": {
-      "firstSentence": 961,
-      "lastSentence": 969,
+      "firstSentence": 960,
+      "lastSentence": 968,
       "cvs": "22:14-23"
     },
     "MAT": {
-      "firstSentence": 971,
-      "lastSentence": 974,
+      "firstSentence": 970,
+      "lastSentence": 973,
       "cvs": "26:26-30"
     },
     "JHN": {}
@@ -592,8 +592,8 @@
   "last-supper-disciples-argument": {
     "MRK": {},
     "LUK": {
-      "firstSentence": 970,
-      "lastSentence": 977,
+      "firstSentence": 969,
+      "lastSentence": 976,
       "cvs": "22:24-30"
     },
     "MAT": {},
@@ -601,23 +601,23 @@
   },
   "jesus-announces-peter-betrayal": {
     "MRK": {
-      "firstSentence": 608,
-      "lastSentence": 613,
+      "firstSentence": 607,
+      "lastSentence": 612,
       "cvs": "14:27-31"
     },
     "LUK": {
-      "firstSentence": 978,
-      "lastSentence": 980,
+      "firstSentence": 977,
+      "lastSentence": 979,
       "cvs": "22:31-34"
     },
     "MAT": {
-      "firstSentence": 975,
-      "lastSentence": 979,
+      "firstSentence": 974,
+      "lastSentence": 978,
       "cvs": "26:31-35"
     },
     "JHN": {
-      "firstSentence": 676,
-      "lastSentence": 681,
+      "firstSentence": 675,
+      "lastSentence": 680,
       "cvs": "13:36-38"
     }
   },
@@ -626,8 +626,8 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 682,
-      "lastSentence": 697,
+      "firstSentence": 681,
+      "lastSentence": 696,
       "cvs": "14:1-14"
     }
   },
@@ -636,8 +636,8 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 698,
-      "lastSentence": 715,
+      "firstSentence": 697,
+      "lastSentence": 714,
       "cvs": "14:15-31"
     }
   },
@@ -646,8 +646,8 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 716,
-      "lastSentence": 735,
+      "firstSentence": 715,
+      "lastSentence": 734,
       "cvs": "15:1-17"
     }
   },
@@ -656,8 +656,8 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 736,
-      "lastSentence": 746,
+      "firstSentence": 735,
+      "lastSentence": 745,
       "cvs": "15:18-27"
     }
   },
@@ -666,8 +666,8 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 747,
-      "lastSentence": 751,
+      "firstSentence": 746,
+      "lastSentence": 750,
       "cvs": "16:1-4"
     }
   },
@@ -676,8 +676,8 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 752,
-      "lastSentence": 760,
+      "firstSentence": 751,
+      "lastSentence": 759,
       "cvs": "16:5-15"
     }
   },
@@ -686,8 +686,8 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 761,
-      "lastSentence": 782,
+      "firstSentence": 760,
+      "lastSentence": 781,
       "cvs": "16:16-33"
     }
   },
@@ -696,16 +696,16 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 783,
-      "lastSentence": 806,
+      "firstSentence": 782,
+      "lastSentence": 805,
       "cvs": "17:1-26"
     }
   },
   "jesus-ends-discussion": {
     "MRK": {},
     "LUK": {
-      "firstSentence": 981,
-      "lastSentence": 986,
+      "firstSentence": 980,
+      "lastSentence": 985,
       "cvs": "22:35-38"
     },
     "MAT": {},
@@ -713,63 +713,63 @@
   },
   "jesus-goto-mount-olivier": {
     "MRK": {
-      "firstSentence": 614,
-      "lastSentence": 627,
+      "firstSentence": 613,
+      "lastSentence": 626,
       "cvs": "14:32-42"
     },
     "LUK": {
-      "firstSentence": 987,
-      "lastSentence": 994,
+      "firstSentence": 986,
+      "lastSentence": 993,
       "cvs": "22:39-46"
     },
     "MAT": {
-      "firstSentence": 980,
-      "lastSentence": 995,
+      "firstSentence": 979,
+      "lastSentence": 994,
       "cvs": "26:36-46"
     },
     "JHN": {}
   },
   "judas-betrays-jesus": {
     "MRK": {
-      "firstSentence": 628,
-      "lastSentence": 636,
+      "firstSentence": 627,
+      "lastSentence": 635,
       "cvs": "14:43-52"
     },
     "LUK": {
-      "firstSentence": 995,
-      "lastSentence": 1002,
+      "firstSentence": 994,
+      "lastSentence": 1001,
       "cvs": "22:47-53"
     },
     "MAT": {
-      "firstSentence": 996,
-      "lastSentence": 1008,
+      "firstSentence": 995,
+      "lastSentence": 1007,
       "cvs": "26:47-56"
     },
     "JHN": {
-      "firstSentence": 807,
-      "lastSentence": 820,
+      "firstSentence": 806,
+      "lastSentence": 819,
       "cvs": "18:1-11"
     }
   },
   "jewish-leaders-question-jesus": {
     "MRK": {
-      "firstSentence": 637,
-      "lastSentence": 653,
+      "firstSentence": 636,
+      "lastSentence": 652,
       "cvs": "14:53-65"
     },
     "LUK": {
-      "firstSentence": 1018,
-      "lastSentence": 1024,
+      "firstSentence": 1017,
+      "lastSentence": 1023,
       "cvs": "22:66-71"
     },
     "MAT": {
-      "firstSentence": 1009,
-      "lastSentence": 1022,
+      "firstSentence": 1008,
+      "lastSentence": 1021,
       "cvs": "26:57-68"
     },
     "JHN": {
-      "firstSentence": 821,
-      "lastSentence": 823,
+      "firstSentence": 820,
+      "lastSentence": 822,
       "cvs": "18:12-14"
     }
   },
@@ -778,30 +778,30 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 831,
-      "lastSentence": 837,
+      "firstSentence": 830,
+      "lastSentence": 836,
       "cvs": "18:19-24"
     }
   },
   "peter-denies-jesus": {
     "MRK": {
-      "firstSentence": 654,
-      "lastSentence": 660,
+      "firstSentence": 653,
+      "lastSentence": 659,
       "cvs": "14:66-72"
     },
     "LUK": {
-      "firstSentence": 1003,
-      "lastSentence": 1014,
+      "firstSentence": 1002,
+      "lastSentence": 1013,
       "cvs": "22:54-62"
     },
     "MAT": {
-      "firstSentence": 1023,
-      "lastSentence": 1030,
+      "firstSentence": 1022,
+      "lastSentence": 1029,
       "cvs": "26:69-75"
     },
     "JHN": {
-      "firstSentence": 824,
-      "lastSentence": 830,
+      "firstSentence": 823,
+      "lastSentence": 829,
       "cvs": "18:15-18"
     }
   },
@@ -810,16 +810,16 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 838,
-      "lastSentence": 842,
+      "firstSentence": 837,
+      "lastSentence": 841,
       "cvs": "18:25-27"
     }
   },
   "soldiers-mock-jesus": {
     "MRK": {},
     "LUK": {
-      "firstSentence": 1015,
-      "lastSentence": 1017,
+      "firstSentence": 1014,
+      "lastSentence": 1016,
       "cvs": "22:63-65"
     },
     "MAT": {},
@@ -827,23 +827,23 @@
   },
   "pilate-questions-jesus": {
     "MRK": {
-      "firstSentence": 661,
-      "lastSentence": 667,
+      "firstSentence": 660,
+      "lastSentence": 666,
       "cvs": "15:1-5"
     },
     "LUK": {
-      "firstSentence": 1025,
-      "lastSentence": 1030,
+      "firstSentence": 1024,
+      "lastSentence": 1029,
       "cvs": "23:1-5"
     },
     "MAT": {
-      "firstSentence": 1031,
-      "lastSentence": 1044,
+      "firstSentence": 1030,
+      "lastSentence": 1043,
       "cvs": "27:1-2, 11"
     },
     "JHN": {
-      "firstSentence": 843,
-      "lastSentence": 861,
+      "firstSentence": 842,
+      "lastSentence": 860,
       "cvs": "18:28-38"
     }
   },
@@ -851,8 +851,8 @@
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "firstSentence": 1032,
-      "lastSentence": 1039,
+      "firstSentence": 1031,
+      "lastSentence": 1038,
       "cvs": "27:3-10"
     },
     "JHN": {}
@@ -860,8 +860,8 @@
   "jesus-herod-pilate": {
     "MRK": {},
     "LUK": {
-      "firstSentence": 1031,
-      "lastSentence": 1036,
+      "firstSentence": 1030,
+      "lastSentence": 1035,
       "cvs": "23:6-12"
     },
     "MAT": {},
@@ -869,85 +869,85 @@
   },
   "jesus-barabbas-condemned": {
     "MRK": {
-      "firstSentence": 668,
-      "lastSentence": 678,
+      "firstSentence": 667,
+      "lastSentence": 677,
       "cvs": "15:6-15"
     },
     "LUK": {
-      "firstSentence": 1037,
-      "lastSentence": 1051,
+      "firstSentence": 1036,
+      "lastSentence": 1050,
       "cvs": "23:13-25"
     },
     "MAT": {
-      "firstSentence": 1045,
-      "lastSentence": 1059,
+      "firstSentence": 1044,
+      "lastSentence": 1058,
       "cvs": "27:15-26"
     },
     "JHN": {
-      "firstSentence": 862,
-      "lastSentence": 892,
+      "firstSentence": 861,
+      "lastSentence": 891,
       "cvs": "18:39-19"
     }
   },
   "soldiers-mock-jesus-2": {
     "MRK": {
-      "firstSentence": 679,
-      "lastSentence": 683,
+      "firstSentence": 678,
+      "lastSentence": 682,
       "cvs": "15:16-20"
     },
     "LUK": {},
     "MAT": {
-      "firstSentence": 1060,
-      "lastSentence": 1063,
+      "firstSentence": 1059,
+      "lastSentence": 1062,
       "cvs": "27:27-31"
     },
     "JHN": {
-      "firstSentence": 866,
-      "lastSentence": 867,
+      "firstSentence": 865,
+      "lastSentence": 866,
       "cvs": "19:2-3"
     }
   },
   "soldiers-crucify-jesus": {
     "MRK": {
-      "firstSentence": 684,
-      "lastSentence": 695,
+      "firstSentence": 683,
+      "lastSentence": 694,
       "cvs": "15:21-32"
     },
     "LUK": {
-      "firstSentence": 1052,
-      "lastSentence": 1069,
+      "firstSentence": 1051,
+      "lastSentence": 1068,
       "cvs": "23:26-43"
     },
     "MAT": {
-      "firstSentence": 1064,
-      "lastSentence": 1076,
+      "firstSentence": 1063,
+      "lastSentence": 1075,
       "cvs": "27:32-44"
     },
     "JHN": {
-      "firstSentence": 893,
-      "lastSentence": 905,
+      "firstSentence": 892,
+      "lastSentence": 904,
       "cvs": "19:17-27"
     }
   },
   "jesus-dies": {
     "MRK": {
-      "firstSentence": 696,
-      "lastSentence": 704,
+      "firstSentence": 695,
+      "lastSentence": 703,
       "cvs": "15:33-41"
     },
     "LUK": {
-      "firstSentence": 1070,
-      "lastSentence": 1076,
+      "firstSentence": 1069,
+      "lastSentence": 1075,
       "cvs": "23:44-49"
     },
     "MAT": {
-      "firstSentence": 1077,
-      "lastSentence": 1086,
+      "firstSentence": 1076,
+      "lastSentence": 1085,
       "cvs": "27:45-56"
     },
     "JHN": {
-      "firstSentence": 906,
-      "lastSentence": 909,
+      "firstSentence": 905,
+      "lastSentence": 908,
       "cvs": "19:28-30"
     }
   },
@@ -956,30 +956,30 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 910,
-      "lastSentence": 915,
+      "firstSentence": 909,
+      "lastSentence": 914,
       "cvs": "19:31-37"
     }
   },
   "joseph-tomb-jesus": {
     "MRK": {
-      "firstSentence": 705,
-      "lastSentence": 709,
+      "firstSentence": 704,
+      "lastSentence": 708,
       "cvs": "15:42-47"
     },
     "LUK": {
-      "firstSentence": 1077,
-      "lastSentence": 1083,
+      "firstSentence": 1076,
+      "lastSentence": 1082,
       "cvs": "23:50-56"
     },
     "MAT": {
-      "firstSentence": 1087,
-      "lastSentence": 1091,
+      "firstSentence": 1086,
+      "lastSentence": 1090,
       "cvs": "27:57-61"
     },
     "JHN": {
-      "firstSentence": 916,
-      "lastSentence": 921,
+      "firstSentence": 915,
+      "lastSentence": 920,
       "cvs": "19:38-42"
     }
   },
@@ -987,49 +987,49 @@
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "firstSentence": 1092,
-      "lastSentence": 1095,
+      "firstSentence": 1091,
+      "lastSentence": 1094,
       "cvs": "27:62-66"
     },
     "JHN": {}
   },
   "empty-tomb": {
     "MRK": {
-      "firstSentence": 710,
-      "lastSentence": 720,
+      "firstSentence": 709,
+      "lastSentence": 719,
       "cvs": "16:1-8"
     },
     "LUK": {
-      "firstSentence": 1084,
-      "lastSentence": 1095,
+      "firstSentence": 1083,
+      "lastSentence": 1094,
       "cvs": "24:1-12"
     },
     "MAT": {
-      "firstSentence": 1096,
-      "lastSentence": 1105,
+      "firstSentence": 1095,
+      "lastSentence": 1104,
       "cvs": "28:1-8"
     },
     "JHN": {
-      "firstSentence": 922,
-      "lastSentence": 929,
+      "firstSentence": 921,
+      "lastSentence": 928,
       "cvs": "20:1-10"
     }
   },
   "jesus-first-appearance": {
     "MRK": {
-      "firstSentence": 721,
-      "lastSentence": 723,
+      "firstSentence": 720,
+      "lastSentence": 722,
       "cvs": "16:9-11"
     },
     "LUK": {},
     "MAT": {
-      "firstSentence": 1106,
-      "lastSentence": 1109,
+      "firstSentence": 1105,
+      "lastSentence": 1108,
       "cvs": "28:9-10"
     },
     "JHN": {
-      "firstSentence": 930,
-      "lastSentence": 941,
+      "firstSentence": 929,
+      "lastSentence": 940,
       "cvs": "20:11-18"
     }
   },
@@ -1037,8 +1037,8 @@
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "firstSentence": 1110,
-      "lastSentence": 1114,
+      "firstSentence": 1109,
+      "lastSentence": 1113,
       "cvs": "28:11-15"
     },
     "JHN": {}
@@ -1046,8 +1046,8 @@
   "jesus-two-disciples": {
     "MRK": {},
     "LUK": {
-      "firstSentence": 1096,
-      "lastSentence": 1117,
+      "firstSentence": 1095,
+      "lastSentence": 1116,
       "cvs": "24:13-35"
     },
     "MAT": {},
@@ -1055,23 +1055,23 @@
   },
   "jesus-eleven-disciples": {
     "MRK": {
-      "firstSentence": 726,
-      "lastSentence": 729,
+      "firstSentence": 725,
+      "lastSentence": 728,
       "cvs": "16:14-18"
     },
     "LUK": {
-      "firstSentence": 1118,
-      "lastSentence": 1131,
+      "firstSentence": 1117,
+      "lastSentence": 1130,
       "cvs": "24:36-49"
     },
     "MAT": {
-      "firstSentence": 1115,
-      "lastSentence": 1119,
+      "firstSentence": 1114,
+      "lastSentence": 1118,
       "cvs": "28:16-20"
     },
     "JHN": {
-      "firstSentence": 942,
-      "lastSentence": 947,
+      "firstSentence": 941,
+      "lastSentence": 946,
       "cvs": "20:19-23"
     }
   },
@@ -1080,8 +1080,8 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 948,
-      "lastSentence": 956,
+      "firstSentence": 947,
+      "lastSentence": 955,
       "cvs": "20:24-31"
     }
   },
@@ -1090,20 +1090,20 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "firstSentence": 957,
-      "lastSentence": 997,
+      "firstSentence": 956,
+      "lastSentence": 996,
       "cvs": "21:1-25"
     }
   },
   "ascension": {
     "MRK": {
-      "firstSentence": 730,
-      "lastSentence": 732,
+      "firstSentence": 729,
+      "lastSentence": 731,
       "cvs": "16:19-20"
     },
     "LUK": {
-      "firstSentence": 1132,
-      "lastSentence": 1135,
+      "firstSentence": 1131,
+      "lastSentence": 1134,
       "cvs": "24:50-53"
     },
     "MAT": {},

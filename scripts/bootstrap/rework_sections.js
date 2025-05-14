@@ -42,8 +42,8 @@ console.log(
                                 kv2[0],
                                 kv2[1].fromJuxta ?
                                     {
-                                        firstSentence: parseInt(kv2[1].fromJuxta),
-                                        lastSentence: parseInt(kv2[1].toJuxta),
+                                        firstSentence: parseInt(kv2[1].fromJuxta) - 1,
+                                        lastSentence: parseInt(kv2[1].toJuxta) - 1,
                                         cvs: cvForBookSection(kv2[1])
                                     } :
                                     {}
