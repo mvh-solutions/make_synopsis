@@ -2,12 +2,9 @@
   "zacchaeus": {
     "MRK": {},
     "LUK": {
-      "fromChapter": "19",
-      "toChapter": "19",
-      "fromVerse": "1",
-      "toVerse": "10",
-      "fromJuxta": "833",
-      "toJuxta": "841"
+      "firstSentence": 833,
+      "lastSentence": 841,
+      "cvs": "19:1-10"
     },
     "MAT": {},
     "JHN": {}
@@ -15,55 +12,37 @@
   "parable-talents": {
     "MRK": {},
     "LUK": {
-      "fromChapter": "19",
-      "toChapter": "19",
-      "fromVerse": "11",
-      "toVerse": "27",
-      "fromJuxta": "842",
-      "toJuxta": "859"
+      "firstSentence": 842,
+      "lastSentence": 859,
+      "cvs": "19:11-27"
     },
     "MAT": {
-      "fromChapter": "25",
-      "toChapter": "25",
-      "fromVerse": "14",
-      "toVerse": "30",
-      "fromJuxta": "912",
-      "toJuxta": "933"
+      "firstSentence": 912,
+      "lastSentence": 933,
+      "cvs": "25:14-30"
     },
     "JHN": {}
   },
   "entry-jerusalem": {
     "MRK": {
-      "fromChapter": "11",
-      "toChapter": "11",
-      "fromVerse": "1",
-      "toVerse": "11",
-      "fromJuxta": "450",
-      "toJuxta": "462"
+      "firstSentence": 450,
+      "lastSentence": 462,
+      "cvs": "11:1-11"
     },
     "LUK": {
-      "fromChapter": "19",
-      "toChapter": "19",
-      "fromVerse": "28",
-      "toVerse": "40",
-      "fromJuxta": "860",
-      "toJuxta": "871"
+      "firstSentence": 860,
+      "lastSentence": 871,
+      "cvs": "19:28-40"
     },
     "MAT": {
-      "fromChapter": "21",
-      "toChapter": "21",
-      "fromVerse": "1",
-      "toVerse": "11",
-      "fromJuxta": "705",
-      "toJuxta": "714"
+      "firstSentence": 705,
+      "lastSentence": 714,
+      "cvs": "21:1-11"
     },
     "JHN": {
-      "fromChapter": "12",
-      "toChapter": "12",
-      "fromVerse": "12",
-      "toVerse": "19",
-      "fromJuxta": "598",
-      "toJuxta": "604"
+      "firstSentence": 598,
+      "lastSentence": 604,
+      "cvs": "12:12-19"
     }
   },
   "jesus-death-crowds": {
@@ -71,12 +50,9 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "12",
-      "toChapter": "12",
-      "fromVerse": "20",
-      "toVerse": "36",
-      "fromJuxta": "605",
-      "toJuxta": "627"
+      "firstSentence": 605,
+      "lastSentence": 627,
+      "cvs": "12:20-36"
     }
   },
   "jews-reject-jesus": {
@@ -84,125 +60,86 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "12",
-      "toChapter": "12",
-      "fromVerse": "37",
-      "toVerse": "50",
-      "fromJuxta": "628",
-      "toJuxta": "639"
+      "firstSentence": 628,
+      "lastSentence": 639,
+      "cvs": "12:37-50"
     }
   },
   "jesus-weeps-crowd": {
     "MRK": {},
     "LUK": {
-      "fromChapter": "19",
-      "toChapter": "19",
-      "fromVerse": "41",
-      "toVerse": "44",
-      "fromJuxta": "872",
-      "toJuxta": "873"
+      "firstSentence": 872,
+      "lastSentence": 873,
+      "cvs": "19:41-44"
     },
     "MAT": {},
     "JHN": {}
   },
   "jesus-curses-figtree": {
     "MRK": {
-      "fromChapter": "11",
-      "toChapter": "11",
-      "fromVerse": "12",
-      "toVerse": "14",
-      "fromJuxta": "463",
-      "toJuxta": "466"
+      "firstSentence": 463,
+      "lastSentence": 466,
+      "cvs": "11:12-14"
     },
     "LUK": {},
     "MAT": {
-      "fromChapter": "21",
-      "toChapter": "21",
-      "fromVerse": "18",
-      "toVerse": "22",
-      "fromJuxta": "721",
-      "toJuxta": "723"
+      "firstSentence": 721,
+      "lastSentence": 723,
+      "cvs": "21:18-22"
     },
     "JHN": {}
   },
   "jesus-cleanses-temple": {
     "MRK": {
-      "fromChapter": "11",
-      "toChapter": "11",
-      "fromVerse": "15",
-      "toVerse": "19",
-      "fromJuxta": "467",
-      "toJuxta": "472"
+      "firstSentence": 467,
+      "lastSentence": 472,
+      "cvs": "11:15-19"
     },
     "LUK": {
-      "fromChapter": "19",
-      "toChapter": "19",
-      "fromVerse": "45",
-      "toVerse": "48",
-      "fromJuxta": "874",
-      "toJuxta": "875"
+      "firstSentence": 874,
+      "lastSentence": 875,
+      "cvs": "19:45-48"
     },
     "MAT": {
-      "fromChapter": "21",
-      "toChapter": "21",
-      "fromVerse": "12",
-      "toVerse": "17",
-      "fromJuxta": "715",
-      "toJuxta": "720"
+      "firstSentence": 715,
+      "lastSentence": 720,
+      "cvs": "21:12-17"
     },
     "JHN": {
-      "fromChapter": "2",
-      "toChapter": "2",
-      "fromVerse": "13",
-      "toVerse": "22",
-      "fromJuxta": "74",
-      "toJuxta": "83"
+      "firstSentence": 74,
+      "lastSentence": 83,
+      "cvs": "2:13-22"
     }
   },
   "teaching-figtree": {
     "MRK": {
-      "fromChapter": "11",
-      "toChapter": "11",
-      "fromVerse": "20",
-      "toVerse": "26",
-      "fromJuxta": "473",
-      "toJuxta": "479"
+      "firstSentence": 473,
+      "lastSentence": 479,
+      "cvs": "11:20-26"
     },
     "LUK": {},
     "MAT": {
-      "fromChapter": "21",
-      "toChapter": "21",
-      "fromVerse": "20",
-      "toVerse": "22",
-      "fromJuxta": "724",
-      "toJuxta": "726"
+      "firstSentence": 724,
+      "lastSentence": 726,
+      "cvs": "21:20-22"
     },
     "JHN": {}
   },
   "jesus-source-authority": {
     "MRK": {
-      "fromChapter": "11",
-      "toChapter": "11",
-      "fromVerse": "27",
-      "toVerse": "33",
-      "fromJuxta": "480",
-      "toJuxta": "491"
+      "firstSentence": 480,
+      "lastSentence": 491,
+      "cvs": "11:27-33"
     },
     "LUK": {
-      "fromChapter": "20",
-      "toChapter": "20",
-      "fromVerse": "1",
-      "toVerse": "8",
-      "fromJuxta": "876",
-      "toJuxta": "881"
+      "firstSentence": 876,
+      "lastSentence": 881,
+      "cvs": "20:1-8"
     },
     "MAT": {
-      "fromChapter": "21",
-      "toChapter": "21",
-      "fromVerse": "23",
-      "toVerse": "27",
-      "fromJuxta": "727",
-      "toJuxta": "735"
+      "firstSentence": 727,
+      "lastSentence": 735,
+      "cvs": "21:23-27"
     },
     "JHN": {}
   },
@@ -210,39 +147,27 @@
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "fromChapter": "21",
-      "toChapter": "21",
-      "fromVerse": "28",
-      "toVerse": "32",
-      "fromJuxta": "736",
-      "toJuxta": "744"
+      "firstSentence": 736,
+      "lastSentence": 744,
+      "cvs": "21:28-32"
     },
     "JHN": {}
   },
   "parable-wicked-servants": {
     "MRK": {
-      "fromChapter": "12",
-      "toChapter": "12",
-      "fromVerse": "1",
-      "toVerse": "12",
-      "fromJuxta": "492",
-      "toJuxta": "504"
+      "firstSentence": 492,
+      "lastSentence": 504,
+      "cvs": "12:1-12"
     },
     "LUK": {
-      "fromChapter": "20",
-      "toChapter": "20",
-      "fromVerse": "9",
-      "toVerse": "19",
-      "fromJuxta": "882",
-      "toJuxta": "896"
+      "firstSentence": 882,
+      "lastSentence": 896,
+      "cvs": "20:9-19"
     },
     "MAT": {
-      "fromChapter": "21",
-      "toChapter": "21",
-      "fromVerse": "33",
-      "toVerse": "46",
-      "fromJuxta": "745",
-      "toJuxta": "758"
+      "firstSentence": 745,
+      "lastSentence": 758,
+      "cvs": "21:33-46"
     },
     "JHN": {}
   },
@@ -250,147 +175,99 @@
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "1",
-      "toVerse": "14",
-      "fromJuxta": "759",
-      "toJuxta": "770"
+      "firstSentence": 759,
+      "lastSentence": 770,
+      "cvs": "22:1-14"
     },
     "JHN": {}
   },
   "question-taxes": {
     "MRK": {
-      "fromChapter": "12",
-      "toChapter": "12",
-      "fromVerse": "13",
-      "toVerse": "17",
-      "fromJuxta": "505",
-      "toJuxta": "515"
+      "firstSentence": 505,
+      "lastSentence": 515,
+      "cvs": "12:13-17"
     },
     "LUK": {
-      "fromChapter": "20",
-      "toChapter": "20",
-      "fromVerse": "20",
-      "toVerse": "26",
-      "fromJuxta": "897",
-      "toJuxta": "903"
+      "firstSentence": 897,
+      "lastSentence": 903,
+      "cvs": "20:20-26"
     },
     "MAT": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "15",
-      "toVerse": "22",
-      "fromJuxta": "771",
-      "toJuxta": "780"
+      "firstSentence": 771,
+      "lastSentence": 780,
+      "cvs": "22:15-22"
     },
     "JHN": {}
   },
   "question-resurrection": {
     "MRK": {
-      "fromChapter": "12",
-      "toChapter": "12",
-      "fromVerse": "18",
-      "toVerse": "27",
-      "fromJuxta": "516",
-      "toJuxta": "526"
+      "firstSentence": 516,
+      "lastSentence": 526,
+      "cvs": "12:18-27"
     },
     "LUK": {
-      "fromChapter": "20",
-      "toChapter": "20",
-      "fromVerse": "27",
-      "toVerse": "40",
-      "fromJuxta": "904",
-      "toJuxta": "912"
+      "firstSentence": 904,
+      "lastSentence": 912,
+      "cvs": "20:27-40"
     },
     "MAT": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "23",
-      "toVerse": "33",
-      "fromJuxta": "781",
-      "toJuxta": "790"
+      "firstSentence": 781,
+      "lastSentence": 790,
+      "cvs": "22:23-33"
     },
     "JHN": {}
   },
   "question-greatest-commandment": {
     "MRK": {
-      "fromChapter": "12",
-      "toChapter": "12",
-      "fromVerse": "28",
-      "toVerse": "34",
-      "fromJuxta": "527",
-      "toJuxta": "533"
+      "firstSentence": 527,
+      "lastSentence": 533,
+      "cvs": "12:28-34"
     },
     "LUK": {
-      "fromChapter": "10",
-      "toChapter": "10",
-      "fromVerse": "25",
-      "toVerse": "28",
-      "fromJuxta": "478",
-      "toJuxta": "483"
+      "firstSentence": 478,
+      "lastSentence": 483,
+      "cvs": "10:25-28"
     },
     "MAT": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "34",
-      "toVerse": "40",
-      "fromJuxta": "791",
-      "toJuxta": "796"
+      "firstSentence": 791,
+      "lastSentence": 796,
+      "cvs": "22:34-40"
     },
     "JHN": {}
   },
   "jesus-question-david": {
     "MRK": {
-      "fromChapter": "12",
-      "toChapter": "12",
-      "fromVerse": "35",
-      "toVerse": "37",
-      "fromJuxta": "534",
-      "toJuxta": "537"
+      "firstSentence": 534,
+      "lastSentence": 537,
+      "cvs": "12:35-37"
     },
     "LUK": {
-      "fromChapter": "20",
-      "toChapter": "20",
-      "fromVerse": "41",
-      "toVerse": "44",
-      "fromJuxta": "913",
-      "toJuxta": "915"
+      "firstSentence": 913,
+      "lastSentence": 915,
+      "cvs": "20:41-44"
     },
     "MAT": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "41",
-      "toVerse": "46",
-      "fromJuxta": "797",
-      "toJuxta": "802"
+      "firstSentence": 797,
+      "lastSentence": 802,
+      "cvs": "22:41-46"
     },
     "JHN": {}
   },
   "jesus-warning-scribes": {
     "MRK": {
-      "fromChapter": "12",
-      "toChapter": "12",
-      "fromVerse": "38",
-      "toVerse": "40",
-      "fromJuxta": "538",
-      "toJuxta": "539"
+      "firstSentence": 538,
+      "lastSentence": 539,
+      "cvs": "12:38-40"
     },
     "LUK": {
-      "fromChapter": "20",
-      "toChapter": "20",
-      "fromVerse": "45",
-      "toVerse": "47",
-      "fromJuxta": "916",
-      "toJuxta": "916"
+      "firstSentence": 916,
+      "lastSentence": 916,
+      "cvs": "20:45-47"
     },
     "MAT": {
-      "fromChapter": "23",
-      "toChapter": "23",
-      "fromVerse": "1",
-      "toVerse": "36",
-      "fromJuxta": "803",
-      "toJuxta": "848"
+      "firstSentence": 803,
+      "lastSentence": 848,
+      "cvs": "23:1-36"
     },
     "JHN": {}
   },
@@ -398,199 +275,136 @@
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "fromChapter": "23",
-      "toChapter": "23",
-      "fromVerse": "37",
-      "toVerse": "39",
-      "fromJuxta": "849",
-      "toJuxta": "852"
+      "firstSentence": 849,
+      "lastSentence": 852,
+      "cvs": "23:37-39"
     },
     "JHN": {}
   },
   "jesus-widow": {
     "MRK": {
-      "fromChapter": "12",
-      "toChapter": "12",
-      "fromVerse": "41",
-      "toVerse": "44",
-      "fromJuxta": "540",
-      "toJuxta": "543"
+      "firstSentence": 540,
+      "lastSentence": 543,
+      "cvs": "12:41-44"
     },
     "LUK": {
-      "fromChapter": "21",
-      "toChapter": "21",
-      "fromVerse": "1",
-      "toVerse": "4",
-      "fromJuxta": "917",
-      "toJuxta": "919"
+      "firstSentence": 917,
+      "lastSentence": 919,
+      "cvs": "21:1-4"
     },
     "MAT": {},
     "JHN": {}
   },
   "jesus-destruction-temple": {
     "MRK": {
-      "fromChapter": "13",
-      "toChapter": "13",
-      "fromVerse": "1",
-      "toVerse": "2",
-      "fromJuxta": "544",
-      "toJuxta": "546"
+      "firstSentence": 544,
+      "lastSentence": 546,
+      "cvs": "13:1-2"
     },
     "LUK": {
-      "fromChapter": "21",
-      "toChapter": "21",
-      "fromVerse": "5",
-      "toVerse": "6",
-      "fromJuxta": "920",
-      "toJuxta": "920"
+      "firstSentence": 920,
+      "lastSentence": 920,
+      "cvs": "21:5-6"
     },
     "MAT": {
-      "fromChapter": "24",
-      "toChapter": "24",
-      "fromVerse": "1",
-      "toVerse": "2",
-      "fromJuxta": "853",
-      "toJuxta": "855"
+      "firstSentence": 853,
+      "lastSentence": 855,
+      "cvs": "24:1-2"
     },
     "JHN": {}
   },
   "jesus-endtimes-suffering": {
     "MRK": {
-      "fromChapter": "13",
-      "toChapter": "13",
-      "fromVerse": "3",
-      "toVerse": "13",
-      "fromJuxta": "547",
-      "toJuxta": "558"
+      "firstSentence": 547,
+      "lastSentence": 558,
+      "cvs": "13:3-13"
     },
     "LUK": {
-      "fromChapter": "21",
-      "toChapter": "21",
-      "fromVerse": "7",
-      "toVerse": "19",
-      "fromJuxta": "921",
-      "toJuxta": "932"
+      "firstSentence": 921,
+      "lastSentence": 932,
+      "cvs": "21:7-19"
     },
     "MAT": {
-      "fromChapter": "24",
-      "toChapter": "24",
-      "fromVerse": "3",
-      "toVerse": "14",
-      "fromJuxta": "856",
-      "toJuxta": "866"
+      "firstSentence": 856,
+      "lastSentence": 866,
+      "cvs": "24:3-14"
     },
     "JHN": {}
   },
   "jesus-endtimes-abominable": {
     "MRK": {
-      "fromChapter": "13",
-      "toChapter": "13",
-      "fromVerse": "14",
-      "toVerse": "23",
-      "fromJuxta": "559",
-      "toJuxta": "566"
+      "firstSentence": 559,
+      "lastSentence": 566,
+      "cvs": "13:14-23"
     },
     "LUK": {
-      "fromChapter": "21",
-      "toChapter": "21",
-      "fromVerse": "20",
-      "toVerse": "24",
-      "fromJuxta": "933",
-      "toJuxta": "936"
+      "firstSentence": 933,
+      "lastSentence": 936,
+      "cvs": "21:20-24"
     },
     "MAT": {
-      "fromChapter": "24",
-      "toChapter": "24",
-      "fromVerse": "15",
-      "toVerse": "28",
-      "fromJuxta": "867",
-      "toJuxta": "878"
+      "firstSentence": 867,
+      "lastSentence": 878,
+      "cvs": "24:15-28"
     },
     "JHN": {}
   },
   "jesus-endtimes-son-man": {
     "MRK": {
-      "fromChapter": "13",
-      "toChapter": "13",
-      "fromVerse": "24",
-      "toVerse": "27",
-      "fromJuxta": "567",
-      "toJuxta": "568"
+      "firstSentence": 567,
+      "lastSentence": 568,
+      "cvs": "13:24-27"
     },
     "LUK": {
-      "fromChapter": "21",
-      "toChapter": "21",
-      "fromVerse": "25",
-      "toVerse": "28",
-      "fromJuxta": "937",
-      "toJuxta": "939"
+      "firstSentence": 937,
+      "lastSentence": 939,
+      "cvs": "21:25-28"
     },
     "MAT": {
-      "fromChapter": "24",
-      "toChapter": "24",
-      "fromVerse": "29",
-      "toVerse": "31",
-      "fromJuxta": "879",
-      "toJuxta": "881"
+      "firstSentence": 879,
+      "lastSentence": 881,
+      "cvs": "24:29-31"
     },
     "JHN": {}
   },
   "parable-figtree": {
     "MRK": {
-      "fromChapter": "13",
-      "toChapter": "13",
-      "fromVerse": "28",
-      "toVerse": "31",
-      "fromJuxta": "569",
-      "toJuxta": "572"
+      "firstSentence": 569,
+      "lastSentence": 572,
+      "cvs": "13:28-31"
     },
     "LUK": {
-      "fromChapter": "21",
-      "toChapter": "21",
-      "fromVerse": "29",
-      "toVerse": "33",
-      "fromJuxta": "940",
-      "toJuxta": "943"
+      "firstSentence": 940,
+      "lastSentence": 943,
+      "cvs": "21:29-33"
     },
     "MAT": {
-      "fromChapter": "24",
-      "toChapter": "24",
-      "fromVerse": "32",
-      "toVerse": "35",
-      "fromJuxta": "882",
-      "toJuxta": "885"
+      "firstSentence": 882,
+      "lastSentence": 885,
+      "cvs": "24:32-35"
     },
     "JHN": {}
   },
   "jesus-endtimes-unexpected": {
     "MRK": {
-      "fromChapter": "13",
-      "toChapter": "13",
-      "fromVerse": "32",
-      "toVerse": "37",
-      "fromJuxta": "573",
-      "toJuxta": "577"
+      "firstSentence": 573,
+      "lastSentence": 577,
+      "cvs": "13:32-37"
     },
     "LUK": {},
     "MAT": {
-      "fromChapter": "24",
-      "toChapter": "24",
-      "fromVerse": "36",
-      "toVerse": "44",
-      "fromJuxta": "886",
-      "toJuxta": "894"
+      "firstSentence": 886,
+      "lastSentence": 894,
+      "cvs": "24:36-44"
     },
     "JHN": {}
   },
   "jesus-endtimes-watch": {
     "MRK": {},
     "LUK": {
-      "fromChapter": "21",
-      "toChapter": "21",
-      "fromVerse": "34",
-      "toVerse": "38",
-      "fromJuxta": "944",
-      "toJuxta": "947"
+      "firstSentence": 944,
+      "lastSentence": 947,
+      "cvs": "21:34-38"
     },
     "MAT": {},
     "JHN": {}
@@ -598,20 +412,14 @@
   "jesus-endtimes-faithful-servant": {
     "MRK": {},
     "LUK": {
-      "fromChapter": "12",
-      "toChapter": "12",
-      "fromVerse": "41",
-      "toVerse": "48",
-      "fromJuxta": "590",
-      "toJuxta": "596"
+      "firstSentence": 590,
+      "lastSentence": 596,
+      "cvs": "12:41-48"
     },
     "MAT": {
-      "fromChapter": "24",
-      "toChapter": "24",
-      "fromVerse": "45",
-      "toVerse": "51",
-      "fromJuxta": "895",
-      "toJuxta": "898"
+      "firstSentence": 895,
+      "lastSentence": 898,
+      "cvs": "24:45-51"
     },
     "JHN": {}
   },
@@ -619,12 +427,9 @@
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "fromChapter": "25",
-      "toChapter": "25",
-      "fromVerse": "1",
-      "toVerse": "13",
-      "fromJuxta": "899",
-      "toJuxta": "911"
+      "firstSentence": 899,
+      "lastSentence": 911,
+      "cvs": "25:1-13"
     },
     "JHN": {}
   },
@@ -632,74 +437,50 @@
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "fromChapter": "25",
-      "toChapter": "25",
-      "fromVerse": "31",
-      "toVerse": "46",
-      "fromJuxta": "934",
-      "toJuxta": "947"
+      "firstSentence": 934,
+      "lastSentence": 947,
+      "cvs": "25:31-46"
     },
     "JHN": {}
   },
   "plot-against-jesus": {
     "MRK": {
-      "fromChapter": "14",
-      "toChapter": "14",
-      "fromVerse": "1",
-      "toVerse": "2",
-      "fromJuxta": "578",
-      "toJuxta": "580"
+      "firstSentence": 578,
+      "lastSentence": 580,
+      "cvs": "14:1-2"
     },
     "LUK": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "1",
-      "toVerse": "2",
-      "fromJuxta": "948",
-      "toJuxta": "949"
+      "firstSentence": 948,
+      "lastSentence": 949,
+      "cvs": "22:1-2"
     },
     "MAT": {
-      "fromChapter": "26",
-      "toChapter": "26",
-      "fromVerse": "1",
-      "toVerse": "5",
-      "fromJuxta": "948",
-      "toJuxta": "949"
+      "firstSentence": 948,
+      "lastSentence": 949,
+      "cvs": "26:1-5"
     },
     "JHN": {
-      "fromChapter": "11",
-      "toChapter": "11",
-      "fromVerse": "45",
-      "toVerse": "53",
-      "fromJuxta": "578",
-      "toJuxta": "584"
+      "firstSentence": 578,
+      "lastSentence": 584,
+      "cvs": "11:45-53"
     }
   },
   "jesus-woman-perfume": {
     "MRK": {
-      "fromChapter": "14",
-      "toChapter": "14",
-      "fromVerse": "3",
-      "toVerse": "9",
-      "fromJuxta": "581",
-      "toJuxta": "589"
+      "firstSentence": 581,
+      "lastSentence": 589,
+      "cvs": "14:3-9"
     },
     "LUK": {},
     "MAT": {
-      "fromChapter": "26",
-      "toChapter": "26",
-      "fromVerse": "6",
-      "toVerse": "13",
-      "fromJuxta": "950",
-      "toJuxta": "957"
+      "firstSentence": 950,
+      "lastSentence": 957,
+      "cvs": "26:6-13"
     },
     "JHN": {
-      "fromChapter": "12",
-      "toChapter": "12",
-      "fromVerse": "1",
-      "toVerse": "8",
-      "fromJuxta": "590",
-      "toJuxta": "595"
+      "firstSentence": 590,
+      "lastSentence": 595,
+      "cvs": "12:1-8"
     }
   },
   "plot-against-lazarus": {
@@ -707,73 +488,49 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "12",
-      "toChapter": "12",
-      "fromVerse": "9",
-      "toVerse": "11",
-      "fromJuxta": "596",
-      "toJuxta": "597"
+      "firstSentence": 596,
+      "lastSentence": 597,
+      "cvs": "12:9-11"
     }
   },
   "jesus-sells-jesus": {
     "MRK": {
-      "fromChapter": "14",
-      "toChapter": "14",
-      "fromVerse": "10",
-      "toVerse": "11",
-      "fromJuxta": "590",
-      "toJuxta": "592"
+      "firstSentence": 590,
+      "lastSentence": 592,
+      "cvs": "14:10-11"
     },
     "LUK": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "3",
-      "toVerse": "6",
-      "fromJuxta": "950",
-      "toJuxta": "953"
+      "firstSentence": 950,
+      "lastSentence": 953,
+      "cvs": "22:3-6"
     },
     "MAT": {
-      "fromChapter": "26",
-      "toChapter": "26",
-      "fromVerse": "14",
-      "toVerse": "16",
-      "fromJuxta": "958",
-      "toJuxta": "960"
+      "firstSentence": 958,
+      "lastSentence": 960,
+      "cvs": "26:14-16"
     },
     "JHN": {}
   },
   "last-supper-preparation": {
     "MRK": {
-      "fromChapter": "14",
-      "toChapter": "14",
-      "fromVerse": "12",
-      "toVerse": "16",
-      "fromJuxta": "593",
-      "toJuxta": "597"
+      "firstSentence": 593,
+      "lastSentence": 597,
+      "cvs": "14:12-16"
     },
     "LUK": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "7",
-      "toVerse": "13",
-      "fromJuxta": "954",
-      "toJuxta": "960"
+      "firstSentence": 954,
+      "lastSentence": 960,
+      "cvs": "22:7-13"
     },
     "MAT": {
-      "fromChapter": "26",
-      "toChapter": "26",
-      "fromVerse": "17",
-      "toVerse": "19",
-      "fromJuxta": "961",
-      "toJuxta": "963"
+      "firstSentence": 961,
+      "lastSentence": 963,
+      "cvs": "26:17-19"
     },
     "JHN": {
-      "fromChapter": "13",
-      "toChapter": "13",
-      "fromVerse": "1",
-      "toVerse": "1",
-      "fromJuxta": "640",
-      "toJuxta": "640"
+      "firstSentence": 640,
+      "lastSentence": 640,
+      "cvs": "13:1"
     }
   },
   "jesus-washes-feet": {
@@ -781,39 +538,27 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "13",
-      "toChapter": "13",
-      "fromVerse": "2",
-      "toVerse": "20",
-      "fromJuxta": "641",
-      "toJuxta": "658"
+      "firstSentence": 641,
+      "lastSentence": 658,
+      "cvs": "13:2-20"
     }
   },
   "jesus-announces-betrayal": {
     "MRK": {
-      "fromChapter": "14",
-      "toChapter": "14",
-      "fromVerse": "17",
-      "toVerse": "21",
-      "fromJuxta": "598",
-      "toJuxta": "602"
+      "firstSentence": 598,
+      "lastSentence": 602,
+      "cvs": "14:17-21"
     },
     "LUK": {},
     "MAT": {
-      "fromChapter": "26",
-      "toChapter": "26",
-      "fromVerse": "20",
-      "toVerse": "25",
-      "fromJuxta": "964",
-      "toJuxta": "970"
+      "firstSentence": 964,
+      "lastSentence": 970,
+      "cvs": "26:20-25"
     },
     "JHN": {
-      "fromChapter": "13",
-      "toChapter": "13",
-      "fromVerse": "21",
-      "toVerse": "30",
-      "fromJuxta": "659",
-      "toJuxta": "669"
+      "firstSentence": 659,
+      "lastSentence": 669,
+      "cvs": "13:21-30"
     }
   },
   "jesus-new-commandment": {
@@ -821,86 +566,59 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "13",
-      "toChapter": "13",
-      "fromVerse": "31",
-      "toVerse": "35",
-      "fromJuxta": "670",
-      "toJuxta": "675"
+      "firstSentence": 670,
+      "lastSentence": 675,
+      "cvs": "13:31-35"
     }
   },
   "jesus-bread-wine": {
     "MRK": {
-      "fromChapter": "14",
-      "toChapter": "14",
-      "fromVerse": "22",
-      "toVerse": "26",
-      "fromJuxta": "603",
-      "toJuxta": "607"
+      "firstSentence": 603,
+      "lastSentence": 607,
+      "cvs": "14:22-26"
     },
     "LUK": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "14",
-      "toVerse": "23",
-      "fromJuxta": "961",
-      "toJuxta": "969"
+      "firstSentence": 961,
+      "lastSentence": 969,
+      "cvs": "22:14-23"
     },
     "MAT": {
-      "fromChapter": "26",
-      "toChapter": "26",
-      "fromVerse": "26",
-      "toVerse": "30",
-      "fromJuxta": "971",
-      "toJuxta": "974"
+      "firstSentence": 971,
+      "lastSentence": 974,
+      "cvs": "26:26-30"
     },
     "JHN": {}
   },
   "last-supper-disciples-argument": {
     "MRK": {},
     "LUK": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "24",
-      "toVerse": "30",
-      "fromJuxta": "970",
-      "toJuxta": "977"
+      "firstSentence": 970,
+      "lastSentence": 977,
+      "cvs": "22:24-30"
     },
     "MAT": {},
     "JHN": {}
   },
   "jesus-announces-peter-betrayal": {
     "MRK": {
-      "fromChapter": "14",
-      "toChapter": "14",
-      "fromVerse": "27",
-      "toVerse": "31",
-      "fromJuxta": "608",
-      "toJuxta": "613"
+      "firstSentence": 608,
+      "lastSentence": 613,
+      "cvs": "14:27-31"
     },
     "LUK": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "31",
-      "toVerse": "34",
-      "fromJuxta": "978",
-      "toJuxta": "980"
+      "firstSentence": 978,
+      "lastSentence": 980,
+      "cvs": "22:31-34"
     },
     "MAT": {
-      "fromChapter": "26",
-      "toChapter": "26",
-      "fromVerse": "31",
-      "toVerse": "35",
-      "fromJuxta": "975",
-      "toJuxta": "979"
+      "firstSentence": 975,
+      "lastSentence": 979,
+      "cvs": "26:31-35"
     },
     "JHN": {
-      "fromChapter": "13",
-      "toChapter": "13",
-      "fromVerse": "36",
-      "toVerse": "38",
-      "fromJuxta": "676",
-      "toJuxta": "681"
+      "firstSentence": 676,
+      "lastSentence": 681,
+      "cvs": "13:36-38"
     }
   },
   "jesus-way-truth-life": {
@@ -908,12 +626,9 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "14",
-      "toChapter": "14",
-      "fromVerse": "1",
-      "toVerse": "14",
-      "fromJuxta": "682",
-      "toJuxta": "697"
+      "firstSentence": 682,
+      "lastSentence": 697,
+      "cvs": "14:1-14"
     }
   },
   "jesus-sending-spirit": {
@@ -921,12 +636,9 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "14",
-      "toChapter": "14",
-      "fromVerse": "15",
-      "toVerse": "31",
-      "fromJuxta": "698",
-      "toJuxta": "715"
+      "firstSentence": 698,
+      "lastSentence": 715,
+      "cvs": "14:15-31"
     }
   },
   "jesus-disciples-dwell": {
@@ -934,12 +646,9 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "15",
-      "toChapter": "15",
-      "fromVerse": "1",
-      "toVerse": "17",
-      "fromJuxta": "716",
-      "toJuxta": "735"
+      "firstSentence": 716,
+      "lastSentence": 735,
+      "cvs": "15:1-17"
     }
   },
   "jesus-world-hates-followers": {
@@ -947,12 +656,9 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "15",
-      "toChapter": "15",
-      "fromVerse": "18",
-      "toVerse": "27",
-      "fromJuxta": "736",
-      "toJuxta": "746"
+      "firstSentence": 736,
+      "lastSentence": 746,
+      "cvs": "15:18-27"
     }
   },
   "jesus-warning-strengthen": {
@@ -960,12 +666,9 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "16",
-      "toChapter": "16",
-      "fromVerse": "1",
-      "toVerse": "4",
-      "fromJuxta": "747",
-      "toJuxta": "751"
+      "firstSentence": 747,
+      "lastSentence": 751,
+      "cvs": "16:1-4"
     }
   },
   "jesus-action-spirit": {
@@ -973,12 +676,9 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "16",
-      "toChapter": "16",
-      "fromVerse": "5",
-      "toVerse": "15",
-      "fromJuxta": "752",
-      "toJuxta": "760"
+      "firstSentence": 752,
+      "lastSentence": 760,
+      "cvs": "16:5-15"
     }
   },
   "jesus-leaving-returning": {
@@ -986,12 +686,9 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "16",
-      "toChapter": "16",
-      "fromVerse": "16",
-      "toVerse": "33",
-      "fromJuxta": "761",
-      "toJuxta": "782"
+      "firstSentence": 761,
+      "lastSentence": 782,
+      "cvs": "16:16-33"
     }
   },
   "jesus-prayer-disciples": {
@@ -999,120 +696,81 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "17",
-      "toChapter": "17",
-      "fromVerse": "1",
-      "toVerse": "26",
-      "fromJuxta": "783",
-      "toJuxta": "806"
+      "firstSentence": 783,
+      "lastSentence": 806,
+      "cvs": "17:1-26"
     }
   },
   "jesus-ends-discussion": {
     "MRK": {},
     "LUK": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "35",
-      "toVerse": "38",
-      "fromJuxta": "981",
-      "toJuxta": "986"
+      "firstSentence": 981,
+      "lastSentence": 986,
+      "cvs": "22:35-38"
     },
     "MAT": {},
     "JHN": {}
   },
   "jesus-goto-mount-olivier": {
     "MRK": {
-      "fromChapter": "14",
-      "toChapter": "14",
-      "fromVerse": "32",
-      "toVerse": "42",
-      "fromJuxta": "614",
-      "toJuxta": "627"
+      "firstSentence": 614,
+      "lastSentence": 627,
+      "cvs": "14:32-42"
     },
     "LUK": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "39",
-      "toVerse": "46",
-      "fromJuxta": "987",
-      "toJuxta": "994"
+      "firstSentence": 987,
+      "lastSentence": 994,
+      "cvs": "22:39-46"
     },
     "MAT": {
-      "fromChapter": "26",
-      "toChapter": "26",
-      "fromVerse": "36",
-      "toVerse": "46",
-      "fromJuxta": "980",
-      "toJuxta": "995"
+      "firstSentence": 980,
+      "lastSentence": 995,
+      "cvs": "26:36-46"
     },
     "JHN": {}
   },
   "judas-betrays-jesus": {
     "MRK": {
-      "fromChapter": "14",
-      "toChapter": "14",
-      "fromVerse": "43",
-      "toVerse": "52",
-      "fromJuxta": "628",
-      "toJuxta": "636"
+      "firstSentence": 628,
+      "lastSentence": 636,
+      "cvs": "14:43-52"
     },
     "LUK": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "47",
-      "toVerse": "53",
-      "fromJuxta": "995",
-      "toJuxta": "1002"
+      "firstSentence": 995,
+      "lastSentence": 1002,
+      "cvs": "22:47-53"
     },
     "MAT": {
-      "fromChapter": "26",
-      "toChapter": "26",
-      "fromVerse": "47",
-      "toVerse": "56",
-      "fromJuxta": "996",
-      "toJuxta": "1008"
+      "firstSentence": 996,
+      "lastSentence": 1008,
+      "cvs": "26:47-56"
     },
     "JHN": {
-      "fromChapter": "18",
-      "toChapter": "18",
-      "fromVerse": "1",
-      "toVerse": "11",
-      "fromJuxta": "807",
-      "toJuxta": "820"
+      "firstSentence": 807,
+      "lastSentence": 820,
+      "cvs": "18:1-11"
     }
   },
   "jewish-leaders-question-jesus": {
     "MRK": {
-      "fromChapter": "14",
-      "toChapter": "14",
-      "fromVerse": "53",
-      "toVerse": "65",
-      "fromJuxta": "637",
-      "toJuxta": "653"
+      "firstSentence": 637,
+      "lastSentence": 653,
+      "cvs": "14:53-65"
     },
     "LUK": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "66",
-      "toVerse": "71",
-      "fromJuxta": "1018",
-      "toJuxta": "1024"
+      "firstSentence": 1018,
+      "lastSentence": 1024,
+      "cvs": "22:66-71"
     },
     "MAT": {
-      "fromChapter": "26",
-      "toChapter": "26",
-      "fromVerse": "57",
-      "toVerse": "68",
-      "fromJuxta": "1009",
-      "toJuxta": "1022"
+      "firstSentence": 1009,
+      "lastSentence": 1022,
+      "cvs": "26:57-68"
     },
     "JHN": {
-      "fromChapter": "18",
-      "toChapter": "18",
-      "fromVerse": "12",
-      "toVerse": "14",
-      "fromJuxta": "821",
-      "toJuxta": "823"
+      "firstSentence": 821,
+      "lastSentence": 823,
+      "cvs": "18:12-14"
     }
   },
   "jewish-leaders-question-jesus-john": {
@@ -1120,46 +778,31 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "18",
-      "toChapter": "18",
-      "fromVerse": "19",
-      "toVerse": "24",
-      "fromJuxta": "831",
-      "toJuxta": "837"
+      "firstSentence": 831,
+      "lastSentence": 837,
+      "cvs": "18:19-24"
     }
   },
   "peter-denies-jesus": {
     "MRK": {
-      "fromChapter": "14",
-      "toChapter": "14",
-      "fromVerse": "66",
-      "toVerse": "72",
-      "fromJuxta": "654",
-      "toJuxta": "660"
+      "firstSentence": 654,
+      "lastSentence": 660,
+      "cvs": "14:66-72"
     },
     "LUK": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "54",
-      "toVerse": "62",
-      "fromJuxta": "1003",
-      "toJuxta": "1014"
+      "firstSentence": 1003,
+      "lastSentence": 1014,
+      "cvs": "22:54-62"
     },
     "MAT": {
-      "fromChapter": "26",
-      "toChapter": "26",
-      "fromVerse": "69",
-      "toVerse": "75",
-      "fromJuxta": "1023",
-      "toJuxta": "1030"
+      "firstSentence": 1023,
+      "lastSentence": 1030,
+      "cvs": "26:69-75"
     },
     "JHN": {
-      "fromChapter": "18",
-      "toChapter": "18",
-      "fromVerse": "15",
-      "toVerse": "18",
-      "fromJuxta": "824",
-      "toJuxta": "830"
+      "firstSentence": 824,
+      "lastSentence": 830,
+      "cvs": "18:15-18"
     }
   },
   "peter-denies-jesus-john": {
@@ -1167,214 +810,145 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "18",
-      "toChapter": "18",
-      "fromVerse": "25",
-      "toVerse": "27",
-      "fromJuxta": "838",
-      "toJuxta": "842"
+      "firstSentence": 838,
+      "lastSentence": 842,
+      "cvs": "18:25-27"
     }
   },
   "soldiers-mock-jesus": {
     "MRK": {},
     "LUK": {
-      "fromChapter": "22",
-      "toChapter": "22",
-      "fromVerse": "63",
-      "toVerse": "65",
-      "fromJuxta": "1015",
-      "toJuxta": "1017"
+      "firstSentence": 1015,
+      "lastSentence": 1017,
+      "cvs": "22:63-65"
     },
     "MAT": {},
     "JHN": {}
   },
   "pilate-questions-jesus": {
     "MRK": {
-      "fromChapter": "15",
-      "toChapter": "15",
-      "fromVerse": "1",
-      "toVerse": "5",
-      "fromJuxta": "661",
-      "toJuxta": "667"
+      "firstSentence": 661,
+      "lastSentence": 667,
+      "cvs": "15:1-5"
     },
     "LUK": {
-      "fromChapter": "23",
-      "toChapter": "23",
-      "fromVerse": "1",
-      "toVerse": "5",
-      "fromJuxta": "1025",
-      "toJuxta": "1030"
+      "firstSentence": 1025,
+      "lastSentence": 1030,
+      "cvs": "23:1-5"
     },
     "MAT": {
-      "fromChapter": "27",
-      "toChapter": "27",
-      "fromVerse": "1",
-      "toVerse": "2, 11",
-      "fromJuxta": "1031, 1040",
-      "toJuxta": "1044"
+      "firstSentence": 1031,
+      "lastSentence": 1044,
+      "cvs": "27:1-2, 11"
     },
     "JHN": {
-      "fromChapter": "18",
-      "toChapter": "18",
-      "fromVerse": "28",
-      "toVerse": "38",
-      "fromJuxta": "843",
-      "toJuxta": "861"
+      "firstSentence": 843,
+      "lastSentence": 861,
+      "cvs": "18:28-38"
     }
   },
   "judas-hanging": {
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "fromChapter": "27",
-      "toChapter": "27",
-      "fromVerse": "3",
-      "toVerse": "10",
-      "fromJuxta": "1032",
-      "toJuxta": "1039"
+      "firstSentence": 1032,
+      "lastSentence": 1039,
+      "cvs": "27:3-10"
     },
     "JHN": {}
   },
   "jesus-herod-pilate": {
     "MRK": {},
     "LUK": {
-      "fromChapter": "23",
-      "toChapter": "23",
-      "fromVerse": "6",
-      "toVerse": "12",
-      "fromJuxta": "1031",
-      "toJuxta": "1036"
+      "firstSentence": 1031,
+      "lastSentence": 1036,
+      "cvs": "23:6-12"
     },
     "MAT": {},
     "JHN": {}
   },
   "jesus-barabbas-condemned": {
     "MRK": {
-      "fromChapter": "15",
-      "toChapter": "15",
-      "fromVerse": "6",
-      "toVerse": "15",
-      "fromJuxta": "668",
-      "toJuxta": "678"
+      "firstSentence": 668,
+      "lastSentence": 678,
+      "cvs": "15:6-15"
     },
     "LUK": {
-      "fromChapter": "23",
-      "toChapter": "23",
-      "fromVerse": "13",
-      "toVerse": "25",
-      "fromJuxta": "1037",
-      "toJuxta": "1051"
+      "firstSentence": 1037,
+      "lastSentence": 1051,
+      "cvs": "23:13-25"
     },
     "MAT": {
-      "fromChapter": "27",
-      "toChapter": "27",
-      "fromVerse": "15",
-      "toVerse": "26",
-      "fromJuxta": "1045",
-      "toJuxta": "1059"
+      "firstSentence": 1045,
+      "lastSentence": 1059,
+      "cvs": "27:15-26"
     },
     "JHN": {
-      "fromChapter": "18",
-      "toChapter": "18",
-      "fromVerse": "39",
-      "toVerse": "19",
-      "fromJuxta": "862",
-      "toJuxta": "892"
+      "firstSentence": 862,
+      "lastSentence": 892,
+      "cvs": "18:39-19"
     }
   },
   "soldiers-mock-jesus-2": {
     "MRK": {
-      "fromChapter": "15",
-      "toChapter": "15",
-      "fromVerse": "16",
-      "toVerse": "20",
-      "fromJuxta": "679",
-      "toJuxta": "683"
+      "firstSentence": 679,
+      "lastSentence": 683,
+      "cvs": "15:16-20"
     },
     "LUK": {},
     "MAT": {
-      "fromChapter": "27",
-      "toChapter": "27",
-      "fromVerse": "27",
-      "toVerse": "31",
-      "fromJuxta": "1060",
-      "toJuxta": "1063"
+      "firstSentence": 1060,
+      "lastSentence": 1063,
+      "cvs": "27:27-31"
     },
     "JHN": {
-      "fromChapter": "19",
-      "toChapter": "19",
-      "fromVerse": "2",
-      "toVerse": "3",
-      "fromJuxta": "866",
-      "toJuxta": "867"
+      "firstSentence": 866,
+      "lastSentence": 867,
+      "cvs": "19:2-3"
     }
   },
   "soldiers-crucify-jesus": {
     "MRK": {
-      "fromChapter": "15",
-      "toChapter": "15",
-      "fromVerse": "21",
-      "toVerse": "32",
-      "fromJuxta": "684",
-      "toJuxta": "695"
+      "firstSentence": 684,
+      "lastSentence": 695,
+      "cvs": "15:21-32"
     },
     "LUK": {
-      "fromChapter": "23",
-      "toChapter": "23",
-      "fromVerse": "26",
-      "toVerse": "43",
-      "fromJuxta": "1052",
-      "toJuxta": "1069"
+      "firstSentence": 1052,
+      "lastSentence": 1069,
+      "cvs": "23:26-43"
     },
     "MAT": {
-      "fromChapter": "27",
-      "toChapter": "27",
-      "fromVerse": "32",
-      "toVerse": "44",
-      "fromJuxta": "1064",
-      "toJuxta": "1076"
+      "firstSentence": 1064,
+      "lastSentence": 1076,
+      "cvs": "27:32-44"
     },
     "JHN": {
-      "fromChapter": "19",
-      "toChapter": "19",
-      "fromVerse": "17",
-      "toVerse": "27",
-      "fromJuxta": "893",
-      "toJuxta": "905"
+      "firstSentence": 893,
+      "lastSentence": 905,
+      "cvs": "19:17-27"
     }
   },
   "jesus-dies": {
     "MRK": {
-      "fromChapter": "15",
-      "toChapter": "15",
-      "fromVerse": "33",
-      "toVerse": "41",
-      "fromJuxta": "696",
-      "toJuxta": "704"
+      "firstSentence": 696,
+      "lastSentence": 704,
+      "cvs": "15:33-41"
     },
     "LUK": {
-      "fromChapter": "23",
-      "toChapter": "23",
-      "fromVerse": "44",
-      "toVerse": "49",
-      "fromJuxta": "1070",
-      "toJuxta": "1076"
+      "firstSentence": 1070,
+      "lastSentence": 1076,
+      "cvs": "23:44-49"
     },
     "MAT": {
-      "fromChapter": "27",
-      "toChapter": "27",
-      "fromVerse": "45",
-      "toVerse": "56",
-      "fromJuxta": "1077",
-      "toJuxta": "1086"
+      "firstSentence": 1077,
+      "lastSentence": 1086,
+      "cvs": "27:45-56"
     },
     "JHN": {
-      "fromChapter": "19",
-      "toChapter": "19",
-      "fromVerse": "28",
-      "toVerse": "30",
-      "fromJuxta": "906",
-      "toJuxta": "909"
+      "firstSentence": 906,
+      "lastSentence": 909,
+      "cvs": "19:28-30"
     }
   },
   "soldier-pierces-side": {
@@ -1382,186 +956,123 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "19",
-      "toChapter": "19",
-      "fromVerse": "31",
-      "toVerse": "37",
-      "fromJuxta": "910",
-      "toJuxta": "915"
+      "firstSentence": 910,
+      "lastSentence": 915,
+      "cvs": "19:31-37"
     }
   },
   "joseph-tomb-jesus": {
     "MRK": {
-      "fromChapter": "15",
-      "toChapter": "15",
-      "fromVerse": "42",
-      "toVerse": "47",
-      "fromJuxta": "705",
-      "toJuxta": "709"
+      "firstSentence": 705,
+      "lastSentence": 709,
+      "cvs": "15:42-47"
     },
     "LUK": {
-      "fromChapter": "23",
-      "toChapter": "23",
-      "fromVerse": "50",
-      "toVerse": "56",
-      "fromJuxta": "1077",
-      "toJuxta": "1083"
+      "firstSentence": 1077,
+      "lastSentence": 1083,
+      "cvs": "23:50-56"
     },
     "MAT": {
-      "fromChapter": "27",
-      "toChapter": "27",
-      "fromVerse": "57",
-      "toVerse": "61",
-      "fromJuxta": "1087",
-      "toJuxta": "1091"
+      "firstSentence": 1087,
+      "lastSentence": 1091,
+      "cvs": "27:57-61"
     },
     "JHN": {
-      "fromChapter": "19",
-      "toChapter": "19",
-      "fromVerse": "38",
-      "toVerse": "42",
-      "fromJuxta": "916",
-      "toJuxta": "921"
+      "firstSentence": 916,
+      "lastSentence": 921,
+      "cvs": "19:38-42"
     }
   },
   "pilate-guard-tomb": {
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "fromChapter": "27",
-      "toChapter": "27",
-      "fromVerse": "62",
-      "toVerse": "66",
-      "fromJuxta": "1092",
-      "toJuxta": "1095"
+      "firstSentence": 1092,
+      "lastSentence": 1095,
+      "cvs": "27:62-66"
     },
     "JHN": {}
   },
   "empty-tomb": {
     "MRK": {
-      "fromChapter": "16",
-      "toChapter": "16",
-      "fromVerse": "1",
-      "toVerse": "8",
-      "fromJuxta": "710",
-      "toJuxta": "720"
+      "firstSentence": 710,
+      "lastSentence": 720,
+      "cvs": "16:1-8"
     },
     "LUK": {
-      "fromChapter": "24",
-      "toChapter": "24",
-      "fromVerse": "1",
-      "toVerse": "12",
-      "fromJuxta": "1084",
-      "toJuxta": "1095"
+      "firstSentence": 1084,
+      "lastSentence": 1095,
+      "cvs": "24:1-12"
     },
     "MAT": {
-      "fromChapter": "28",
-      "toChapter": "28",
-      "fromVerse": "1",
-      "toVerse": "8",
-      "fromJuxta": "1096",
-      "toJuxta": "1105"
+      "firstSentence": 1096,
+      "lastSentence": 1105,
+      "cvs": "28:1-8"
     },
     "JHN": {
-      "fromChapter": "20",
-      "toChapter": "20",
-      "fromVerse": "1",
-      "toVerse": "10",
-      "fromJuxta": "922",
-      "toJuxta": "929"
+      "firstSentence": 922,
+      "lastSentence": 929,
+      "cvs": "20:1-10"
     }
   },
   "jesus-first-appearance": {
     "MRK": {
-      "fromChapter": "16",
-      "toChapter": "16",
-      "fromVerse": "9",
-      "toVerse": "11",
-      "fromJuxta": "721",
-      "toJuxta": "723"
+      "firstSentence": 721,
+      "lastSentence": 723,
+      "cvs": "16:9-11"
     },
     "LUK": {},
     "MAT": {
-      "fromChapter": "28",
-      "toChapter": "28",
-      "fromVerse": "9",
-      "toVerse": "10",
-      "fromJuxta": "1106",
-      "toJuxta": "1109"
+      "firstSentence": 1106,
+      "lastSentence": 1109,
+      "cvs": "28:9-10"
     },
     "JHN": {
-      "fromChapter": "20",
-      "toChapter": "20",
-      "fromVerse": "11",
-      "toVerse": "18",
-      "fromJuxta": "930",
-      "toJuxta": "941"
+      "firstSentence": 930,
+      "lastSentence": 941,
+      "cvs": "20:11-18"
     }
   },
   "jewish-leaders-resurrection-lie": {
     "MRK": {},
     "LUK": {},
     "MAT": {
-      "fromChapter": "28",
-      "toChapter": "28",
-      "fromVerse": "11",
-      "toVerse": "15",
-      "fromJuxta": "1110",
-      "toJuxta": "1114"
+      "firstSentence": 1110,
+      "lastSentence": 1114,
+      "cvs": "28:11-15"
     },
     "JHN": {}
   },
   "jesus-two-disciples": {
-    "MRK": {
-      "fromChapter": "16",
-      "toChapter": "16",
-      "fromVerse": "12",
-      "toVerse": "13",
-      "toJuxta": "725"
-    },
+    "MRK": {},
     "LUK": {
-      "fromChapter": "24",
-      "toChapter": "24",
-      "fromVerse": "13",
-      "toVerse": "35",
-      "fromJuxta": "1096",
-      "toJuxta": "1117"
+      "firstSentence": 1096,
+      "lastSentence": 1117,
+      "cvs": "24:13-35"
     },
     "MAT": {},
     "JHN": {}
   },
   "jesus-eleven-disciples": {
     "MRK": {
-      "fromChapter": "16",
-      "toChapter": "16",
-      "fromVerse": "14",
-      "toVerse": "18",
-      "fromJuxta": "726",
-      "toJuxta": "729"
+      "firstSentence": 726,
+      "lastSentence": 729,
+      "cvs": "16:14-18"
     },
     "LUK": {
-      "fromChapter": "24",
-      "toChapter": "24",
-      "fromVerse": "36",
-      "toVerse": "49",
-      "fromJuxta": "1118",
-      "toJuxta": "1131"
+      "firstSentence": 1118,
+      "lastSentence": 1131,
+      "cvs": "24:36-49"
     },
     "MAT": {
-      "fromChapter": "28",
-      "toChapter": "28",
-      "fromVerse": "16",
-      "toVerse": "20",
-      "fromJuxta": "1115",
-      "toJuxta": "1119"
+      "firstSentence": 1115,
+      "lastSentence": 1119,
+      "cvs": "28:16-20"
     },
     "JHN": {
-      "fromChapter": "20",
-      "toChapter": "20",
-      "fromVerse": "19",
-      "toVerse": "23",
-      "fromJuxta": "942",
-      "toJuxta": "947"
+      "firstSentence": 942,
+      "lastSentence": 947,
+      "cvs": "20:19-23"
     }
   },
   "jesus-thomas": {
@@ -1569,12 +1080,9 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "20",
-      "toChapter": "20",
-      "fromVerse": "24",
-      "toVerse": "31",
-      "fromJuxta": "948",
-      "toJuxta": "956"
+      "firstSentence": 948,
+      "lastSentence": 956,
+      "cvs": "20:24-31"
     }
   },
   "jesus-resurrection-eating": {
@@ -1582,30 +1090,21 @@
     "LUK": {},
     "MAT": {},
     "JHN": {
-      "fromChapter": "21",
-      "toChapter": "21",
-      "fromVerse": "1",
-      "toVerse": "25",
-      "fromJuxta": "957",
-      "toJuxta": "997"
+      "firstSentence": 957,
+      "lastSentence": 997,
+      "cvs": "21:1-25"
     }
   },
   "ascension": {
     "MRK": {
-      "fromChapter": "16",
-      "toChapter": "16",
-      "fromVerse": "19",
-      "toVerse": "20",
-      "fromJuxta": "730",
-      "toJuxta": "732"
+      "firstSentence": 730,
+      "lastSentence": 732,
+      "cvs": "16:19-20"
     },
     "LUK": {
-      "fromChapter": "24",
-      "toChapter": "24",
-      "fromVerse": "50",
-      "toVerse": "53",
-      "fromJuxta": "1132",
-      "toJuxta": "1135"
+      "firstSentence": 1132,
+      "lastSentence": 1135,
+      "cvs": "24:50-53"
     },
     "MAT": {},
     "JHN": {}

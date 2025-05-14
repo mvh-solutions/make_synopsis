@@ -1,0 +1,1613 @@
+{
+  "zacchaeus": {
+    "MRK": {},
+    "LUK": {
+      "fromChapter": "19",
+      "toChapter": "19",
+      "fromVerse": "1",
+      "toVerse": "10",
+      "fromJuxta": "833",
+      "toJuxta": "841"
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "parable-talents": {
+    "MRK": {},
+    "LUK": {
+      "fromChapter": "19",
+      "toChapter": "19",
+      "fromVerse": "11",
+      "toVerse": "27",
+      "fromJuxta": "842",
+      "toJuxta": "859"
+    },
+    "MAT": {
+      "fromChapter": "25",
+      "toChapter": "25",
+      "fromVerse": "14",
+      "toVerse": "30",
+      "fromJuxta": "912",
+      "toJuxta": "933"
+    },
+    "JHN": {}
+  },
+  "entry-jerusalem": {
+    "MRK": {
+      "fromChapter": "11",
+      "toChapter": "11",
+      "fromVerse": "1",
+      "toVerse": "11",
+      "fromJuxta": "450",
+      "toJuxta": "462"
+    },
+    "LUK": {
+      "fromChapter": "19",
+      "toChapter": "19",
+      "fromVerse": "28",
+      "toVerse": "40",
+      "fromJuxta": "860",
+      "toJuxta": "871"
+    },
+    "MAT": {
+      "fromChapter": "21",
+      "toChapter": "21",
+      "fromVerse": "1",
+      "toVerse": "11",
+      "fromJuxta": "705",
+      "toJuxta": "714"
+    },
+    "JHN": {
+      "fromChapter": "12",
+      "toChapter": "12",
+      "fromVerse": "12",
+      "toVerse": "19",
+      "fromJuxta": "598",
+      "toJuxta": "604"
+    }
+  },
+  "jesus-death-crowds": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "12",
+      "toChapter": "12",
+      "fromVerse": "20",
+      "toVerse": "36",
+      "fromJuxta": "605",
+      "toJuxta": "627"
+    }
+  },
+  "jews-reject-jesus": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "12",
+      "toChapter": "12",
+      "fromVerse": "37",
+      "toVerse": "50",
+      "fromJuxta": "628",
+      "toJuxta": "639"
+    }
+  },
+  "jesus-weeps-crowd": {
+    "MRK": {},
+    "LUK": {
+      "fromChapter": "19",
+      "toChapter": "19",
+      "fromVerse": "41",
+      "toVerse": "44",
+      "fromJuxta": "872",
+      "toJuxta": "873"
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "jesus-curses-figtree": {
+    "MRK": {
+      "fromChapter": "11",
+      "toChapter": "11",
+      "fromVerse": "12",
+      "toVerse": "14",
+      "fromJuxta": "463",
+      "toJuxta": "466"
+    },
+    "LUK": {},
+    "MAT": {
+      "fromChapter": "21",
+      "toChapter": "21",
+      "fromVerse": "18",
+      "toVerse": "22",
+      "fromJuxta": "721",
+      "toJuxta": "723"
+    },
+    "JHN": {}
+  },
+  "jesus-cleanses-temple": {
+    "MRK": {
+      "fromChapter": "11",
+      "toChapter": "11",
+      "fromVerse": "15",
+      "toVerse": "19",
+      "fromJuxta": "467",
+      "toJuxta": "472"
+    },
+    "LUK": {
+      "fromChapter": "19",
+      "toChapter": "19",
+      "fromVerse": "45",
+      "toVerse": "48",
+      "fromJuxta": "874",
+      "toJuxta": "875"
+    },
+    "MAT": {
+      "fromChapter": "21",
+      "toChapter": "21",
+      "fromVerse": "12",
+      "toVerse": "17",
+      "fromJuxta": "715",
+      "toJuxta": "720"
+    },
+    "JHN": {
+      "fromChapter": "2",
+      "toChapter": "2",
+      "fromVerse": "13",
+      "toVerse": "22",
+      "fromJuxta": "74",
+      "toJuxta": "83"
+    }
+  },
+  "teaching-figtree": {
+    "MRK": {
+      "fromChapter": "11",
+      "toChapter": "11",
+      "fromVerse": "20",
+      "toVerse": "26",
+      "fromJuxta": "473",
+      "toJuxta": "479"
+    },
+    "LUK": {},
+    "MAT": {
+      "fromChapter": "21",
+      "toChapter": "21",
+      "fromVerse": "20",
+      "toVerse": "22",
+      "fromJuxta": "724",
+      "toJuxta": "726"
+    },
+    "JHN": {}
+  },
+  "jesus-source-authority": {
+    "MRK": {
+      "fromChapter": "11",
+      "toChapter": "11",
+      "fromVerse": "27",
+      "toVerse": "33",
+      "fromJuxta": "480",
+      "toJuxta": "491"
+    },
+    "LUK": {
+      "fromChapter": "20",
+      "toChapter": "20",
+      "fromVerse": "1",
+      "toVerse": "8",
+      "fromJuxta": "876",
+      "toJuxta": "881"
+    },
+    "MAT": {
+      "fromChapter": "21",
+      "toChapter": "21",
+      "fromVerse": "23",
+      "toVerse": "27",
+      "fromJuxta": "727",
+      "toJuxta": "735"
+    },
+    "JHN": {}
+  },
+  "story-two-sons": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "fromChapter": "21",
+      "toChapter": "21",
+      "fromVerse": "28",
+      "toVerse": "32",
+      "fromJuxta": "736",
+      "toJuxta": "744"
+    },
+    "JHN": {}
+  },
+  "parable-wicked-servants": {
+    "MRK": {
+      "fromChapter": "12",
+      "toChapter": "12",
+      "fromVerse": "1",
+      "toVerse": "12",
+      "fromJuxta": "492",
+      "toJuxta": "504"
+    },
+    "LUK": {
+      "fromChapter": "20",
+      "toChapter": "20",
+      "fromVerse": "9",
+      "toVerse": "19",
+      "fromJuxta": "882",
+      "toJuxta": "896"
+    },
+    "MAT": {
+      "fromChapter": "21",
+      "toChapter": "21",
+      "fromVerse": "33",
+      "toVerse": "46",
+      "fromJuxta": "745",
+      "toJuxta": "758"
+    },
+    "JHN": {}
+  },
+  "jesus-parable-wedding": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "1",
+      "toVerse": "14",
+      "fromJuxta": "759",
+      "toJuxta": "770"
+    },
+    "JHN": {}
+  },
+  "question-taxes": {
+    "MRK": {
+      "fromChapter": "12",
+      "toChapter": "12",
+      "fromVerse": "13",
+      "toVerse": "17",
+      "fromJuxta": "505",
+      "toJuxta": "515"
+    },
+    "LUK": {
+      "fromChapter": "20",
+      "toChapter": "20",
+      "fromVerse": "20",
+      "toVerse": "26",
+      "fromJuxta": "897",
+      "toJuxta": "903"
+    },
+    "MAT": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "15",
+      "toVerse": "22",
+      "fromJuxta": "771",
+      "toJuxta": "780"
+    },
+    "JHN": {}
+  },
+  "question-resurrection": {
+    "MRK": {
+      "fromChapter": "12",
+      "toChapter": "12",
+      "fromVerse": "18",
+      "toVerse": "27",
+      "fromJuxta": "516",
+      "toJuxta": "526"
+    },
+    "LUK": {
+      "fromChapter": "20",
+      "toChapter": "20",
+      "fromVerse": "27",
+      "toVerse": "40",
+      "fromJuxta": "904",
+      "toJuxta": "912"
+    },
+    "MAT": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "23",
+      "toVerse": "33",
+      "fromJuxta": "781",
+      "toJuxta": "790"
+    },
+    "JHN": {}
+  },
+  "question-greatest-commandment": {
+    "MRK": {
+      "fromChapter": "12",
+      "toChapter": "12",
+      "fromVerse": "28",
+      "toVerse": "34",
+      "fromJuxta": "527",
+      "toJuxta": "533"
+    },
+    "LUK": {
+      "fromChapter": "10",
+      "toChapter": "10",
+      "fromVerse": "25",
+      "toVerse": "28",
+      "fromJuxta": "478",
+      "toJuxta": "483"
+    },
+    "MAT": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "34",
+      "toVerse": "40",
+      "fromJuxta": "791",
+      "toJuxta": "796"
+    },
+    "JHN": {}
+  },
+  "jesus-question-david": {
+    "MRK": {
+      "fromChapter": "12",
+      "toChapter": "12",
+      "fromVerse": "35",
+      "toVerse": "37",
+      "fromJuxta": "534",
+      "toJuxta": "537"
+    },
+    "LUK": {
+      "fromChapter": "20",
+      "toChapter": "20",
+      "fromVerse": "41",
+      "toVerse": "44",
+      "fromJuxta": "913",
+      "toJuxta": "915"
+    },
+    "MAT": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "41",
+      "toVerse": "46",
+      "fromJuxta": "797",
+      "toJuxta": "802"
+    },
+    "JHN": {}
+  },
+  "jesus-warning-scribes": {
+    "MRK": {
+      "fromChapter": "12",
+      "toChapter": "12",
+      "fromVerse": "38",
+      "toVerse": "40",
+      "fromJuxta": "538",
+      "toJuxta": "539"
+    },
+    "LUK": {
+      "fromChapter": "20",
+      "toChapter": "20",
+      "fromVerse": "45",
+      "toVerse": "47",
+      "fromJuxta": "916",
+      "toJuxta": "916"
+    },
+    "MAT": {
+      "fromChapter": "23",
+      "toChapter": "23",
+      "fromVerse": "1",
+      "toVerse": "36",
+      "fromJuxta": "803",
+      "toJuxta": "848"
+    },
+    "JHN": {}
+  },
+  "jesus-laments-jerusalem": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "fromChapter": "23",
+      "toChapter": "23",
+      "fromVerse": "37",
+      "toVerse": "39",
+      "fromJuxta": "849",
+      "toJuxta": "852"
+    },
+    "JHN": {}
+  },
+  "jesus-widow": {
+    "MRK": {
+      "fromChapter": "12",
+      "toChapter": "12",
+      "fromVerse": "41",
+      "toVerse": "44",
+      "fromJuxta": "540",
+      "toJuxta": "543"
+    },
+    "LUK": {
+      "fromChapter": "21",
+      "toChapter": "21",
+      "fromVerse": "1",
+      "toVerse": "4",
+      "fromJuxta": "917",
+      "toJuxta": "919"
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "jesus-destruction-temple": {
+    "MRK": {
+      "fromChapter": "13",
+      "toChapter": "13",
+      "fromVerse": "1",
+      "toVerse": "2",
+      "fromJuxta": "544",
+      "toJuxta": "546"
+    },
+    "LUK": {
+      "fromChapter": "21",
+      "toChapter": "21",
+      "fromVerse": "5",
+      "toVerse": "6",
+      "fromJuxta": "920",
+      "toJuxta": "920"
+    },
+    "MAT": {
+      "fromChapter": "24",
+      "toChapter": "24",
+      "fromVerse": "1",
+      "toVerse": "2",
+      "fromJuxta": "853",
+      "toJuxta": "855"
+    },
+    "JHN": {}
+  },
+  "jesus-endtimes-suffering": {
+    "MRK": {
+      "fromChapter": "13",
+      "toChapter": "13",
+      "fromVerse": "3",
+      "toVerse": "13",
+      "fromJuxta": "547",
+      "toJuxta": "558"
+    },
+    "LUK": {
+      "fromChapter": "21",
+      "toChapter": "21",
+      "fromVerse": "7",
+      "toVerse": "19",
+      "fromJuxta": "921",
+      "toJuxta": "932"
+    },
+    "MAT": {
+      "fromChapter": "24",
+      "toChapter": "24",
+      "fromVerse": "3",
+      "toVerse": "14",
+      "fromJuxta": "856",
+      "toJuxta": "866"
+    },
+    "JHN": {}
+  },
+  "jesus-endtimes-abominable": {
+    "MRK": {
+      "fromChapter": "13",
+      "toChapter": "13",
+      "fromVerse": "14",
+      "toVerse": "23",
+      "fromJuxta": "559",
+      "toJuxta": "566"
+    },
+    "LUK": {
+      "fromChapter": "21",
+      "toChapter": "21",
+      "fromVerse": "20",
+      "toVerse": "24",
+      "fromJuxta": "933",
+      "toJuxta": "936"
+    },
+    "MAT": {
+      "fromChapter": "24",
+      "toChapter": "24",
+      "fromVerse": "15",
+      "toVerse": "28",
+      "fromJuxta": "867",
+      "toJuxta": "878"
+    },
+    "JHN": {}
+  },
+  "jesus-endtimes-son-man": {
+    "MRK": {
+      "fromChapter": "13",
+      "toChapter": "13",
+      "fromVerse": "24",
+      "toVerse": "27",
+      "fromJuxta": "567",
+      "toJuxta": "568"
+    },
+    "LUK": {
+      "fromChapter": "21",
+      "toChapter": "21",
+      "fromVerse": "25",
+      "toVerse": "28",
+      "fromJuxta": "937",
+      "toJuxta": "939"
+    },
+    "MAT": {
+      "fromChapter": "24",
+      "toChapter": "24",
+      "fromVerse": "29",
+      "toVerse": "31",
+      "fromJuxta": "879",
+      "toJuxta": "881"
+    },
+    "JHN": {}
+  },
+  "parable-figtree": {
+    "MRK": {
+      "fromChapter": "13",
+      "toChapter": "13",
+      "fromVerse": "28",
+      "toVerse": "31",
+      "fromJuxta": "569",
+      "toJuxta": "572"
+    },
+    "LUK": {
+      "fromChapter": "21",
+      "toChapter": "21",
+      "fromVerse": "29",
+      "toVerse": "33",
+      "fromJuxta": "940",
+      "toJuxta": "943"
+    },
+    "MAT": {
+      "fromChapter": "24",
+      "toChapter": "24",
+      "fromVerse": "32",
+      "toVerse": "35",
+      "fromJuxta": "882",
+      "toJuxta": "885"
+    },
+    "JHN": {}
+  },
+  "jesus-endtimes-unexpected": {
+    "MRK": {
+      "fromChapter": "13",
+      "toChapter": "13",
+      "fromVerse": "32",
+      "toVerse": "37",
+      "fromJuxta": "573",
+      "toJuxta": "577"
+    },
+    "LUK": {},
+    "MAT": {
+      "fromChapter": "24",
+      "toChapter": "24",
+      "fromVerse": "36",
+      "toVerse": "44",
+      "fromJuxta": "886",
+      "toJuxta": "894"
+    },
+    "JHN": {}
+  },
+  "jesus-endtimes-watch": {
+    "MRK": {},
+    "LUK": {
+      "fromChapter": "21",
+      "toChapter": "21",
+      "fromVerse": "34",
+      "toVerse": "38",
+      "fromJuxta": "944",
+      "toJuxta": "947"
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "jesus-endtimes-faithful-servant": {
+    "MRK": {},
+    "LUK": {
+      "fromChapter": "12",
+      "toChapter": "12",
+      "fromVerse": "41",
+      "toVerse": "48",
+      "fromJuxta": "590",
+      "toJuxta": "596"
+    },
+    "MAT": {
+      "fromChapter": "24",
+      "toChapter": "24",
+      "fromVerse": "45",
+      "toVerse": "51",
+      "fromJuxta": "895",
+      "toJuxta": "898"
+    },
+    "JHN": {}
+  },
+  "jesus-ten-virgins": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "fromChapter": "25",
+      "toChapter": "25",
+      "fromVerse": "1",
+      "toVerse": "13",
+      "fromJuxta": "899",
+      "toJuxta": "911"
+    },
+    "JHN": {}
+  },
+  "jesus-endtimes-sheep-goats": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "fromChapter": "25",
+      "toChapter": "25",
+      "fromVerse": "31",
+      "toVerse": "46",
+      "fromJuxta": "934",
+      "toJuxta": "947"
+    },
+    "JHN": {}
+  },
+  "plot-against-jesus": {
+    "MRK": {
+      "fromChapter": "14",
+      "toChapter": "14",
+      "fromVerse": "1",
+      "toVerse": "2",
+      "fromJuxta": "578",
+      "toJuxta": "580"
+    },
+    "LUK": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "1",
+      "toVerse": "2",
+      "fromJuxta": "948",
+      "toJuxta": "949"
+    },
+    "MAT": {
+      "fromChapter": "26",
+      "toChapter": "26",
+      "fromVerse": "1",
+      "toVerse": "5",
+      "fromJuxta": "948",
+      "toJuxta": "949"
+    },
+    "JHN": {
+      "fromChapter": "11",
+      "toChapter": "11",
+      "fromVerse": "45",
+      "toVerse": "53",
+      "fromJuxta": "578",
+      "toJuxta": "584"
+    }
+  },
+  "jesus-woman-perfume": {
+    "MRK": {
+      "fromChapter": "14",
+      "toChapter": "14",
+      "fromVerse": "3",
+      "toVerse": "9",
+      "fromJuxta": "581",
+      "toJuxta": "589"
+    },
+    "LUK": {},
+    "MAT": {
+      "fromChapter": "26",
+      "toChapter": "26",
+      "fromVerse": "6",
+      "toVerse": "13",
+      "fromJuxta": "950",
+      "toJuxta": "957"
+    },
+    "JHN": {
+      "fromChapter": "12",
+      "toChapter": "12",
+      "fromVerse": "1",
+      "toVerse": "8",
+      "fromJuxta": "590",
+      "toJuxta": "595"
+    }
+  },
+  "plot-against-lazarus": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "12",
+      "toChapter": "12",
+      "fromVerse": "9",
+      "toVerse": "11",
+      "fromJuxta": "596",
+      "toJuxta": "597"
+    }
+  },
+  "jesus-sells-jesus": {
+    "MRK": {
+      "fromChapter": "14",
+      "toChapter": "14",
+      "fromVerse": "10",
+      "toVerse": "11",
+      "fromJuxta": "590",
+      "toJuxta": "592"
+    },
+    "LUK": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "3",
+      "toVerse": "6",
+      "fromJuxta": "950",
+      "toJuxta": "953"
+    },
+    "MAT": {
+      "fromChapter": "26",
+      "toChapter": "26",
+      "fromVerse": "14",
+      "toVerse": "16",
+      "fromJuxta": "958",
+      "toJuxta": "960"
+    },
+    "JHN": {}
+  },
+  "last-supper-preparation": {
+    "MRK": {
+      "fromChapter": "14",
+      "toChapter": "14",
+      "fromVerse": "12",
+      "toVerse": "16",
+      "fromJuxta": "593",
+      "toJuxta": "597"
+    },
+    "LUK": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "7",
+      "toVerse": "13",
+      "fromJuxta": "954",
+      "toJuxta": "960"
+    },
+    "MAT": {
+      "fromChapter": "26",
+      "toChapter": "26",
+      "fromVerse": "17",
+      "toVerse": "19",
+      "fromJuxta": "961",
+      "toJuxta": "963"
+    },
+    "JHN": {
+      "fromChapter": "13",
+      "toChapter": "13",
+      "fromVerse": "1",
+      "toVerse": "1",
+      "fromJuxta": "640",
+      "toJuxta": "640"
+    }
+  },
+  "jesus-washes-feet": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "13",
+      "toChapter": "13",
+      "fromVerse": "2",
+      "toVerse": "20",
+      "fromJuxta": "641",
+      "toJuxta": "658"
+    }
+  },
+  "jesus-announces-betrayal": {
+    "MRK": {
+      "fromChapter": "14",
+      "toChapter": "14",
+      "fromVerse": "17",
+      "toVerse": "21",
+      "fromJuxta": "598",
+      "toJuxta": "602"
+    },
+    "LUK": {},
+    "MAT": {
+      "fromChapter": "26",
+      "toChapter": "26",
+      "fromVerse": "20",
+      "toVerse": "25",
+      "fromJuxta": "964",
+      "toJuxta": "970"
+    },
+    "JHN": {
+      "fromChapter": "13",
+      "toChapter": "13",
+      "fromVerse": "21",
+      "toVerse": "30",
+      "fromJuxta": "659",
+      "toJuxta": "669"
+    }
+  },
+  "jesus-new-commandment": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "13",
+      "toChapter": "13",
+      "fromVerse": "31",
+      "toVerse": "35",
+      "fromJuxta": "670",
+      "toJuxta": "675"
+    }
+  },
+  "jesus-bread-wine": {
+    "MRK": {
+      "fromChapter": "14",
+      "toChapter": "14",
+      "fromVerse": "22",
+      "toVerse": "26",
+      "fromJuxta": "603",
+      "toJuxta": "607"
+    },
+    "LUK": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "14",
+      "toVerse": "23",
+      "fromJuxta": "961",
+      "toJuxta": "969"
+    },
+    "MAT": {
+      "fromChapter": "26",
+      "toChapter": "26",
+      "fromVerse": "26",
+      "toVerse": "30",
+      "fromJuxta": "971",
+      "toJuxta": "974"
+    },
+    "JHN": {}
+  },
+  "last-supper-disciples-argument": {
+    "MRK": {},
+    "LUK": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "24",
+      "toVerse": "30",
+      "fromJuxta": "970",
+      "toJuxta": "977"
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "jesus-announces-peter-betrayal": {
+    "MRK": {
+      "fromChapter": "14",
+      "toChapter": "14",
+      "fromVerse": "27",
+      "toVerse": "31",
+      "fromJuxta": "608",
+      "toJuxta": "613"
+    },
+    "LUK": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "31",
+      "toVerse": "34",
+      "fromJuxta": "978",
+      "toJuxta": "980"
+    },
+    "MAT": {
+      "fromChapter": "26",
+      "toChapter": "26",
+      "fromVerse": "31",
+      "toVerse": "35",
+      "fromJuxta": "975",
+      "toJuxta": "979"
+    },
+    "JHN": {
+      "fromChapter": "13",
+      "toChapter": "13",
+      "fromVerse": "36",
+      "toVerse": "38",
+      "fromJuxta": "676",
+      "toJuxta": "681"
+    }
+  },
+  "jesus-way-truth-life": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "14",
+      "toChapter": "14",
+      "fromVerse": "1",
+      "toVerse": "14",
+      "fromJuxta": "682",
+      "toJuxta": "697"
+    }
+  },
+  "jesus-sending-spirit": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "14",
+      "toChapter": "14",
+      "fromVerse": "15",
+      "toVerse": "31",
+      "fromJuxta": "698",
+      "toJuxta": "715"
+    }
+  },
+  "jesus-disciples-dwell": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "15",
+      "toChapter": "15",
+      "fromVerse": "1",
+      "toVerse": "17",
+      "fromJuxta": "716",
+      "toJuxta": "735"
+    }
+  },
+  "jesus-world-hates-followers": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "15",
+      "toChapter": "15",
+      "fromVerse": "18",
+      "toVerse": "27",
+      "fromJuxta": "736",
+      "toJuxta": "746"
+    }
+  },
+  "jesus-warning-strengthen": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "16",
+      "toChapter": "16",
+      "fromVerse": "1",
+      "toVerse": "4",
+      "fromJuxta": "747",
+      "toJuxta": "751"
+    }
+  },
+  "jesus-action-spirit": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "16",
+      "toChapter": "16",
+      "fromVerse": "5",
+      "toVerse": "15",
+      "fromJuxta": "752",
+      "toJuxta": "760"
+    }
+  },
+  "jesus-leaving-returning": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "16",
+      "toChapter": "16",
+      "fromVerse": "16",
+      "toVerse": "33",
+      "fromJuxta": "761",
+      "toJuxta": "782"
+    }
+  },
+  "jesus-prayer-disciples": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "17",
+      "toChapter": "17",
+      "fromVerse": "1",
+      "toVerse": "26",
+      "fromJuxta": "783",
+      "toJuxta": "806"
+    }
+  },
+  "jesus-ends-discussion": {
+    "MRK": {},
+    "LUK": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "35",
+      "toVerse": "38",
+      "fromJuxta": "981",
+      "toJuxta": "986"
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "jesus-goto-mount-olivier": {
+    "MRK": {
+      "fromChapter": "14",
+      "toChapter": "14",
+      "fromVerse": "32",
+      "toVerse": "42",
+      "fromJuxta": "614",
+      "toJuxta": "627"
+    },
+    "LUK": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "39",
+      "toVerse": "46",
+      "fromJuxta": "987",
+      "toJuxta": "994"
+    },
+    "MAT": {
+      "fromChapter": "26",
+      "toChapter": "26",
+      "fromVerse": "36",
+      "toVerse": "46",
+      "fromJuxta": "980",
+      "toJuxta": "995"
+    },
+    "JHN": {}
+  },
+  "judas-betrays-jesus": {
+    "MRK": {
+      "fromChapter": "14",
+      "toChapter": "14",
+      "fromVerse": "43",
+      "toVerse": "52",
+      "fromJuxta": "628",
+      "toJuxta": "636"
+    },
+    "LUK": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "47",
+      "toVerse": "53",
+      "fromJuxta": "995",
+      "toJuxta": "1002"
+    },
+    "MAT": {
+      "fromChapter": "26",
+      "toChapter": "26",
+      "fromVerse": "47",
+      "toVerse": "56",
+      "fromJuxta": "996",
+      "toJuxta": "1008"
+    },
+    "JHN": {
+      "fromChapter": "18",
+      "toChapter": "18",
+      "fromVerse": "1",
+      "toVerse": "11",
+      "fromJuxta": "807",
+      "toJuxta": "820"
+    }
+  },
+  "jewish-leaders-question-jesus": {
+    "MRK": {
+      "fromChapter": "14",
+      "toChapter": "14",
+      "fromVerse": "53",
+      "toVerse": "65",
+      "fromJuxta": "637",
+      "toJuxta": "653"
+    },
+    "LUK": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "66",
+      "toVerse": "71",
+      "fromJuxta": "1018",
+      "toJuxta": "1024"
+    },
+    "MAT": {
+      "fromChapter": "26",
+      "toChapter": "26",
+      "fromVerse": "57",
+      "toVerse": "68",
+      "fromJuxta": "1009",
+      "toJuxta": "1022"
+    },
+    "JHN": {
+      "fromChapter": "18",
+      "toChapter": "18",
+      "fromVerse": "12",
+      "toVerse": "14",
+      "fromJuxta": "821",
+      "toJuxta": "823"
+    }
+  },
+  "jewish-leaders-question-jesus-john": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "18",
+      "toChapter": "18",
+      "fromVerse": "19",
+      "toVerse": "24",
+      "fromJuxta": "831",
+      "toJuxta": "837"
+    }
+  },
+  "peter-denies-jesus": {
+    "MRK": {
+      "fromChapter": "14",
+      "toChapter": "14",
+      "fromVerse": "66",
+      "toVerse": "72",
+      "fromJuxta": "654",
+      "toJuxta": "660"
+    },
+    "LUK": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "54",
+      "toVerse": "62",
+      "fromJuxta": "1003",
+      "toJuxta": "1014"
+    },
+    "MAT": {
+      "fromChapter": "26",
+      "toChapter": "26",
+      "fromVerse": "69",
+      "toVerse": "75",
+      "fromJuxta": "1023",
+      "toJuxta": "1030"
+    },
+    "JHN": {
+      "fromChapter": "18",
+      "toChapter": "18",
+      "fromVerse": "15",
+      "toVerse": "18",
+      "fromJuxta": "824",
+      "toJuxta": "830"
+    }
+  },
+  "peter-denies-jesus-john": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "18",
+      "toChapter": "18",
+      "fromVerse": "25",
+      "toVerse": "27",
+      "fromJuxta": "838",
+      "toJuxta": "842"
+    }
+  },
+  "soldiers-mock-jesus": {
+    "MRK": {},
+    "LUK": {
+      "fromChapter": "22",
+      "toChapter": "22",
+      "fromVerse": "63",
+      "toVerse": "65",
+      "fromJuxta": "1015",
+      "toJuxta": "1017"
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "pilate-questions-jesus": {
+    "MRK": {
+      "fromChapter": "15",
+      "toChapter": "15",
+      "fromVerse": "1",
+      "toVerse": "5",
+      "fromJuxta": "661",
+      "toJuxta": "667"
+    },
+    "LUK": {
+      "fromChapter": "23",
+      "toChapter": "23",
+      "fromVerse": "1",
+      "toVerse": "5",
+      "fromJuxta": "1025",
+      "toJuxta": "1030"
+    },
+    "MAT": {
+      "fromChapter": "27",
+      "toChapter": "27",
+      "fromVerse": "1",
+      "toVerse": "2, 11",
+      "fromJuxta": "1031, 1040",
+      "toJuxta": "1044"
+    },
+    "JHN": {
+      "fromChapter": "18",
+      "toChapter": "18",
+      "fromVerse": "28",
+      "toVerse": "38",
+      "fromJuxta": "843",
+      "toJuxta": "861"
+    }
+  },
+  "judas-hanging": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "fromChapter": "27",
+      "toChapter": "27",
+      "fromVerse": "3",
+      "toVerse": "10",
+      "fromJuxta": "1032",
+      "toJuxta": "1039"
+    },
+    "JHN": {}
+  },
+  "jesus-herod-pilate": {
+    "MRK": {},
+    "LUK": {
+      "fromChapter": "23",
+      "toChapter": "23",
+      "fromVerse": "6",
+      "toVerse": "12",
+      "fromJuxta": "1031",
+      "toJuxta": "1036"
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "jesus-barabbas-condemned": {
+    "MRK": {
+      "fromChapter": "15",
+      "toChapter": "15",
+      "fromVerse": "6",
+      "toVerse": "15",
+      "fromJuxta": "668",
+      "toJuxta": "678"
+    },
+    "LUK": {
+      "fromChapter": "23",
+      "toChapter": "23",
+      "fromVerse": "13",
+      "toVerse": "25",
+      "fromJuxta": "1037",
+      "toJuxta": "1051"
+    },
+    "MAT": {
+      "fromChapter": "27",
+      "toChapter": "27",
+      "fromVerse": "15",
+      "toVerse": "26",
+      "fromJuxta": "1045",
+      "toJuxta": "1059"
+    },
+    "JHN": {
+      "fromChapter": "18",
+      "toChapter": "18",
+      "fromVerse": "39",
+      "toVerse": "19",
+      "fromJuxta": "862",
+      "toJuxta": "892"
+    }
+  },
+  "soldiers-mock-jesus-2": {
+    "MRK": {
+      "fromChapter": "15",
+      "toChapter": "15",
+      "fromVerse": "16",
+      "toVerse": "20",
+      "fromJuxta": "679",
+      "toJuxta": "683"
+    },
+    "LUK": {},
+    "MAT": {
+      "fromChapter": "27",
+      "toChapter": "27",
+      "fromVerse": "27",
+      "toVerse": "31",
+      "fromJuxta": "1060",
+      "toJuxta": "1063"
+    },
+    "JHN": {
+      "fromChapter": "19",
+      "toChapter": "19",
+      "fromVerse": "2",
+      "toVerse": "3",
+      "fromJuxta": "866",
+      "toJuxta": "867"
+    }
+  },
+  "soldiers-crucify-jesus": {
+    "MRK": {
+      "fromChapter": "15",
+      "toChapter": "15",
+      "fromVerse": "21",
+      "toVerse": "32",
+      "fromJuxta": "684",
+      "toJuxta": "695"
+    },
+    "LUK": {
+      "fromChapter": "23",
+      "toChapter": "23",
+      "fromVerse": "26",
+      "toVerse": "43",
+      "fromJuxta": "1052",
+      "toJuxta": "1069"
+    },
+    "MAT": {
+      "fromChapter": "27",
+      "toChapter": "27",
+      "fromVerse": "32",
+      "toVerse": "44",
+      "fromJuxta": "1064",
+      "toJuxta": "1076"
+    },
+    "JHN": {
+      "fromChapter": "19",
+      "toChapter": "19",
+      "fromVerse": "17",
+      "toVerse": "27",
+      "fromJuxta": "893",
+      "toJuxta": "905"
+    }
+  },
+  "jesus-dies": {
+    "MRK": {
+      "fromChapter": "15",
+      "toChapter": "15",
+      "fromVerse": "33",
+      "toVerse": "41",
+      "fromJuxta": "696",
+      "toJuxta": "704"
+    },
+    "LUK": {
+      "fromChapter": "23",
+      "toChapter": "23",
+      "fromVerse": "44",
+      "toVerse": "49",
+      "fromJuxta": "1070",
+      "toJuxta": "1076"
+    },
+    "MAT": {
+      "fromChapter": "27",
+      "toChapter": "27",
+      "fromVerse": "45",
+      "toVerse": "56",
+      "fromJuxta": "1077",
+      "toJuxta": "1086"
+    },
+    "JHN": {
+      "fromChapter": "19",
+      "toChapter": "19",
+      "fromVerse": "28",
+      "toVerse": "30",
+      "fromJuxta": "906",
+      "toJuxta": "909"
+    }
+  },
+  "soldier-pierces-side": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "19",
+      "toChapter": "19",
+      "fromVerse": "31",
+      "toVerse": "37",
+      "fromJuxta": "910",
+      "toJuxta": "915"
+    }
+  },
+  "joseph-tomb-jesus": {
+    "MRK": {
+      "fromChapter": "15",
+      "toChapter": "15",
+      "fromVerse": "42",
+      "toVerse": "47",
+      "fromJuxta": "705",
+      "toJuxta": "709"
+    },
+    "LUK": {
+      "fromChapter": "23",
+      "toChapter": "23",
+      "fromVerse": "50",
+      "toVerse": "56",
+      "fromJuxta": "1077",
+      "toJuxta": "1083"
+    },
+    "MAT": {
+      "fromChapter": "27",
+      "toChapter": "27",
+      "fromVerse": "57",
+      "toVerse": "61",
+      "fromJuxta": "1087",
+      "toJuxta": "1091"
+    },
+    "JHN": {
+      "fromChapter": "19",
+      "toChapter": "19",
+      "fromVerse": "38",
+      "toVerse": "42",
+      "fromJuxta": "916",
+      "toJuxta": "921"
+    }
+  },
+  "pilate-guard-tomb": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "fromChapter": "27",
+      "toChapter": "27",
+      "fromVerse": "62",
+      "toVerse": "66",
+      "fromJuxta": "1092",
+      "toJuxta": "1095"
+    },
+    "JHN": {}
+  },
+  "empty-tomb": {
+    "MRK": {
+      "fromChapter": "16",
+      "toChapter": "16",
+      "fromVerse": "1",
+      "toVerse": "8",
+      "fromJuxta": "710",
+      "toJuxta": "720"
+    },
+    "LUK": {
+      "fromChapter": "24",
+      "toChapter": "24",
+      "fromVerse": "1",
+      "toVerse": "12",
+      "fromJuxta": "1084",
+      "toJuxta": "1095"
+    },
+    "MAT": {
+      "fromChapter": "28",
+      "toChapter": "28",
+      "fromVerse": "1",
+      "toVerse": "8",
+      "fromJuxta": "1096",
+      "toJuxta": "1105"
+    },
+    "JHN": {
+      "fromChapter": "20",
+      "toChapter": "20",
+      "fromVerse": "1",
+      "toVerse": "10",
+      "fromJuxta": "922",
+      "toJuxta": "929"
+    }
+  },
+  "jesus-first-appearance": {
+    "MRK": {
+      "fromChapter": "16",
+      "toChapter": "16",
+      "fromVerse": "9",
+      "toVerse": "11",
+      "fromJuxta": "721",
+      "toJuxta": "723"
+    },
+    "LUK": {},
+    "MAT": {
+      "fromChapter": "28",
+      "toChapter": "28",
+      "fromVerse": "9",
+      "toVerse": "10",
+      "fromJuxta": "1106",
+      "toJuxta": "1109"
+    },
+    "JHN": {
+      "fromChapter": "20",
+      "toChapter": "20",
+      "fromVerse": "11",
+      "toVerse": "18",
+      "fromJuxta": "930",
+      "toJuxta": "941"
+    }
+  },
+  "jewish-leaders-resurrection-lie": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {
+      "fromChapter": "28",
+      "toChapter": "28",
+      "fromVerse": "11",
+      "toVerse": "15",
+      "fromJuxta": "1110",
+      "toJuxta": "1114"
+    },
+    "JHN": {}
+  },
+  "jesus-two-disciples": {
+    "MRK": {
+      "fromChapter": "16",
+      "toChapter": "16",
+      "fromVerse": "12",
+      "toVerse": "13",
+      "toJuxta": "725"
+    },
+    "LUK": {
+      "fromChapter": "24",
+      "toChapter": "24",
+      "fromVerse": "13",
+      "toVerse": "35",
+      "fromJuxta": "1096",
+      "toJuxta": "1117"
+    },
+    "MAT": {},
+    "JHN": {}
+  },
+  "jesus-eleven-disciples": {
+    "MRK": {
+      "fromChapter": "16",
+      "toChapter": "16",
+      "fromVerse": "14",
+      "toVerse": "18",
+      "fromJuxta": "726",
+      "toJuxta": "729"
+    },
+    "LUK": {
+      "fromChapter": "24",
+      "toChapter": "24",
+      "fromVerse": "36",
+      "toVerse": "49",
+      "fromJuxta": "1118",
+      "toJuxta": "1131"
+    },
+    "MAT": {
+      "fromChapter": "28",
+      "toChapter": "28",
+      "fromVerse": "16",
+      "toVerse": "20",
+      "fromJuxta": "1115",
+      "toJuxta": "1119"
+    },
+    "JHN": {
+      "fromChapter": "20",
+      "toChapter": "20",
+      "fromVerse": "19",
+      "toVerse": "23",
+      "fromJuxta": "942",
+      "toJuxta": "947"
+    }
+  },
+  "jesus-thomas": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "20",
+      "toChapter": "20",
+      "fromVerse": "24",
+      "toVerse": "31",
+      "fromJuxta": "948",
+      "toJuxta": "956"
+    }
+  },
+  "jesus-resurrection-eating": {
+    "MRK": {},
+    "LUK": {},
+    "MAT": {},
+    "JHN": {
+      "fromChapter": "21",
+      "toChapter": "21",
+      "fromVerse": "1",
+      "toVerse": "25",
+      "fromJuxta": "957",
+      "toJuxta": "997"
+    }
+  },
+  "ascension": {
+    "MRK": {
+      "fromChapter": "16",
+      "toChapter": "16",
+      "fromVerse": "19",
+      "toVerse": "20",
+      "fromJuxta": "730",
+      "toJuxta": "732"
+    },
+    "LUK": {
+      "fromChapter": "24",
+      "toChapter": "24",
+      "fromVerse": "50",
+      "toVerse": "53",
+      "fromJuxta": "1132",
+      "toJuxta": "1135"
+    },
+    "MAT": {},
+    "JHN": {}
+  }
+}
